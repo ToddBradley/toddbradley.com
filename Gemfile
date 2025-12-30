@@ -12,3 +12,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
 end
 gem "jekyll-archives", "~> 2.3"
+
+group :test do
+  gem "html-proofer", "~> 5.0"
+end
