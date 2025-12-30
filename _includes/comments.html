@@ -1,0 +1,13 @@
+{% assign post_id = page.path | split: "/" | last | split: "-" | last | replace: ".md", "" %}
+{% assign comments = site.data.comments[post_id] %}
+
+{% if comments %}
+  <div id="migrated-comments" class="mt-5">
+    <h3 class="mb-4">{{ comments.size }} Migrated Comments</h3>
+    <div class="comment-list">
+      {% for comment in comments %}
+        {% include comment-item.html comment=comment %}
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}

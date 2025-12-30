@@ -1,0 +1,22 @@
+- author: John
+  date: '2014-06-06T19:19:54-06:00'
+  text: 'If you replace the pdf combiner line with:
+
+    “gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=dcc-zeros.pdf sheet.*.pdf”
+
+    then it should work on linux (or any machine with ghostscript, in theory )
+
+    Ghostscript should be available on OSX, also.'
+  avatar: null
+  replies: null
+- author: Purple Sorcerer
+  date: '2014-06-27T23:34:04-06:00'
+  text: Very cool Todd! Do you see much of a delay with the server response when you
+    do a batch of 20?
+  avatar: null
+  replies:
+  - author: todd
+    date: '2014-06-28T02:33:18-06:00'
+    text: Nothing significant. All 20 PDFs are retrieved at essentially network speed.
+    avatar: null
+    replies: null
