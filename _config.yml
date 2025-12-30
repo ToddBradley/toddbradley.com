@@ -21,14 +21,12 @@
 title: Todd Bradley's Galaxy
 email: todd@toddbradley.com
 author: Todd Bradley
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: The personal blog of Todd Bradley, covering technology, travel, and life in Colorado.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://toddbradley.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /posts/:slug/
-github_username: todd@toddbradley.com
+timezone: America/Denver
+github_username: ToddBradley
 avatar: /assets/img/selfie.png
 
 # Build settings
