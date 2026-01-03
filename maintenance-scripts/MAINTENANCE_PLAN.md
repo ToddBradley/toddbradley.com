@@ -9,6 +9,7 @@
   - [ ] Set up a system for users to subscribe to changes.
   - [ ] Extract old subscribers from `wp_comments.csv` and migrate them.
 - [ ] **File Hygiene:**
+  - [ ] **Pages Audit:** Review `pages/` directory. Convert appropriate pages to `_posts` and rename/cleanup others.
   - [ ] Investigate suspicious filenames (e.g., ending in spaces or numbers like `4.md`).
   - [x] **Journal Archives:** Investigate `todd-bradley-s-galaxy-journal-archive-` files (e.g., `pages/todd-bradley-s-galaxy-journal-archive-2000-to-2002.md`). Determine if they are duplicate archives and split or delete them as necessary.
   - [ ] Audit unconverted HTML files to ensure no content is lost.

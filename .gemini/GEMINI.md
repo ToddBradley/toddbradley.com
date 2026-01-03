@@ -22,3 +22,4 @@
 2. Investigate suspicious filenames (e.g., ' 4.md').
 3. Implement comment strategy.
 4. Audit unconverted HTML files.
+5. Review `pages/` directory (convert to posts/rename).
