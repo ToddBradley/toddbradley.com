@@ -1,0 +1,14 @@
+# Markdownlint configuration
+default: true
+
+# Line length - disabled because legacy content has very long lines
+MD013: false
+
+# Images should have alternate text - disabled for legacy content
+MD045: false
+
+# Blank line inside blockquote - common in legacy content
+MD028: false
+
+# Heading levels should only increment by one level at a time
+MD001: false
