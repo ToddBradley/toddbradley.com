@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Todd Bradley's Galaxy » Ahi - The Laptop DAW"
+title: "Ahi - The Laptop DAW"
 permalink: /todd-bradley-s-galaxy-ahi-the-laptop-daw/
 order: 12
 icon: fas fa-file-alt

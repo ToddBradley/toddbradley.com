@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Todd Bradley's Galaxy » boulder.general"
+title: "boulder.general"
 permalink: /todd-bradley-s-galaxy-boulder-general/
 order: 11
 icon: fas fa-file-alt

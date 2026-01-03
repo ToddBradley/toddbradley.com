@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Todd Bradley's Galaxy » Ahi Digital Audio Experiments"
+title: "Ahi Digital Audio Experiments"
 permalink: /todd-bradley-s-galaxy-ahi-digital-audio-experiments/
 order: 21
 icon: fas fa-file-alt

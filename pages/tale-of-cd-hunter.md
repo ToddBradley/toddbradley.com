@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Todd Bradley's Galaxy » The tale of cd.hunter"
+title: "The tale of cd.hunter"
 permalink: /todd-bradley-s-galaxy-the-tale-of-cd-hunter/
 order: 23
 icon: fas fa-file-alt
