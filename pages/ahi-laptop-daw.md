@@ -1271,16 +1271,17 @@ One wrote:
 Another person wrote:
 
 > I don’t know if you got one already, but I just bought mine [Evolution
-> MK-461C] off Ebay for $259 (free shipping) and it just arrived today!! It
-> looks and feels more "professional" than any budget MIDI controller and
-> editing seems much more simple as there is more dedicated controllers.
-> It’s a very new unit whch is why I couldn’t find any info online either.
-> Google is pissing me off. It used to be that I could type in a product name
-> and I’d get several pages of reviews and such about an item. Now when I do it,
-> all I get are online stores that sell the item or at least sell the brand.
-> It’s frustrating. Anyway, I need a couple of days to get acquainted with it
-> and I can let you know what I think if you haven’t already gotten one
-> yourself.
+>
+> > MK-461C] off Ebay for $259 (free shipping) and it just arrived today!! It
+> > looks and feels more "professional" than any budget MIDI controller and
+> > editing seems much more simple as there is more dedicated controllers.
+> > It’s a very new unit whch is why I couldn’t find any info online either.
+> > Google is pissing me off. It used to be that I could type in a product name
+> > and I’d get several pages of reviews and such about an item. Now when I do it,
+> > all I get are online stores that sell the item or at least sell the brand.
+> > It’s frustrating. Anyway, I need a couple of days to get acquainted with it
+> > and I can let you know what I think if you haven’t already gotten one
+> > yourself.
 
 And:
 

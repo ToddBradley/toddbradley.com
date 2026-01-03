@@ -12,3 +12,6 @@ MD028: false
 
 # Heading levels should only increment by one level at a time
 MD001: false
+
+# Link fragments should be valid - disabled for legacy content
+MD051: false

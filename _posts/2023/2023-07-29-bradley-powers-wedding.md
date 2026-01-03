@@ -1,9 +1,9 @@
 ---
-layout: page
 title: "Bradley - Powers Wedding"
+date: 2023-07-29 12:00:00 -0600
+categories: [Wedding]
+tags: [Personal]
 permalink: /bradley-powers-wedding/
-order: 16
-icon: fas fa-file-alt
 ---
 
 [![](https://i0.wp.com/toddbradley.com/wp-content/uploads/2023/08/best-wedding-photos-1.png?resize=750%2C507&ssl=1)](https://i0.wp.com/toddbradley.com/wp-content/uploads/2023/08/best-wedding-photos-1.png?ssl=1)

@@ -173,7 +173,7 @@ Warranty."
 From reading over the one sheet of instructions and thinking about how this
 thing works, I soon made my first realization.
 
-##### Lesson 1: The digital audio feature of the 200A5 is only for output.
+##### Lesson 1: The digital audio feature of the 200A5 is only for output
 
 There is no facility - even with the special cable - for sending a digital
 signal into the laptop.
