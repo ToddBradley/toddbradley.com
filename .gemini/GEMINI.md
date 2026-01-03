@@ -13,12 +13,12 @@
 - `converter.py` used for content migration.
 - `_posts` organized by year.
 - `index.html` configured for pagination.
+- Cleaned up sidebar pages (tabs).
+- Investigated and split 'journal-archive' pages into 52 individual posts.
 
 ## Active Tasks
 
 1. Fix broken image links.
-2. Clean up sidebar pages.
-3. Investigate suspicious filenames (e.g., ' 4.md').
-4. Implement comment strategy.
-5. Audit unconverted HTML files.
-6. Investigate and deduplicate/split 'journal-archive' pages.
+2. Investigate suspicious filenames (e.g., ' 4.md').
+3. Implement comment strategy.
+4. Audit unconverted HTML files.
