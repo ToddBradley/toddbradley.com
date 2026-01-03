@@ -1,0 +1,536 @@
+---
+layout: page
+title: "Todd Bradley's Galaxy » The tale of cd.hunter"
+permalink: /todd-bradley-s-galaxy-the-tale-of-cd-hunter/
+order: 23
+icon: fas fa-file-alt
+---
+
+## The tale of cd.hunter
+
+#### The Tale of ToddBradley404 and
+
+cd.hunter
+
+On June 26, 2004, I placed a bid on [eBay.com](http://www.ebay.com/)
+for auction 4021038168.
+The item up for auction was described as "Harold
+Faltermeyer - FLETCH - complete score, CD."  The seller offered this
+description:
+
+![](/assets/img/converted/s.gif)
+
+![](/assets/img/converted/s.gif)
+
+![](/assets/img/converted/s.gif)
+
+Description
+
+![](/assets/img/converted/s.gif)
+
+![](/assets/img/converted/s.gif)
+
+![](/assets/img/converted/s.gif)
+
+![](/assets/img/converted/s.gif)
+
+                        Item Specifics - Music: CDs
+
+
+
+
+
+                        Genre:
+
+Soundtrack, Theater
+
+                        Album Type:
+
+Full-Length CD
+
+                        Sub-Genre:
+
+Film
+
+                        Condition:
+
+New
+
+![](/assets/img/converted/s.gif)
+
+![](/assets/img/converted/s.gif)
+
+![](/assets/img/converted/s.gif)
+
+Complete Original Motion Picture Score to the
+film "FLETCH" (1985)
+Music composed and performed by Harold Faltermeyer
+CD and INSERTS in MINT CONDITION, very rare collector’s item
+ST. STEPHEN STUDIOS, MST-007
+
+Whoa!  "Sounds awesome," I thought.  It’s a "very rare
+collector’s item" and the bidding is up to a hundred bucks.  Someone
+must’ve gotten hold of the original recordings of the Harold Faltermeyer’s score
+and finally released them!  So I bid a few dollars more than the highest
+bid, and ended up winning the auction.  On 6/27/2004, I submitted payment
+through PayPal of $107.50 for the CD, plus $2.95 for shipping & handling.
+And I figured that for such an expensive, rare, new condition CD, I should pay
+the extra $1.00 for shipping insurance.
+
+Then a chain of unusual events started.  On 7/7/2004, I
+started getting concerned about when this CD might arrive.  Eight full
+business days had passed, which seems like more than enough for a CD to make it
+from New York state to Colorado.  I’ll tell the rest of this story by
+showing you the emails I sent back and forth with the seller of the CD.
+
+7/7/2004 10:18 PM
+
+Hi, could you give me a status on my
+eBay order for item 4021038168 Harold Faltermeyer - FLETCH - complete score,
+CD
+Thanks,
+Todd.
+
+7/8/2004 11:47 AM
+
+hello
+your item "FLETCH" was mailed on
+tuesday morning
+please let me know when you receive
+it
+
+regards
+cd.hunter
+
+Then, the CD did finally arrive in the mail on 7/12/2004.  I was very
+surprised to see that this "very rare collector’s item" was just a CD-R
+someone burned, with a little color printout of a cheesy, handmade CD insert.
+There was no CD label, just a hand-written note with a Sharpie type marker on
+the CD face: Saint Stephen Studios, Fletch, Original Motion Picture
+Soundtrack, MST-007.
+I wrote back to cd.hunter:
+
+The CD arrived today. I have to say
+I’m not satisfied with the purchase, for the following reasons:
+
+1. First, contrary to the
+   description in the eBay auction, this is not a "very rare collector’s item".
+   Somebody (you, perhaps?) ripped the audio track from the "Fletch" DVD to
+   create tracks that augment material that’s available from the widely
+   released "Fletch" soundtrack cassette and album. So, this CD violates the
+   copyrights of at least two entities - the publisher of the soundtrack album
+   and the publisher of the DVD of the film. In taking my money for this,
+   you’ve broken both US copyright law and the eBay rules of conduct.
+2. The cover art on the CD isn’t the
+   same as the image you used to promote the auction on eBay. Bait-and-switch
+   violates another eBay rule of conduct.
+3. The CD insert says "NOT FOR
+   RESALE". So, either St. Stephen Studios (the purported licensor of this
+   material) is a company you made up, in which case you’re the one who broke
+   the copyright laws. Or, you bought this from someone else who claims to own
+   the license, and then violated their license by reselling it. Either way,
+   you obtained and/or sold this dishonestly.
+4. I believe you lied to me when you
+   wrote that the CD was mailed "Tuesday morning". The USPS label on the
+   envelope says you mailed it on July 8, which was Thursday. Not a big deal, I
+   suppose, but it adds up with all the others to make this a fishy deal.
+5. Finally, I paid you an extra
+   dollar for insurance, but there is no insurance sticker on the envelope. I
+   think that money went into your own pocket, not to pay for USPS insurance.
+   What do you have to say about all
+   this?  I’ll hold off submitting my eBay feedback until I see your
+   response.
+   Todd.
+
+cd.hunter wrote back 7/13/2004 11:20 AM
+
+hello
+do you know how many unofficial CD’s
+sold on Ebay daily?
+before you bid always ask seller a
+question about the item, FLETCH never came out on CD officially, so you
+should know from the beginning that is the fan club edition CD, plus I
+didn’t list my CD as - "Released by MCA Records", I didn’t list like many
+seller’s do - "This is original silver pressed factory CD"
+I bought this CD on ebay, so if I
+broke the rule what about the guy who sold this CD to me,
+always ask question before you bid -
+that’s why ebay has that option. yes you paid the money for the insurance
+and if your CD gets lost in the mail - I return your money back and that’s
+how insurance works with me. I will leave a positive feedback to you.
+regards
+cd.hunter
+
+So, I replied 7/13/2004 11:46 AM:
+
+Is that your final answer - that
+other people break the law and eBay’s policies and therefore it’s OK for you
+to do the same? And are you saying that it’s my fault that you sold
+something that doesn’t meet the advertised description?
+Todd.
+
+The simple and short reply from cd.hunter on 7/13/2004 2:03 PM was:
+
+listen TODD you’re nasty,
+
+I suspect he was going to write more (given that most people don’t end
+emails with a comma), but that was it.
+
+Then, I got another reply at 7/13/2004 3:05 PM:
+
+hello
+listen let me give you something for
+free,
+I have very rare score by Harold
+Faltermeyer from 1983 "Didi-Der Doppelganger", released only on LP in
+Germany, I will transfer the music for you on CD. email me your mailing
+address again, trust me - if you Harold Faltermeyer’s fan - you will love
+this score.
+regards
+cd.hunter
+
+I wrote back 7/13/2004 5:15 PM:
+
+You’re quite the work! I think the
+right thing for you to do would be to offer a full refund of the purchase
+price, plus what I paid for shipping & handling and insurance. If I accept
+the Fletch CD from you, it would make me a federal criminal, also.  And
+accepting another CD of stolen material would add a second crime! "No,
+thanks" to that!
+Todd.
+
+cd.hunter replied 7/13/2004 8:34 PM:
+
+hello
+you are a crime to ebay site Ok Todd
+you need to learn how to use ebay
+site before you bid for something
+I did everything according to the
+ebay rules, I sold over 400 CD’s on Ebay ok, your job was to ask me
+questions before bidding just like other bidders did, a seller must respond
+with an answer and if you don’t like the answer you don’t have to bid for
+the item, please read my feedback, how come everybody is happy with me?
+you know why everybody is happy with
+my items because they ask questions before they buy something, 221 happy
+ebay members none of them say things like you do, I respond to anyone with a
+questions about my items. leave me a feedback Todd and I’ll leave one for
+you too
+thank you
+cd.hunter
+
+It’s amusing how he tried to turn this all back around on me.  In
+complaining about his illegal and unfair eBay sale, I’ve turned into the
+criminal.  He actually seems to think he "did everything according to the
+ebay rules."
+Apparently, cd.hunter feels he’s above
+[the
+rule](http://pages.ebay.com/help/policies/unauthorized-copies.html) that says not to sell "Pirated copies of music."
+
+7/14/2004 9:30 PM
+I was tempted to write back to cd.hunter with something like, "Maybe you
+didn’t sell those other 221 happy eBay members illegal goods!"  Or, "Who
+the hell are you to tell me how to use eBay?  I’ve been a member for
+twice as long as you (since January 1999) and have never had a single major
+problem with a seller until now."
+But I figured this wasn’t going anywhere.  I gave him adequate
+opportunity to do the right thing and offer me my money back, but it was clear
+he wasn’t going to do that.
+So, I wrote up this webpage, filed a complaint to eBay about him, and
+entered negative feedback.  I’m not sure whether I should involve the
+RIAA (they seem to like to sue people who trade illegal music), FBI (this was
+illegal interstate commerce), and/or his local authorities (I’ve got
+cd.hunter’s real name and home address, of course, since it was on the
+envelope).  That’s probably all overkill, but I’m unhappy that I got
+ripped off.
+Have any advice for me?  Did I do the right thing?  Did I
+overreact?  Was I unfair?  Should I involve the legal authorities?
+Want an expensive CD of "Fletch" soundtrack music?
+[Email me](mailto:todd@toddbradley.com) your thoughts.
+Shortly after I left negative feedback for cd.hunter and
+published this webpage, I’ve gotten a plethora of panicked emails from him.
+All of a sudden he’s interested in offering me a refund, for some reason.
+At 7/14/2004 10:02 PM, cd.hunter wrote to me:
+
+> hello
+> now you went too far my
+> friend, if you asked me nicely from the beginning to return your money instead
+> of complaining, it didn’t have to be like that. please return my CD "Fletch"
+> and I will refund your money, and please remove all that about me, all because
+> of one CD, please respond ASAP
+
+Then, at 10:07 PM, he followed that up with this:
+
+> hello
+> you was nasty to me,
+> if you not happy with the item just
+> ask for refund
+> you went too far with this bullshit my
+> friend
+> return my item and you’ll get your
+> money back
+> there is sellers selling fake CD’s
+> daily and I sold to you The CD which I
+> bought on EBAY
+> ok you don’t like it return it, but
+> you have to be nice when you talk to
+> people
+> I was nice to you from the beginning
+> Todd
+
+At 10:31 PM, yet another message:
+
+> hello
+> Todd I never asked you to
+> leave me a positive feedback,
+> I said "leave me a feedback"
+> which meant negative since you was not happy on your site you lied about me, I
+> never asked you twice to leave me a
+> positive feedback- where does
+> it show word "positive"
+> please return my item and you
+> get your money back,
+> I will remove everything I
+> wrote and you do the same,
+> I don’t understand you Todd,
+> well who cares right,
+> I can return money only by
+> cash or money order
+
+Then, at 5:46 AM on 7/15/2004, I got this.  Doesn’t
+this guy ever sleep?
+
+> hello
+> Please return my item and
+> you’ll get your money back
+> but you have no right to put
+> all that against me on the internet because it’s between me and you, I can do
+> the same about you, I got your address.
+> I will report you also if you
+> don’t remove your website about me right now I told you I will refund your
+> money and I don’t know why you not responding look you went too far with this,
+> why you did not ask me for the money at the first place
+> I never said leave me a
+> positive feedback, all I said leave me "a feedback" which meant a negative
+> because you was not happy, I
+> don’t know why you posted on your website that I asked you twice about
+> positive feedback, I remember saying that "I wil leave a positive feedback to
+> you"
+> so let’s just finish this
+> quick and you get your money back maybe you’ll help me to get those sellers
+> who got my money and never shipped my items to me, I reported them to Ebay and
+> nothing happend, it happened couple of times.
+
+At 2:17 PM, I got this:
+
+> hello, about "Fletch CD" I
+> sent a lot of emails to you about refunding your money, do you want your money
+> Todd or not, email me at (address removed)
+
+And then at 2:37, yet another message from cd.hunter:
+
+> hello, there is another
+> seller right now on ebay selling another full score by Faltermeyer "FLETCH",
+> why don’t you create a page about him and everybodyelse in the world, his id:
+> (eBay ID removed)
+
+At 8:23 PM (7/15/2004), I wrote a very long reply back to cd.hunter:
+
+> Hello, cd.hunter,
+> It looks like you’ve been
+> wanting to get in touch with me, so let me respond to a few questions in your
+> many emails.
+> please return my CD
+> "Fletch" and I will refund
+> your money,
+> For the moment, I think I’ll
+> hold on to the CD. If I do decide to report this to any legal authorities,
+> they may want it for evidence. I’m still trying to decide whether I should get
+> anyone else involved in this issue. A few people - maybe friends of yours -
+> wrote to me today to tell me I over reacted to this whole thing. So I’m going
+> to think all this over for a few more days.
+> and please remove
+> all that about me,
+> I assume the "all that" you
+> mention is the webpage documenting our transaction. If you’ve done nothing
+> wrong, then what are you afraid of? You said yourself that you’ve followed all
+> the rules.
+> you was nasty to me,
+> I was nasty to you? You’re
+> the one who sold me illegal goods, mis-represented the product, lied to me,
+> and then dishonestly took the insurance money for your own pocket. On top of
+> it all, rather than facing up to what you did, you’ve consistently tried to
+> turn things around as if I’m somehow the "bad guy" in all this.
+> if you not happy with the
+> item just ask for refund
+> What do you think I meant
+> when I wrote to you that the "right thing for you to do would be to offer a
+> full refund of the purchase price, plus what I paid for shipping & handling
+> and insurance"? Is there something unclear about that sentence?
+> there is sellers selling
+> fake CD’s daily and I sold to you
+> The CD which I
+> bought on EBAY
+> You just don’t get it, do
+> you? The fact that other people break the rules is not a valid excuse for you
+> to break them. The eBay rules apply to all of us.
+> ok you don’t like it return
+> it, but you have to be nice when
+> you talk to
+> people
+> I apologize if I have been
+> rude or insulting in any way.
+> I was nice to you from the
+> beginning Todd
+> Do you consider lying and
+> talking down to people to be "nice"? I don’t.
+> I do find it interesting that
+> you were unwilling to offer to refund my money until AFTER I posted negative
+> feedback about the transaction. Why the change of heart? I’d like to know.
+> Todd I never asked you to
+> leave me a positive feedback,
+> You’re right. My mistake. I
+> will correct my webpage immediately.
+> I can return money only by
+> cash or money order
+> What happened to your PayPal
+> access? I sent you the money through PayPal, and so you should be able to
+> refund it the same way.
+> Please return my item and
+> you’ll get your money back
+> but you have no right to put all that against me on the
+> internet because it’s between me and you, I can do the same
+> about you, I got your
+> address.
+> Don’t worry. I promise I
+> won’t make any of your personal information public. Your personal information
+> is just between you, me, eBay, PayPal, and the legal authorities.
+> I will report you also if
+> you don’t remove your website about
+> me right now
+> Why are you concerned about
+> my webpage? It’s 100% factual, isn’t it? Did I write anything that is false?
+> If I have made any factual errors, please point them out.
+> As I said before, if this
+> whole transaction was legitimate, you have nothing to hide. If you followed
+> all the rules, there’s nothing to be ashamed of. If anything, people will see
+> my webpage and just say, "I don’t see anything wrong here. It looks like
+> cd.hunter has done everything 100% correctly, so I have no concerns about
+> buying from him."
+> maybe you’ll help me to get
+> those sellers who got my money
+> and never shipped
+> my items to me,
+> I reported them to Ebay and nothing happend, it happened
+> couple of times.
+> It is indeed a pity when that
+> happens. Deadbeat bidders or sellers are pretty frustrating. Did you pay them
+> through PayPal? If so, there are actions you can take to get your money back.
+
+Todd
+
+7/15/2004 11:41 PM message from cd.hunter:
+
+> hello
+> Todd there is another FLETCH
+> CD for sale by some seller from England on
+> ebay.com
+> well it’s ok for him and
+> others to do so I guess.
+> Todd I visited your website,
+> looks to me like you a nice guy, if I said anything extra please forgive me
+> I’m a good guy, my background is clean, everybody make mistakes ok I’ll send
+> you a money order, please email me your mailing address again, please let me
+> know when it arrives. I’ll remove my feedback if you remove everything about
+> me, I’m not affraid -
+> it’s not right to fight over
+> one CD which was a mistake. I’m planning to
+> cancel my ebay account anyway
+> because someone used my account somehow it was
+> a big mess
+> regards
+> cd.hunter
+
+7/16/2004 8:47 AM message from cd.hunter:
+
+> hello
+> I don’t think you want your
+> money back
+> I think this transaction is
+> an entertainment to you,
+> that’s why you posting
+> everything I email to you on your own site, I’m talking seriously to you and
+> what you do - you laugh at me on your own site, it’s game you want to play,
+> you showing to everyone how nice you are everyone should feel bad for you
+> because you can’t handle problems by
+> yourself
+> well do what you wanna do,
+> you a crazy man,
+> make sure you put this email
+> on your website too,
+> and laugh at me, because you
+> good at it.
+> I guess you like to have
+> enemies, good for you Todd
+
+Then, at 11 PM on Sunday 7/18/2004, cd.hunter requested
+my contact information from eBay.
+
+However, while he was doing that, I was writing an email
+back to him.  I sent that at 11:11 PM, and it said:
+
+> My mailing address is:
+> Todd Bradley
+> 2794 W 12th Avenue Pl
+> Broomfield, CO 80020
+> If you send me a money order
+> for a full refund, I will return the CD. I will not, however, remove my web
+> page. But I do promise that I will add the fact that you gave a full refund to
+> the page. That way, other future buyers will see that you did the right thing
+> in the end. Does that seem fair?
+
+At 6:02 AM on 7/20/2004, I got this message from cd.hunter:
+
+> I don’t know if I should
+> reply to you anymore, because you probably going to post this email on your
+> stupid website and make fun of me
+> You did so much damage to me
+> like complaining to Ebay, leaving me negative feedback, creating that stupid
+> website about me and now you want your money back and you teilling me you’ll
+> never remove your website about me, NO DEAL
+> I have to be out of my mind
+> to say yes
+> I told you if you want your
+> money back you have to remove your entertaining website about me.
+> Other sellers get just
+> negative feedbacks and I get the whole nine yards from you and plus I have to
+> return your money - you a crazy man, I told you we remove all that about us
+> and everyone must be happy.
+> you know what you have to do
+> if you want your money back and I agree to send the money first.
+> Oh my god that’s a good email
+> to post on your website and say again how bad I’m and how good you are because
+> you did everything by the rules. WOW Todd your website getting better and
+> better, soon everyoneo will talk about you. go head do what you want to do I
+> don’t care, but listen it’s just a CD you bought without asking
+
+At 12:01 PM on 7/21/2004, he sent this:
+
+> hello
+> I just visited your website
+> again
+> I went over my emails again
+> and again and
+> I don’t see words like "Todd
+> I will not refund your money"
+> from the begining it was
+> never about the money
+> it was about you trying to
+> show me how good you are and how bad I’m
+> if you not happy with the
+> item you ask for refund right away without telling me what’s right and what’s
+> wrong
+> I was gonna refund your money
+> anyway but you created that website about me and made me look like I don’t
+> want to refund your money and I never said that to you Todd
+> I’m crazy sending you all
+> these emails and making your website look better and better for you

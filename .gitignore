@@ -1,8 +1,18 @@
 _site
 .sass-cache
 .jekyll-cache
-.jekyll-metadata
+.jekyll-metadata*
 vendor
 .DS_Store
 .idea/
 *.log
+
+# Python
+maintenance-scripts/venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Gemini
+.gemini/tmp/
+
