@@ -8,9 +8,9 @@
       link" icon.
 - [ ] **Comments System:** Implement [Giscus](https://github.com/giscus/giscus)
       for discussions.
-- [ ] **Subscriptions:**
-  - [ ] Set up a system for users to subscribe to changes.
-  - [ ] Extract old subscribers from `wp_comments.csv` and migrate them.
+- [x] **Subscriptions:**
+  - [x] Set up a system for users to subscribe to changes.
+  - [x] Extract old subscribers from `wp_comments.csv` and migrate them.
 - [ ] **File Hygiene:**
   - [ ] **Pages Audit:** Review `pages/` directory. Convert appropriate pages
         to `_posts` and rename/cleanup others.

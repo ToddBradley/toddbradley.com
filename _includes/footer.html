@@ -1,0 +1,66 @@
+<!-- The Footer -->
+
+<footer
+  aria-label="Site Info"
+  class="
+    d-flex flex-column justify-content-center text-muted
+    flex-lg-row justify-content-lg-between align-items-lg-center pb-lg-3
+  "
+>
+  <p>
+    {{- '©' }}
+    <time>{{ 'now' | date: '%Y' }}</time>
+
+    {% if site.social.links %}
+      <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
+    {% else %}
+      <em class="fst-normal">{{ site.social.name }}</em>.
+    {% endif %}
+
+    {% if site.data.locales[include.lang].copyright.brief %}
+      <span
+        data-bs-toggle="tooltip"
+        data-bs-placement="top"
+        title="{{ site.data.locales[include.lang].copyright.verbose }}"
+      >
+        {{- site.data.locales[include.lang].copyright.brief -}}
+      </span>
+    {% endif %}
+  </p>
+
+  <!-- Buttondown Subscription Form -->
+  <div class="my-2 my-lg-0">
+    <form
+      action="https://buttondown.email/api/emails/embed-subscribe/ToddBradley"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/ToddBradley', 'popupwindow')"
+      class="embeddable-buttondown-form d-flex align-items-center"
+    >
+      <label for="bd-email" class="visually-hidden">Enter your email</label>
+      <div class="input-group input-group-sm">
+        <input type="email" name="email" id="bd-email" class="form-control" placeholder="Enter your email" required />
+        <button type="submit" class="btn btn-primary">Subscribe</button>
+      </div>
+    </form>
+  </div>
+
+  <p>
+    {%- capture _platform -%}
+      <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>
+    {%- endcapture -%}
+
+    {%- capture _theme -%}
+      <a
+        data-bs-toggle="tooltip"
+        data-bs-placement="top"
+        title="v{{ theme.version }}"
+        href="https://github.com/cotes2020/jekyll-theme-chirpy"
+        target="_blank"
+        rel="noopener"
+      >Chirpy</a>
+    {%- endcapture -%}
+
+    {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
+  </p>
+</footer>
