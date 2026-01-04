@@ -21,4 +21,4 @@ Josh, who also played with a musical group.
 
 Now I’m home trying to get caught up on things - bills,
 email, etc.  Also, I’m going to start Christmas shopping.  But
-before I do that, I’ll update my online [wish list](/).
+before I do that, I’ll update my online wish list.

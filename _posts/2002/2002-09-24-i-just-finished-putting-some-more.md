@@ -8,4 +8,4 @@ categories: [Journal, Archive]
 I just finished putting
 some more wedding related photos up on the site.  They’re the ones of
 the Friday and Saturday before the wedding.  See them and others on the
-[wedding photo page](/).
+wedding photo page.

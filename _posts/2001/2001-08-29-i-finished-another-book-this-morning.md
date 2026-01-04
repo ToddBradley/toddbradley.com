@@ -11,5 +11,5 @@ Sun Chief: The Autobiography of a Hopi Indian, Alexander the Great
 and the Logistics of the Macedonian Army, and Hopi Dwellings.
 I decided it was time to go write some book reviews for Amazon.com, too,
 which I did.  I’d like to say it’s now time for some fiction.  But
-out of the 14 books left on my "books to read" [shelf](/),
+out of the 14 books left on my "books to read" shelf,
 13 are nonfiction.

@@ -10,7 +10,7 @@ project to revamp the photos section of this site.  My photos from my
 [October 2001 vacation](../oct2001/oct2001_page1/) are finally
 up, along with notes of where I went.  Plus, I put several scans of old
 pictures on the site.  You can find it all from the main
-[photos page](/) now.
+photos page now.
 
 Last night, Beth and I went to see Amelie, a French
 film that’s incredibly funny and good.  It’s playing at the Mayan in

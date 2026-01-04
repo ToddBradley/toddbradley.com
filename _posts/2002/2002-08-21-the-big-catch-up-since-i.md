@@ -10,7 +10,7 @@ haven’t been keeping this updated, I figure there’s a lot to write about.
 Here goes.
 
 Wedding Plans.  It’s now less than two weeks
-until Beth and I [get married](/).  I thought we
+until Beth and I get married.  I thought we
 had everything squared away until I realized we still have about 20 things
 on the To Do list between now and then!  I won’t go into any more
 detail since you can learn all about the wedding on its own page.
@@ -35,7 +35,7 @@ More Photos.  I bought a digital camera this
 summer.  The main reason I wanted one was to take to Hawaii with us on
 our honeymoon.  But I’ve made pretty good use of it in other ways.
 For instance, I took a lot of pictures of my bat trip (see above) and some
-of the [pre-wedding barbecue party](/) we
+of the pre-wedding barbecue party we
 had in early August.  After the honeymoon, I should have lots of
 pictures to share with you.
 
@@ -81,7 +81,7 @@ Macintosh.  I definitely want one of the new iMacs with the big screen.
 Recommendations.  I recommend reading
 Interface by Stephen Bury.  That was my summertime sci fi book, I
 guess.  I hope to take more fiction on my honeymoon with me, but most
-of my [backlog of books](/) is nonfiction.  I’d also
+of my backlog of books is nonfiction.  I’d also
 recommend Paris to the Moon.  We’ve seen lots of movies this
 summer, but the ones I most recommend are The Bourne Identity (maybe
 just for the very strange two or three lines of non sequitur

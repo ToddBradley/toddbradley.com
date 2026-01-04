@@ -37,4 +37,4 @@ now have:
 - a guest list - lots of folks
 - invitations - printed up and sitting in a box
 
-And I even started a [wedding web page](/).
+And I even started a wedding web page.

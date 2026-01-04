@@ -7,5 +7,5 @@ categories: [Journal, Archive]
 
 I’ve upgraded my two PCs and I’m
 trying to build a third to run Linux.  Unfortunately, I’ve had quite a few
-problems simply ordering parts!  Read [this](/)
+problems simply ordering parts!  Read this
 to see why I recommend you stay away from Advanced Design of Kentucky.

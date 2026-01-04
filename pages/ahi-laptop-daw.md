@@ -603,8 +603,8 @@ process it.  I followed their instructions exactly, writing out a detailed
 email with all the info they say they need.  So then, of course, they wrote
 back to say I have to do it by phone after all.  Why is it companies do
 that - give you an email interface and then you have to call them anyhow?
-It reminds me of my unhappy experience with [Advance
-Design of KY](/).
+It reminds me of my unhappy experience with Advance
+Design of KY.
 
 #### March 22, 2003
 

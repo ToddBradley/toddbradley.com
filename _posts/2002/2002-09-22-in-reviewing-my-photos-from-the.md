@@ -6,4 +6,4 @@ categories: [Journal, Archive]
 ---
 
 In reviewing my photos from
-the honeymoon, I’ve made [an astounding discovery](/).
+the honeymoon, I’ve made an astounding discovery.

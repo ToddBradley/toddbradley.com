@@ -12,7 +12,7 @@ and have a family history of cholesterol problems, too.  So, I guess
 it’s good to take care of it.
 
 I added a whole bunch of photos to the website today.
-There are now several sets of photos all indexed [here](/).  And I’m going to scan some photos from the Canyonlands
+There are now several sets of photos all indexed here.  And I’m going to scan some photos from the Canyonlands
 vacation we took in the spring.
 
 Also, I’ve been working on revamping the website for the

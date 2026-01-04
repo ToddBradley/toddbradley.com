@@ -31,7 +31,7 @@ me](mailto:todd@toddbradley.com) how I can easily save you 5% on the purchase.
 
 September 2000:  I’ve upgraded my two PCs and I’m
 trying to build a third to run Linux.  Unfortunately, I’ve had quite a few
-problems simply ordering parts!  Read [this](/)
+problems simply ordering parts!  Read this
 to see why I recommend you stay away from Advanced Design of Kentucky.
 
 Summer 2000:  Well, I’m learning to soar.  You know, flying a
