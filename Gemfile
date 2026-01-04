@@ -10,6 +10,7 @@ group :jekyll_plugins do
   gem "jekyll-gist", "~> 1.5"
   gem "jekyll-paginate", "~> 1.1"
   gem "jekyll-sitemap"
+  gem "jekyll-compose"
 end
 gem "jekyll-archives", "~> 2.3"
 
