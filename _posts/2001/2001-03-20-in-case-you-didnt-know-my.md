@@ -21,7 +21,7 @@ told me it would be).  Here’s the traditional Polaroid photo of me
 right after landing.  [Click](<images/First%20Solo%20(big).jpg>)
 for a bigger picture.
 
-[![](/assets/img/converted/First_20Solo_20_edited_.jpg)](<images/First%20Solo%20(big).jpg>)
+[![](/uploads/2001/First_20Solo_20_edited_.jpg)](<images/First%20Solo%20(big).jpg>)
 
 October 2000:  I’m now scooter enabled.  I
 bought a [Xootr](http://www.xootr.com/xootr/default.asp) [Cruz](http://shop.xootr.com/xootr/cruz2.asp)

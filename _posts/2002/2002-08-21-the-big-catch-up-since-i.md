@@ -96,9 +96,9 @@ Finally, I just can’t get over the impression that Donald
 Rumsfeld ("Mr. Secretary") looks a lot like Richard Couch ("Mr.
 Bankruptcy").
 
-![](/assets/img/converted/story.rumsfeld.jpg)
+![](/uploads/2002/story.rumsfeld.jpg)
 
-![](/assets/img/converted/Couch.2.jpg)
+![](/uploads/2002/Couch.2.jpg)
 
 Don
 

@@ -1,0 +1,368 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_posts/2026/2026-01-27-cancer.md",
+			"settings":
+			{
+				"buffer_size": 1016,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"merm",
+				"Build With: Mermaid"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdownp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown p",
+				"Preferences: MarkdownEditing Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/todd/git/toddbradley.com"
+	],
+	"file_history":
+	[
+		"/Users/todd/git/toddbradley.com/toddbradley.com.sublime-project",
+		"/Users/todd/Library/Application Support/Sublime Text/Packages/User/Jekyll.sublime-settings",
+		"/Users/todd/Library/Application Support/Sublime Text/Packages/Jekyll/README.md",
+		"/Users/todd/git/toddbradley.com/_posts/2026/2026-01-25-another-vacation.md",
+		"/Users/todd/git/toddbradley.com/_posts/2026/2026-01-24-rebuilding.md",
+		"/Users/todd/Desktop/Layoff 2026 (Wartsila)/Wartsila Layoff 2026 Notes.md",
+		"/Users/todd/Documents/Health and Fitness/My current medications.txt",
+		"/Users/todd/Documents/Computer Stuff/mysites/toddbradley.com-to-jekyll/toddbradley.com/_posts/2026-01-05-sad-news.md",
+		"/Users/todd/Documents/Health and Fitness/Health Care Logs/Health Care Log - 2026.md",
+		"/Users/todd/Documents/Health and Fitness/Health Care Logs/Health Care Log - 2025.md",
+		"/Users/todd/Documents/Computer Stuff/mysites/toddbradley.com-to-jekyll/converter/README.md",
+		"/Users/todd/Documents/Computer Stuff/mysites/toddbradley.com-to-jekyll/README.md",
+		"/Users/todd/Documents/Computer Stuff/mysites/toddbradley.com-to-jekyll/toddbradley.com downloaded by Wayback Machine Downloader/p-162.html",
+		"/Users/todd/Documents/Games/5e/erics-campaign/Grint backstory.md",
+		"/Users/todd/Documents/Homes/888 N Logan Condo/Master Log of Repairs and Upgrades.md",
+		"/Users/todd/Documents/Car Stuff/2025 Subaru Outback/Subaru Outback maintenance log.md",
+		"/Users/todd/Documents/Homes/888 N Logan Condo/2025 Modine Leak and Floor Damage/Modine Leak of July 2025.md",
+		"/Users/todd/Documents/Homes/Whitey's House/Starlink Notes for Whitey's House.md",
+		"/Users/todd/Documents/My Passwords and Stuff.txt",
+		"/Users/todd/Documents/Games/5e/erics-campaign/Grint additional info.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2025-08-24-Episode-25.md",
+		"/Users/todd/git/notes/personal-notes/unwatched-sci-fi-series.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2025-07-27-Episode-24.md",
+		"/Users/todd/Desktop/Archaeology, Four Corners, and Southwest/Program for Avocational Archaeological Certification (PAAC)/PAAC Credit Tracking.md",
+		"/Users/todd/Documents/888 N Logan Condo/2025 Modine Leak and Floor Damage/Modine Leak of July 2025.md",
+		"/Users/todd/Documents/Games/Godbound/Adventure Log.md",
+		"/Users/todd/git/notes/personal-notes/Eney Beta Trial.md",
+		"/Users/todd/Documents/888 N Logan Condo/Repairs and Upgrades/The Track Lights.md",
+		"/Users/todd/Documents/888 N Logan Condo/Repairs and Upgrades/Modine Problems, Summer 2019.md",
+		"/Users/todd/Documents/888 N Logan Condo/Repairs and Upgrades/Living Room Modine Problems Spring 2022.md",
+		"/Users/todd/Documents/Health and Fitness/Notes from review of my whole body MRI - simonONE.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2025-06-15-Episode-21.md",
+		"/Users/todd/git/notes/personal-notes/fixing-spam.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2025-03-23-Episode-18.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2025-05-18-Episode-19.md",
+		"/Users/todd/mirror-to-nascar",
+		"/Users/todd/Documents/Games/Godbound/Pindor's backstory.md",
+		"/Users/todd/Documents/Health and Fitness/Health Care Logs/Health Care Log - 2024.md",
+		"/Users/todd/Documents/mysites/toddbradley.com-to-jekyll/toddbradley.com downloaded by Wayback Machine Downloader/page_id-7.html",
+		"/Users/todd/Documents/mysites/toddbradley.com-to-jekyll/toddbradley.com downloaded by Wayback Machine Downloader/paged-5-cat-10.html",
+		"/Users/todd/Documents/mysites/toddbradley.com-to-jekyll/toddbradley.com downloaded by Wayback Machine Downloader/page_id-5.html",
+		"/Users/todd/Documents/mysites/toddbradley.com-to-jekyll/README.md",
+		"/Users/todd/Documents/mysites/toddbradley.com-to-jekyll/sitesucked-files-for-work/toddbradley.com/posts/263.md",
+		"/Users/todd/Documents/mysites/toddbradley.com-to-jekyll/sitesucked-files-for-work/toddbradley.com/index﹖p=263.html",
+		"/Users/todd/Documents/mysites/toddbradley.com-to-jekyll/sitesucked-files-for-work/toddbradley.com/index﹖p=2581.html",
+		"/Users/todd/Documents/mysites/toddbradley.com-to-jekyll/sitesucked-files-for-work/toddbradley.com/posts/2581.md",
+		"/Users/todd/git/notes/personal-notes/Television Subscriptions.md",
+		"/Users/todd/Documents/Games/Call of Cthulhu/Call of Cthulhu.md",
+		"/Users/todd/Documents/Denver restaurants that use their own delivery drivers.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2022-05-15-Episode-1.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2022-05-22-Episode-2.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2022-06-12-Episode-3.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2022-07-10-Episode-4.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2022-07-24-Episode-5.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2022-08-14-Episode-6.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2022-08-28-Episode-7.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2024-09-08-Episode-8.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2024-09-22-Episode-9.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2024-10-06-Episode-10.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2024-10-20-Episode-11.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2024-11-17-Episode-12.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2024-12-15-Episode-13.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2025-01-12-Episode-14.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2025-01-26-Episode-15.md",
+		"/Users/todd/git/gin-and-miskatonic/_posts/2025-01-26-Episode-14.md",
+		"/Users/todd/Documents/Games/Ultraviolet Grasslands/Adventure Log.md",
+		"/Users/todd/Documents/Games/Ultraviolet Grasslands/Current PC Levels.md",
+		"/Users/todd/Documents/Games/Ultraviolet Grasslands/The Quest/Key 2 - Savage Biomech Tribe/Savage Biomech Tribe.md",
+		"/Users/todd/Documents/Games/Ultraviolet Grasslands/The Quest/Key 3 - unknown/The Final Key.md",
+		"/Users/todd/Documents/Games/DCCRPG/Heroes of Dorcaster (DCC Campaign)/Adventure 15 - 998th Conclave of Wizards/Challenge Three - The Baton of Perpetual Light.md",
+		"/Users/todd/Documents/Games/Ultraviolet Grasslands/The Quest/Finale - Scout Base Lavande/Scout Base Lavande.md",
+		"/Users/todd/Documents/Games/Ultraviolet Grasslands/The Quest/The Caravan.md",
+		"/Users/todd/Documents/Games/Ultraviolet Grasslands/The Quest/The Astrogator/The Astrogator.md",
+		"/Users/todd/Documents/Games/Ultraviolet Grasslands/The Quest/Savage Biomech Tribe/Savage Biomech Tribe.md",
+		"/Users/todd/Documents/Games/Ultraviolet Grasslands/House Rules.md",
+		"/Users/todd/Documents/Car Stuff/2019 Subaru Impreza/Subaru Impreza maintenance log.md",
+		"/Users/todd/Desktop/Impreza For Sale/Impreza Ad.txt",
+		"/Users/todd/Desktop/Impreza Ad",
+		"/Users/todd/Documents/Games/Ultraviolet Grasslands/Ideas to Work In.md",
+		"/Users/todd/Documents/Games/Ultraviolet Grasslands/The Quest/My UVG Mini Campaign.md",
+		"/Users/todd/Documents/Games/Ultraviolet Grasslands/The Quest/Scout Base Lavande/lavande.mermaid",
+		"/Users/todd/Documents/Games/Ultraviolet Grasslands/The Quest/Scout Base Lavande/Scout Base Lavande.md",
+		"/Users/todd/Documents/Games/Ultraviolet Grasslands/The Quest/mermaid-example.mermaid",
+		"/Users/todd/Documents/Games/DCCRPG/Ildavir Strike Force/Updating Characters to become beast-people.txt",
+		"/Users/todd/Documents/Games/DCCRPG/Ildavir Strike Force/PCs/Aerin the Cleric (Rose).txt",
+		"/Users/todd/git/notes/wartsila-work-notes/tasklist.md",
+		"/Users/todd/git/notes/wartsila-work-notes/misc-notes.md",
+		"/Users/todd/git/notes/personal-notes/Favorite Moab Area Things to Do.md",
+		"/Users/todd/git/notes/personal-notes/career-transition-notes.md",
+		"/Users/todd/git/notes/personal-notes/markdown-editors.md",
+		"/Users/todd/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/Users/todd/Library/Application Support/Sublime Text/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_posts/2026/2026-01-27-cancer.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								537,
+								537
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 73.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "toddbradley.com.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

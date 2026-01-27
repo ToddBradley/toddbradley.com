@@ -22,7 +22,7 @@ He somehow survived country medicine, being shot in the foot as a child (no kidd
 
 A celebration of life is scheduled for June 26, 2021 at 10:30am at The Church at Redstone in Redstone, Colorado. In lieu of flowers, the family suggests donations be made in Ernie Bradley’s name to the Rocky Mountain Bighorn Society (bighornsheep.org) or The Church at Redstone (churchatredstone.com).
 
-![](/assets/img/converted/Ernie-Indoors_ssl-1.png)
+![](/uploads/2021/Ernie-Indoors_ssl-1.png)
 
 ![](https://i0.wp.com/toddbradley.com/wp-content/uploads/2021/02/Ernie-in-Vietnam.png?ssl=1)
 

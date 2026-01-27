@@ -52,42 +52,42 @@ here](#MoreLog).
 vpr MatrixTM Digital
 Parallel Cable for 200A5 Notebooks
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/DigitalCable.jpg)
+![](/uploads/pages/DigitalCable.jpg)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
 Open diplomatic relations between your vpr Matrix 200A5
 notebook and your home stereo speakers for a booming digital
 audio experience. Parallel port, male/female RCA and XLR
 connectors.
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
 Available at BestBuy.com and by order through
 Best Buy stores.
@@ -96,27 +96,27 @@ Best Buy stores.
 
 $249.99
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/products_detail_features_ata_glance.gif)
+![](/uploads/pages/products_detail_features_ata_glance.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
-![](/assets/img/converted/shim.gif)
+![](/uploads/pages/shim.gif)
 
 Product Features
 
@@ -390,4 +390,4 @@ nickname Goldeneared, and gave me this diagram.  His note to me was:
     single RCA digital output. As it states, all views are looking at the ends
     of the cables. Hope this helps.
 
-![](/assets/img/converted/VPR_20Matrix_20Pin_20Schematic.jpg)
+![](/uploads/pages/VPR_20Matrix_20Pin_20Schematic.jpg)
