@@ -7,15 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_posts/2026/2026-01-27-cancer.md",
-			"settings":
-			{
-				"buffer_size": 1016,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -28,6 +19,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"je",
+				"Jekyll: Promote draft to post"
+			],
+			[
+				"jek",
+				"Jekyll: Insert upload"
+			],
 			[
 				"packa",
 				"Package Control: Install Package"
@@ -109,10 +108,20 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/todd/git/toddbradley.com"
+		"/Users/todd/git/toddbradley.com",
+		"/Users/todd/git/toddbradley.com/_drafts",
+		"/Users/todd/git/toddbradley.com/_posts",
+		"/Users/todd/git/toddbradley.com/_posts/2026",
+		"/Users/todd/git/toddbradley.com/assets",
+		"/Users/todd/git/toddbradley.com/uploads",
+		"/Users/todd/git/toddbradley.com/uploads/2026"
 	],
 	"file_history":
 	[
+		"/Users/todd/git/toddbradley.com/_posts/2026/2026-01-04-welcome-back.md",
+		"/Users/todd/git/toddbradley.com/uploads/2025/todd-brooke-blossoms-of-light-2025.png",
+		"/Users/todd/git/toddbradley.com/_posts/2026/2026-01-27-cancer.md",
+		"//Users/todd/git/toddbradley.com/_drafts/thyroid-cancer.markdown",
 		"/Users/todd/git/toddbradley.com/toddbradley.com.sublime-project",
 		"/Users/todd/Library/Application Support/Sublime Text/Packages/User/Jekyll.sublime-settings",
 		"/Users/todd/Library/Application Support/Sublime Text/Packages/Jekyll/README.md",
@@ -243,36 +252,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_posts/2026/2026-01-27-cancer.md",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1016,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								537,
-								537
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -282,7 +261,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 36.0
 	},
 	"layout":
 	{
@@ -336,12 +315,12 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 501.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
