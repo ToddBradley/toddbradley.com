@@ -15,7 +15,7 @@ So, around 2023 I discovered that the State of Colorado was revitalizing its [Pr
 
 In the PAAC program, you accumulate credits for in-person training courses and also for attending webinars. I was already watching a lot of archaeology webinars, so that part's been easy. Think of it like a martial arts "belt" rating. You get a Level 1 belt when you've studied a certain amount, then a Level 2 belt, and so on. The system either goes to Tier 5 or 8; like so many things related to the state government, it says one thing in one place and a contradictory thing in another. I haven't gotten a trophy or a colored belt or even a certificate of achievement to print out - just an email that says I'm now at "Tier 2-Lindenmeier 20+ credit hours". So yay me!
 
-h2: Bonus content:
+## Bonus content
 
 Since archaeology has become something of a ["special interest"](https://en.wikipedia.org/wiki/Special_interest_(autism)) to me, I'm gonna explain one thing that particularly interests me.
 
