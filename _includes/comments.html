@@ -11,3 +11,59 @@
     </div>
   </div>
 {% endif %}
+
+<hr class="mt-5 mb-5">
+
+<div id="new-comments" class="mt-5">
+  <h3 class="mb-4">Leave a Comment</h3>
+  <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b5192300-ffc5-4e03-ab0a-e901a3008a10"
+    data-page-id="{{ page.id | default: page.url }}"
+    data-page-url="{{ page.url | absolute_url }}"
+    data-page-title="{{ page.title }}"
+  ></div>
+  <script>
+    (function() {
+      function getChirpyTheme() {
+        const htmlMode = document.documentElement.getAttribute('data-mode');
+        if (htmlMode === 'dark') return 'dark';
+        if (htmlMode === 'light') return 'light';
+        return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+
+      function updateCusdisTheme() {
+        if (window.CUSDIS && window.CUSDIS.setTheme) {
+          window.CUSDIS.setTheme(getChirpyTheme());
+        }
+      }
+
+      window.addEventListener('message', function(e) {
+        if (e.source === window && e.data && e.data.id === 'theme-mode') {
+          updateCusdisTheme();
+        }
+        
+        try {
+          const msg = typeof e.data === 'string' ? JSON.parse(e.data) : e.data;
+          if (msg.from === 'cusdis' && msg.event === 'onload') {
+            updateCusdisTheme();
+          }
+        } catch (err) {}
+      });
+
+      const observer = new MutationObserver(function(mutations) {
+        mutations.forEach(function(mutation) {
+          if (mutation.attributeName === 'data-mode') {
+            updateCusdisTheme();
+          }
+        });
+      });
+      observer.observe(document.documentElement, { attributes: true });
+
+      window.addEventListener('load', function() {
+        setTimeout(updateCusdisTheme, 1000);
+      });
+    })();
+  </script>
+  <script async defer src="{{ '/assets/js/cusdis.es.js' | relative_url }}"></script>
+</div>
