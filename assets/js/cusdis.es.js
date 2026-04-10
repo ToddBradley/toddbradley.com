@@ -18,24 +18,35 @@ const makeIframeContent = (target) => {
         color-scheme: inherit;
         font-family: "Source Sans Pro", "Microsoft Yahei", sans-serif;
       }
+      body {
+        background: transparent !important;
+      }
       label {
         font-weight: 400 !important;
         font-size: 0.85rem !important;
       }
-      .dark label, .dark div {
-        color: #b3b3b3 !important;
+      /* Force everything to be visible in dark mode */
+      .dark, .dark * {
+        color: #d1d5db !important;
       }
+      .dark .font-medium, .dark .my-2 {
+        color: #ffffff !important;
+      }
+      /* Ensure inputs are visible */
+      input, textarea {
+        background: rgba(255,255,255,0.05) !important;
+        border: 1px solid #444 !important;
+        color: inherit !important;
       }
     </style>
   </head>
   <body>
     <div id="root"></div>
-    <script src="${iframeJsPath}" type="module">
-      
-    <\/script>
+    <script src="${iframeJsPath}" type="module"><\/script>
   </body>
 </html>`;
 };
+
 let singleTonIframe;
 function createIframe(target) {
   if (!singleTonIframe) {
@@ -45,95 +56,55 @@ function createIframe(target) {
   singleTonIframe.srcdoc = makeIframeContent(target);
   singleTonIframe.style.width = "100%";
   singleTonIframe.style.border = "0";
-  singleTonIframe.style.colorScheme = "normal";
-  singleTonIframe.scrolling = "no";
-  singleTonIframe.style.minHeight = "350px";
-
-
+  singleTonIframe.style.background = "transparent";
+  singleTonIframe.style.minHeight = "800px"; // Massive min-height to avoid clipping
+  singleTonIframe.setAttribute("allowtransparency", "true");
   return singleTonIframe;
 }
+
 function postMessage(event, data) {
-  if (singleTonIframe) {
+  if (singleTonIframe && singleTonIframe.contentWindow) {
     singleTonIframe.contentWindow.postMessage(
-      JSON.stringify({
-        from: "cusdis",
-        event,
-        data
-      }), "*"
+      JSON.stringify({ from: "cusdis", event, data }), "*"
     );
   }
 }
+
 function listenEvent(iframe, target) {
-  const darkModeQuery = window.matchMedia("(prefers-color-scheme: dark)");
   const onMessage = (e) => {
     try {
-      const msg = JSON.parse(e.data);
+      const msg = typeof e.data === 'string' ? JSON.parse(e.data) : e.data;
       if (msg.from === "cusdis") {
-        switch (msg.event) {
-          case "onload":
-            {
-              if (target.dataset.theme === "auto") {
-                postMessage(
-                  "setTheme",
-                  darkModeQuery.matches ? "dark" : "light"
-                );
-              }
-            }
-            break;
-          case "resize":
-            {
-              iframe.style.height = (msg.data + 20) + "px"; iframe.style.overflow = "hidden";
-            }
-            break;
+        if (msg.event === "onload") {
+          const isDark = document.documentElement.getAttribute('data-mode') === 'dark' || 
+                         (!document.documentElement.hasAttribute('data-mode') && window.matchMedia('(prefers-color-scheme: dark)').matches);
+          postMessage("setTheme", isDark ? "dark" : "light");
+        } else if (msg.event === "resize") {
+          // Add 200px buffer to ensure everything fits
+          iframe.style.height = (msg.data + 200) + "px";
         }
       }
-    } catch (e2) {
-    }
+    } catch (e2) {}
   };
   window.addEventListener("message", onMessage);
-  function onChangeColorScheme(e) {
-    const isDarkMode = e.matches;
-    if (target.dataset.theme === "auto") {
-      postMessage("setTheme", isDarkMode ? "dark" : "light");
-    }
-  }
-  darkModeQuery.addEventListener("change", onChangeColorScheme);
-  return () => {
-    darkModeQuery.removeEventListener("change", onChangeColorScheme);
-    window.removeEventListener("message", onMessage);
-  };
 }
+
 function render(target) {
   if (target) {
     target.innerHTML = "";
-    const iframe = createIframe(target);
-    target.appendChild(iframe);
+    target.appendChild(createIframe(target));
   }
 }
-window.renderCusdis = render;
-window.CUSDIS.renderTo = render;
-window.CUSDIS.setTheme = function(theme) {
-  postMessage("setTheme", theme);
-};
-function initial() {
-  let target;
-  if (window.cusdisElementId) {
-    target = document.querySelector(`#${window.cusdisElementId}`);
-  } else if (document.querySelector("#cusdis_thread")) {
-    target = document.querySelector("#cusdis_thread");
-  } else if (document.querySelector("#cusdis")) {
-    console.warn(
-      "id `cusdis` is deprecated. Please use `cusdis_thread` instead"
-    );
-    target = document.querySelector("#cusdis");
-  }
-  if (window.CUSDIS_PREVENT_INITIAL_RENDER === true)
-    ;
-  else {
-    if (target) {
+
+window.CUSDIS = {
+  renderTo: render,
+  setTheme: (theme) => postMessage("setTheme", theme),
+  initial: () => {
+    const target = document.querySelector("#cusdis_thread") || document.querySelector("#cusdis");
+    if (target && window.CUSDIS_PREVENT_INITIAL_RENDER !== true) {
       render(target);
     }
   }
-}
-window.CUSDIS.initial = initial;
-initial();
+};
+
+window.CUSDIS.initial();

@@ -25,6 +25,12 @@
   ></div>
   <script>
     (function() {
+      // Fix for trailing slashes in page IDs preventing comment loading
+      const thread = document.getElementById('cusdis_thread');
+      if (thread && thread.dataset.pageId.endsWith('/')) {
+        thread.dataset.pageId = thread.dataset.pageId.slice(0, -1);
+      }
+
       function getChirpyTheme() {
         const htmlMode = document.documentElement.getAttribute('data-mode');
         if (htmlMode === 'dark') return 'dark';
