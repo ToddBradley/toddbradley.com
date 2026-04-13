@@ -17,4 +17,7 @@ To self-host Comentario on Railway, follow these steps:
 5. **Initial Setup:** Once deployed, visit your Comentario URL. The first account you create will automatically become the super-administrator.
 6. **Register Your Website:** Inside the Comentario admin panel, register your website (`toddbradley.com`).
 
-Once you have your Comentario instance running and have its URL, we will need to update the `_includes/comments.html` file to point to your self-hosted instance instead of the nonexistent `comentario.app` SaaS endpoint.
+Once you have your Comentario instance running and have its URL, update the `_includes/comments.html` file to point to your self-hosted instance.
+
+**Update:** The `_includes/comments.html` file has been updated to use the live instance at `https://comentario-production-7369.up.railway.app`.
+
