@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: post
 title: "boulder.general"
+date: 2010-02-05 12:00:00 -0700
 permalink: /todd-bradley-s-galaxy-boulder-general/
-order: 11
-icon: fas fa-file-alt
 ---
 
 ## boulder.general

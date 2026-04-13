@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: post
 title: "Ahi Digital Audio Experiments"
+date: 2003-04-15 12:00:00 -0600
 permalink: /todd-bradley-s-galaxy-ahi-digital-audio-experiments/
-order: 21
-icon: fas fa-file-alt
 ---
 
 ## Ahi Digital Audio Experiments

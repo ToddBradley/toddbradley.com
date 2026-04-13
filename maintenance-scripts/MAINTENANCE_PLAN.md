@@ -6,13 +6,13 @@
       unsuitable pages or front matter).
 - [ ] **Image Links:** Fix broken image links. Change unfixable links to a "bad
       link" icon.
-- [ ] **Comments System:** Implement [Giscus](https://github.com/giscus/giscus)
-      for discussions.
+- [x] **Comments System:** Implement [Cusdis](https://cusdis.com)
+      for discussions (replaces planned Giscus implementation).
 - [x] **Subscriptions:**
   - [x] Set up a system for users to subscribe to changes.
   - [x] Extract old subscribers from `wp_comments.csv` and migrate them.
 - [ ] **File Hygiene:**
-  - [ ] **Pages Audit:** Review `pages/` directory. Convert appropriate pages
+  - [x] **Pages Audit:** Review `pages/` directory. Convert appropriate pages
         to `_posts` and rename/cleanup others.
   - [x] **Suspicious Filenames:** Investigated files ending in spaces or numbers.
         None found; issue resolved.

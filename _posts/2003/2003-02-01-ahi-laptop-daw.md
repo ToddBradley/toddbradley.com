@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: post
 title: "Ahi - The Laptop DAW"
+date: 2003-02-01 12:00:00 -0600
 permalink: /todd-bradley-s-galaxy-ahi-the-laptop-daw/
-order: 12
-icon: fas fa-file-alt
 ---
 
 ## Ahi - The Laptop DAW

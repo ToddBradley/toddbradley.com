@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: post
 title: "The tale of cd.hunter"
+date: 2004-06-26 12:00:00 -0600
 permalink: /todd-bradley-s-galaxy-the-tale-of-cd-hunter/
-order: 23
-icon: fas fa-file-alt
 ---
 
 ## The tale of cd.hunter
