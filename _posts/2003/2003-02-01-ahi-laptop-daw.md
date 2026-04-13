@@ -1298,7 +1298,7 @@ How about this one!
 
     I must say you almost saved my life !!!! 
 
-![:)](/assets/img/converted/icon_smile.gif)
+![:)](/uploads/2006/icon_smile.gif)
 )
 
     Just bought a secondhand Motu 828 some weeks ago to use with my laptop.

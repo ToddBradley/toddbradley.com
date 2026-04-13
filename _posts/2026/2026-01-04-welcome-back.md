@@ -13,6 +13,6 @@ Did you know my blog has been online since the year 2000? Yeah, it's 25 years ol
 
 Anyhow, Brooke and I are doing fine. I have a year's worth of news to catch you up on. But for now, hello and welcome!
 
-![Todd and Brooke at Blossoms of Light](/uploads/2026/todd-brooke-blossoms-of-light-2025.png "Todd and Brooke at Blossoms of Light")
+![Todd and Brooke at Blossoms of Light (Broken Link)](/assets/img/bad-link.svg)
 
 Here we are at the Denver Botanic Gardens for the Blossoms of Light.

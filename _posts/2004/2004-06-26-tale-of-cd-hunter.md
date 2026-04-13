@@ -17,21 +17,21 @@ The item up for auction was described as "Harold
 Faltermeyer - FLETCH - complete score, CD."  The seller offered this
 description:
 
-![](/assets/img/converted/s.gif)
+![](/uploads/2004/s.gif)
 
-![](/assets/img/converted/s.gif)
+![](/uploads/2004/s.gif)
 
-![](/assets/img/converted/s.gif)
+![](/uploads/2004/s.gif)
 
 Description
 
-![](/assets/img/converted/s.gif)
+![](/uploads/2004/s.gif)
 
-![](/assets/img/converted/s.gif)
+![](/uploads/2004/s.gif)
 
-![](/assets/img/converted/s.gif)
+![](/uploads/2004/s.gif)
 
-![](/assets/img/converted/s.gif)
+![](/uploads/2004/s.gif)
 
                         Item Specifics - Music: CDs
 
@@ -55,11 +55,11 @@ Film
 
 New
 
-![](/assets/img/converted/s.gif)
+![](/uploads/2004/s.gif)
 
-![](/assets/img/converted/s.gif)
+![](/uploads/2004/s.gif)
 
-![](/assets/img/converted/s.gif)
+![](/uploads/2004/s.gif)
 
 Complete Original Motion Picture Score to the
 film "FLETCH" (1985)

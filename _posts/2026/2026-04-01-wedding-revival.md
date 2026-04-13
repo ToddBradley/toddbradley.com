@@ -7,7 +7,7 @@ categories: [Wedding]
 
 I woke up this morning with a migraine, which sucks. But my migraine medicine worked, and after a nap I'm back among the living.
 
-![wedding](uploads/2023/best-wedding-photos%20-%208.png)
+![wedding](/uploads/2023/best-wedding-photos - 8.png)
 
 
 ## Wedding and Reception Photos
@@ -29,4 +29,4 @@ And now, three years later, we have plans for a honeymoon! Next month we are goi
 
 In case you don't know the geography of the area (I sure didn't until I started planning the honeymoon), it's like this:
 
-![honeymoon](uploads/2026/honeymoon-map.png)
+![honeymoon](/uploads/2026/honeymoon-map.png)

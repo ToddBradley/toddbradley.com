@@ -15,7 +15,7 @@ yesterday, I got an email from a guy in Poland who wrote:
 
             journal
 
-![:)](/assets/img/converted/icon_smile.gif)
+![:)](/uploads/2006/icon_smile.gif)
 It’s interesting to know how life in the USA looks like.
 
 So, I guess I need to spend some time bringing readers up to

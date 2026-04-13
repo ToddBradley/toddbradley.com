@@ -24,12 +24,8 @@ A celebration of life is scheduled for June 26, 2021 at 10:30am at The Church at
 
 ![](/uploads/2021/Ernie-Indoors_ssl-1.png)
 
-![](https://i0.wp.com/toddbradley.com/wp-content/uploads/2021/02/Ernie-in-Vietnam.png?ssl=1)
+[Ernie-Bradley-Obituary.pdf](..//uploads/2021/Ernie-Bradley-Obituary.pdf)
 
-![](https://i1.wp.com/toddbradley.com/wp-content/uploads/2021/02/Ernie-and-Betty-by-Crystal-River.png?ssl=1)
-
-[Ernie-Bradley-Obituary.docx](https://toddbradley.com/wp-content/uploads/2021/05/Ernie-Bradley-Obituary.docx)[Download](https://toddbradley.com/wp-content/uploads/2021/05/Ernie-Bradley-Obituary.docx)
-[Ernie-Bradley-Obituary.pdf](..//uploads/2021/Ernie-Bradley-Obituary.pdf)[Download](..//uploads/2021/Ernie-Bradley-Obituary.pdf)
 
 ### Short Version for Newspapers
 

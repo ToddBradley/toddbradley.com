@@ -4,7 +4,7 @@
 
 - [x] **Sidebar Cleanup:** Fix items appearing as tabs that shouldn't be (remove
       unsuitable pages or front matter).
-- [ ] **Image Links:** Fix broken image links. Change unfixable links to a "bad
+- [x] **Image Links:** Fix broken image links. Change unfixable links to a "bad
       link" icon.
 - [x] **Comments System:** Implement [Comentario](https://comentario.app/)
       for discussions (replaces planned Cusdis/Giscus implementations).
