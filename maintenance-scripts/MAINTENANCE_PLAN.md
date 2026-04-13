@@ -6,8 +6,8 @@
       unsuitable pages or front matter).
 - [ ] **Image Links:** Fix broken image links. Change unfixable links to a "bad
       link" icon.
-- [x] **Comments System:** Implement [Cusdis](https://cusdis.com)
-      for discussions (replaces planned Giscus implementation).
+- [x] **Comments System:** Implement [Comentario](https://comentario.app/)
+      for discussions (replaces planned Cusdis/Giscus implementations).
 - [x] **Subscriptions:**
   - [x] Set up a system for users to subscribe to changes.
   - [x] Extract old subscribers from `wp_comments.csv` and migrate them.

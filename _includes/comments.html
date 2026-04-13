@@ -16,60 +16,9 @@
 
 <div id="new-comments" class="mt-5">
   <h3 class="mb-4">Leave a Comment</h3>
-  <div id="cusdis_thread"
-    data-host="https://cusdis.com"
-    data-app-id="b5192300-ffc5-4e03-ab0a-e901a3008a10"
-    data-page-id="{{ page.id | default: page.url }}"
-    data-page-url="{{ page.url | absolute_url }}"
-    data-page-title="{{ page.title }}"
-  ></div>
-  <script>
-    (function() {
-      // Fix for trailing slashes in page IDs preventing comment loading
-      const thread = document.getElementById('cusdis_thread');
-      if (thread && thread.dataset.pageId.endsWith('/')) {
-        thread.dataset.pageId = thread.dataset.pageId.slice(0, -1);
-      }
-
-      function getChirpyTheme() {
-        const htmlMode = document.documentElement.getAttribute('data-mode');
-        if (htmlMode === 'dark') return 'dark';
-        if (htmlMode === 'light') return 'light';
-        return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-      }
-
-      function updateCusdisTheme() {
-        if (window.CUSDIS && window.CUSDIS.setTheme) {
-          window.CUSDIS.setTheme(getChirpyTheme());
-        }
-      }
-
-      window.addEventListener('message', function(e) {
-        if (e.source === window && e.data && e.data.id === 'theme-mode') {
-          updateCusdisTheme();
-        }
-        
-        try {
-          const msg = typeof e.data === 'string' ? JSON.parse(e.data) : e.data;
-          if (msg.from === 'cusdis' && msg.event === 'onload') {
-            updateCusdisTheme();
-          }
-        } catch (err) {}
-      });
-
-      const observer = new MutationObserver(function(mutations) {
-        mutations.forEach(function(mutation) {
-          if (mutation.attributeName === 'data-mode') {
-            updateCusdisTheme();
-          }
-        });
-      });
-      observer.observe(document.documentElement, { attributes: true });
-
-      window.addEventListener('load', function() {
-        setTimeout(updateCusdisTheme, 1000);
-      });
-    })();
-  </script>
-  <script async defer src="{{ '/assets/js/cusdis.es.js' | relative_url }}"></script>
+  <script defer src="https://comentario.app/comentario.js"></script>
+  <comentario-comments 
+    data-page-id="{{ page.url }}" 
+    data-title="{{ page.title }}">
+  </comentario-comments>
 </div>
