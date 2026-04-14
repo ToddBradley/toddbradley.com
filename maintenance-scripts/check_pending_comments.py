@@ -14,21 +14,17 @@ def check_pending_comments():
         conn = psycopg2.connect(db_url)
         cur = conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor)
         
-        # We now know the exact table name is 'cm_comments' based on the debug output
         comment_table = 'cm_comments'
         
-        print(f"Using table: {comment_table}")
-        
-        # Dynamically determine the exact column names to avoid schema errors
+        # Dynamically determine the exact column names
         cur.execute(f"SELECT column_name FROM information_schema.columns WHERE table_name = '{comment_table}'")
         columns = [row['column_name'] for row in cur.fetchall()]
-        print(f"Columns in {comment_table}: {columns}")
         
         if not columns:
             print(f"No columns found for {comment_table}. Exiting.")
             return
 
-        # Determine the correct column for creation time based on actual schema
+        # Determine the correct column for creation time
         time_col = 'creationdate' # default fallback
         if 'created_at' in columns:
             time_col = 'created_at'
@@ -39,13 +35,20 @@ def check_pending_comments():
             
         print(f"Using timestamp column: {time_col}")
             
-        # Determine the correct column for state/status
-        state_col = 'state'
-        if 'status' in columns:
-            state_col = 'status'
+        # Instead of 'state = 1', we use the boolean 'is_pending' or similar based on your hint
+        status_condition = "is_pending = TRUE"
+        if 'is_pending' not in columns:
+            # Fallback if the user hint didn't exact match the column name
+            if 'pending' in columns:
+                status_condition = "pending = TRUE"
+            elif 'approved' in columns:
+                status_condition = "approved = FALSE"
+            else:
+                 print(f"Could not find a clear pending/approval column in {columns}")
+                 return
             
         # Ensure the interval is compatible with the timestamp format (usually timestamptz)
-        query = f"SELECT * FROM {comment_table} WHERE {state_col} = 1 AND {time_col} >= NOW() - INTERVAL '65 minutes'"
+        query = f"SELECT * FROM {comment_table} WHERE {status_condition} AND {time_col} >= NOW() - INTERVAL '65 minutes'"
         print(f"Executing query: {query}")
         
         cur.execute(query)
