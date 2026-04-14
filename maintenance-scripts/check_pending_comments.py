@@ -26,9 +26,9 @@ def check_pending_comments():
         print(f"Confirmed columns in {table_name}: {columns}")
 
         # 2. Identify the timestamp column dynamically from the existing columns
-        # Comentario 3.x typically uses 'created_ts' or 'created_at'
+        # Comentario 3.x typically uses 'created_ts', 'created_at', or 'ts_created'
         time_col = None
-        for candidate in ['created_ts', 'created_at', 'creation_date', 'creationdate']:
+        for candidate in ['created_ts', 'created_at', 'creation_date', 'creationdate', 'ts_created']:
             if candidate in columns:
                 time_col = candidate
                 break
@@ -38,7 +38,6 @@ def check_pending_comments():
             return
 
         # 3. Identify the pending status column
-        # Based on your hint, it is 'is_pending'
         status_col = 'is_pending' if 'is_pending' in columns else None
         if not status_col:
             print(f"Error: Could not find 'is_pending' column in {columns}")
