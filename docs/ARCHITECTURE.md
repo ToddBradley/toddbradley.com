@@ -22,7 +22,7 @@ This document outlines how `toddbradley.com` works under the hood. It was migrat
 
 ## Commenting System (Comentario)
 
-Because Jekyll is static, we needed an external system to handle comments. We chose **Comentario** (a modern, open-source fork of Commento). We initially considered using Utterances (which stores comments as GitHub issues), but since that requires every commenter to have a GitHub account, it wasn't a good fit for a general audience blog.
+Because Jekyll is static, we needed an external system to handle comments. We chose **Comentario** (a modern, open-source fork of Commento). We initially considered using **Giscus** (which stores comments as GitHub Discussions), but since that requires every commenter to have a GitHub account, it wasn't a good fit for a general audience blog.
 
 1. **Hosting:** Self-hosted on **Railway** (using their Postgres plugin and Comentario Docker image).
 2. **Frontend Integration:** A Javascript snippet is embedded in `_includes/comments.html` to display the widget at the bottom of posts.
