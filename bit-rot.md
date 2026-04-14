@@ -19,7 +19,7 @@ Coincidentally, years ago, my band **404 Not Found** recorded a song about this 
 If the digital rot hasn't claimed it yet either, you can listen to it right here:
 
 <audio controls>
-  <source src="/404notfound/mp3s/Nightmare%20Lullaby/15%20Bit%20Rot.mp3" type="audio/mpeg">
+  <source src="/assets/audio/BitRot.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
