@@ -8,6 +8,8 @@
       link" icon.
 - [x] **Comments System:** Implement [Comentario](https://comentario.app/)
       for discussions (replaces planned Cusdis/Giscus implementations).
+  - [x] Set up email notification bypass using GitHub Actions.
+  - [ ] Migrate old static YAML comments (`_data/comments/`) into the new Comentario PostgreSQL database.
 - [x] **Subscriptions:**
   - [x] Set up a system for users to subscribe to changes.
   - [x] Extract old subscribers from `wp_comments.csv` and migrate them.
@@ -28,17 +30,11 @@
 
 - [ ] **Legacy Content:** Convert "toddbradley.com before WordPress" content
       into Jekyll pages (verify existence first).
-- [ ] **Migrate Other Sites:** Move other domains hosted by WebHostingHub to
-      Jekyll/static sites:
-  - [ ] ascromintended.com
-  - [ ] lookslikeimgoingnowhere.com
-  - [ ] pookiewookiee.com
-  - [ ] broomfieldrestaurantreviews.com
-  - [ ] tsao.toddbradley.com (check if obsoleted)
-  - [ ] 404notfound (content check)
+- [x] **Migrate Other Sites:** Move other domains hosted by WebHostingHub to
+      Jekyll/static sites (Cancelled/No longer needed).
 
 ## Phase 3: Infrastructure & Hosting
 
-- [ ] **DNS Transition:** Switch registrar from WebHostingHub (Tucows reseller)
-      to Cloudflare (recommended) or AWS/Google.
-- [ ] **Decommission:** Cancel WebHostingHub service.
+- [x] **DNS Transition:** Switch registrar from WebHostingHub (Tucows reseller)
+      to AWS.
+- [x] **Decommission:** Cancel WebHostingHub service.
