@@ -11,11 +11,11 @@ permalink: /todd-bradley-s-galaxy-ahi-the-laptop-daw/
 really impatient type you can skip straight to a [summary of
 lessons learned](#Summary)
 
-![](/uploads/pages/ahi.jpg)
+![](/uploads/2003/ahi.jpg)
 
-![](/uploads/pages/imperial_300_300.jpg)
+![](/uploads/2003/imperial_300_300.jpg)
 
-![](/uploads/pages/ahi2.jpg)
+![](/uploads/2003/ahi2.jpg)
 
 Mission: Attempt to create a digital audio workstation based on a
 modern (as of February 2003) notebook computer.
@@ -176,7 +176,7 @@ Now, I don’t really know anything about Firewire, but I’ve
 math wrong, I should actually be able to pull this off!  And even have
 headroom to spare for recording at a higher bit depth and higher sample rate.
 
-![](/uploads/pages/1394smartidelcdcase03.jpg)
+![](/uploads/2003/1394smartidelcdcase03.jpg)
 
 So I bought the Granite Digital enclosure and a Western Digital 180
 GB 7200 rpm "Special Edition" (meaning it has an 8 MB cache instead of
@@ -209,7 +209,7 @@ use the MIDI interface built into the Layla24.
 Since I already owned a license and know it fairly well, I’m using Cakewalk
 SONAR 2.2. [Note: I’ve since upgraded to 3.0]
 
-![](/uploads/pages/Sonar2_3D_box.gif)
+![](/uploads/2003/Sonar2_3D_box.gif)
 
 I’ve also installed CD Architect, Sound Forge 5.0, Musinum, Sound Raider, and
 my Hyperprism DirectX plugin pack.
