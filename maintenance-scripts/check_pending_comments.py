@@ -14,42 +14,39 @@ def check_pending_comments():
         conn = psycopg2.connect(db_url)
         cur = conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor)
         
-        comment_table = 'cm_comments'
-        
-        # Dynamically determine the exact column names
-        cur.execute(f"SELECT column_name FROM information_schema.columns WHERE table_name = '{comment_table}'")
+        # 1. Get all columns for the comments table
+        table_name = 'cm_comments'
+        cur.execute(f"SELECT column_name FROM information_schema.columns WHERE table_name = '{table_name}'")
         columns = [row['column_name'] for row in cur.fetchall()]
         
         if not columns:
-            print(f"No columns found for {comment_table}. Exiting.")
+            print(f"Error: Table '{table_name}' not found or has no columns.")
             return
 
-        # Determine the correct column for creation time
-        time_col = 'creationdate' # default fallback
-        if 'created_at' in columns:
-            time_col = 'created_at'
-        elif 'creation_date' in columns:
-            time_col = 'creation_date'
-        elif 'created_ts' in columns:
-            time_col = 'created_ts'
-            
-        print(f"Using timestamp column: {time_col}")
-            
-        # Instead of 'state = 1', we use the boolean 'is_pending' or similar based on your hint
-        status_condition = "is_pending = TRUE"
-        if 'is_pending' not in columns:
-            # Fallback if the user hint didn't exact match the column name
-            if 'pending' in columns:
-                status_condition = "pending = TRUE"
-            elif 'approved' in columns:
-                status_condition = "approved = FALSE"
-            else:
-                 print(f"Could not find a clear pending/approval column in {columns}")
-                 return
-            
-        # Ensure the interval is compatible with the timestamp format (usually timestamptz)
-        query = f"SELECT * FROM {comment_table} WHERE {status_condition} AND {time_col} >= NOW() - INTERVAL '65 minutes'"
-        print(f"Executing query: {query}")
+        print(f"Confirmed columns in {table_name}: {columns}")
+
+        # 2. Identify the timestamp column dynamically from the existing columns
+        # Comentario 3.x typically uses 'created_ts' or 'created_at'
+        time_col = None
+        for candidate in ['created_ts', 'created_at', 'creation_date', 'creationdate']:
+            if candidate in columns:
+                time_col = candidate
+                break
+        
+        if not time_col:
+            print(f"Error: Could not find a timestamp column in {columns}")
+            return
+
+        # 3. Identify the pending status column
+        # Based on your hint, it is 'is_pending'
+        status_col = 'is_pending' if 'is_pending' in columns else None
+        if not status_col:
+            print(f"Error: Could not find 'is_pending' column in {columns}")
+            return
+
+        # 4. Construct the query using only known-good columns
+        query = f"SELECT * FROM {table_name} WHERE {status_col} = TRUE AND {time_col} >= NOW() - INTERVAL '65 minutes'"
+        print(f"Executing: {query}")
         
         cur.execute(query)
         pending = cur.fetchall()
@@ -59,12 +56,12 @@ def check_pending_comments():
             return
         
         print(f"Found {len(pending)} pending comment(s). Sending email...")
-        send_email(pending)
+        send_email(pending, columns)
         
     except Exception as e:
         print(f"Error checking comments: {e}")
 
-def send_email(comments):
+def send_email(comments, available_columns):
     sender = os.environ.get('SMTP_USERNAME')
     password = os.environ.get('SMTP_PASSWORD')
     receiver = 'todd@toddbradley.com'
@@ -80,19 +77,32 @@ def send_email(comments):
     
     body = "You have new comments awaiting moderation on toddbradley.com:\n\n"
     for c in comments:
-        # Safely extract fields regardless of exact column names in Comentario version
-        author = c.get('commenter_name') or c.get('author_name') or c.get('author') or c.get('commenterhex') or c.get('author_id') or 'Unknown'
-        text = c.get('markdown') or c.get('html') or c.get('body') or 'No text'
-        path = c.get('path') or c.get('url') or c.get('domain_page_id') or 'Unknown page'
+        # Only reference columns that we know exist
+        author = 'Unknown'
+        for col in ['commenter_name', 'author_name', 'author_id']:
+            if col in available_columns and c.get(col):
+                author = c[col]
+                break
         
-        body += f"Post/Page ID: {path}\nAuthor: {author}\nComment:\n{text}\n"
+        text = 'No content'
+        for col in ['markdown', 'html', 'body']:
+            if col in available_columns and c.get(col):
+                text = c[col]
+                break
+
+        page = 'Unknown page'
+        for col in ['path', 'url', 'domain_page_id']:
+            if col in available_columns and c.get(col):
+                page = c[col]
+                break
+        
+        body += f"Post/Page: {page}\nAuthor: {author}\nComment:\n{text}\n"
         body += "-" * 40 + "\n"
         
     body += "\nManage them here: https://comentario-production-7369.up.railway.app/"
     msg.set_content(body)
     
     try:
-        # Standard Gmail SMTP configuration
         with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
             smtp.login(sender, password)
             smtp.send_message(msg)
