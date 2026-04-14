@@ -56,12 +56,17 @@ script_includes:
         <!-- author(s) -->
         <span>
           {% assign authors = page.author | default: page.authors | default: site.author %}
-          {% assign author_array = authors | split: ',' %}
+          {% if authors.first %}
+            {% assign author_array = authors %}
+          {% else %}
+            {% assign author_array = authors | split: ',' %}
+          {% endif %}
+          
           {% if author_array.size > 0 %}
-            {{ site.data.locales[lang].post.written_by }}
+            By 
             <em>
-              {% for author in author_array %}
-                {% assign author_id = author | strip %}
+              {% for raw_author in author_array %}
+                {% assign author_id = raw_author | strip | replace: '"', '' | replace: '[', '' | replace: ']', '' %}
                 {% if site.data.authors[author_id] %}
                   <a href="{{ site.data.authors[author_id].url }}">{{ site.data.authors[author_id].name }}</a>
                 {% else %}
