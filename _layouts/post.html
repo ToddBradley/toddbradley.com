@@ -55,7 +55,22 @@ script_includes:
       <div class="d-flex justify-content-between">
         <!-- author(s) -->
         <span>
-          <!-- Author info removed -->
+          {% assign authors = page.author | default: page.authors | default: site.author %}
+          {% assign author_array = authors | split: ',' %}
+          {% if author_array.size > 0 %}
+            {{ site.data.locales[lang].post.written_by }}
+            <em>
+              {% for author in author_array %}
+                {% assign author_id = author | strip %}
+                {% if site.data.authors[author_id] %}
+                  <a href="{{ site.data.authors[author_id].url }}">{{ site.data.authors[author_id].name }}</a>
+                {% else %}
+                  {{ author_id }}
+                {% endif %}
+                {% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </em>
+          {% endif %}
         </span>
 
         <div>
