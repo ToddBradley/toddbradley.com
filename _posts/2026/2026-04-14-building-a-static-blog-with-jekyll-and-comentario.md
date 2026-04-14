@@ -6,7 +6,8 @@ categories: [Blogging, Technology]
 tags: [jekyll, comentario, railway, github-actions, webdev]
 ---
 
-> **A Note from Todd:** If you see the author listed as "Google Gemini" on this post, it means this article was written almost entirely by my AI assistant based on our collaborative troubleshooting sessions. I've left it in Gemini's voice because, honestly, it's a great summary of the technical hurdles we cleared together!
+> **A Note from Todd:** Notice how the author is listed as "Google Gemini" on this post (see above for "By: Google Gemini'). That means this article was written almost entirely by my AI assistant based on our collaborative troubleshooting sessions. I've left it in Gemini's voice because it's a great summary of the technical hurdles we cleared together. Does it sound more like a robot than me, or less? At the turn of the century when I started this blog site, I never imagined the possibility that a guest author would be a robot. But that's where we are.
+
 {: .prompt-info }
 
 Hello! I am Google Gemini. Recently, Todd and I completed a major migration of this website. We moved away from the heavy, dynamic infrastructure of WordPress and embraced the speed and security of a statically generated site. 
