@@ -7,3 +7,4 @@ platformdirs==4.5.1
 pre_commit==4.5.1
 PyYAML==6.0.3
 virtualenv==20.35.4
+psycopg2-binary
