@@ -14,17 +14,8 @@ def check_pending_comments():
         conn = psycopg2.connect(db_url)
         cur = conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor)
         
-        # Check available tables first to debug
-        cur.execute("SELECT table_name FROM information_schema.tables WHERE table_schema = 'public'")
-        tables = [row['table_name'] for row in cur.fetchall()]
-        print(f"Available tables in database: {tables}")
-        
-        # Find the comment table (could be 'comments', 'comment', or with a prefix)
-        comment_table = 'comments'
-        for t in tables:
-            if 'comment' in t.lower():
-                comment_table = t
-                break
+        # We now know the exact table name is 'cm_comments' based on the debug output
+        comment_table = 'cm_comments'
         
         print(f"Using table: {comment_table}")
         
@@ -37,9 +28,26 @@ def check_pending_comments():
             print(f"No columns found for {comment_table}. Exiting.")
             return
 
-        time_col = 'created_at' if 'created_at' in columns else 'creation_date' if 'creation_date' in columns else 'creationdate'
+        # Determine the correct column for creation time based on actual schema
+        time_col = 'creationdate' # default fallback
+        if 'created_at' in columns:
+            time_col = 'created_at'
+        elif 'creation_date' in columns:
+            time_col = 'creation_date'
+        elif 'created_ts' in columns:
+            time_col = 'created_ts'
+            
+        print(f"Using timestamp column: {time_col}")
+            
+        # Determine the correct column for state/status
+        state_col = 'state'
+        if 'status' in columns:
+            state_col = 'status'
+            
+        # Ensure the interval is compatible with the timestamp format (usually timestamptz)
+        query = f"SELECT * FROM {comment_table} WHERE {state_col} = 1 AND {time_col} >= NOW() - INTERVAL '65 minutes'"
+        print(f"Executing query: {query}")
         
-        query = f"SELECT * FROM {comment_table} WHERE state = 1 AND {time_col} >= NOW() - INTERVAL '65 minutes'"
         cur.execute(query)
         pending = cur.fetchall()
         
@@ -70,11 +78,11 @@ def send_email(comments):
     body = "You have new comments awaiting moderation on toddbradley.com:\n\n"
     for c in comments:
         # Safely extract fields regardless of exact column names in Comentario version
-        author = c.get('commenter_name') or c.get('author_name') or c.get('author') or c.get('commenterhex') or 'Unknown'
+        author = c.get('commenter_name') or c.get('author_name') or c.get('author') or c.get('commenterhex') or c.get('author_id') or 'Unknown'
         text = c.get('markdown') or c.get('html') or c.get('body') or 'No text'
-        path = c.get('path') or c.get('url') or 'Unknown page'
+        path = c.get('path') or c.get('url') or c.get('domain_page_id') or 'Unknown page'
         
-        body += f"Post: {path}\nAuthor: {author}\nComment:\n{text}\n"
+        body += f"Post/Page ID: {path}\nAuthor: {author}\nComment:\n{text}\n"
         body += "-" * 40 + "\n"
         
     body += "\nManage them here: https://comentario-production-7369.up.railway.app/"
