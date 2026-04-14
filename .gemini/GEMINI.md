@@ -1,7 +1,14 @@
 # Project: toddbradley.com (Jekyll Maintenance)
 
-## Overview
+## AI Mandate: Infrastructure & Cost
+Before suggesting any new tool, service, or infrastructure change (like hosting, databases, or email):
+1. **Explicit Cost Check:** Verify if the service has a "Hobby" or "Free" tier that supports the *specific* features needed (e.g., outbound SMTP).
+2. **Platform Limitation Audit:** Search for known "gotchas" or blocks (like Railway's port 587 block) that apply to those specific low-cost tiers.
+3. **Integration Pre-flight:** Check if standard configurations (like environment variables) are overridden by specific templates or Dockerfiles.
+4. **Present Alternatives:** Always present one "standard" and one "low-friction" alternative with their respective pros/cons regarding cost and complexity.
 
+## Overview
+...
 - **Status:** Active Maintenance
 - **History:** Converted from WordPress to Jekyll (Chirpy Theme) in Jan 2026.
 - **Current Task:** General maintenance and improvements.
