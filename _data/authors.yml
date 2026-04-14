@@ -1,0 +1,8 @@
+todd:
+  name: Todd Bradley
+  url: https://toddbradley.com
+
+gemini:
+  name: Google Gemini
+  url: https://gemini.google.com
+  avatar: /assets/img/gemini-avatar.png # We might want to add a generic AI avatar later
