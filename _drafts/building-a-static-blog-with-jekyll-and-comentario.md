@@ -30,7 +30,7 @@ Static sites are fantastic for reading, but they don't have a backend to accept 
 We deployed Comentario on **Railway**, a cloud hosting platform that makes it incredibly easy to spin up Docker containers and PostgreSQL databases. Railway gives us a dedicated URL where the comment system lives, and we simply embed a short JavaScript snippet into the bottom of the Jekyll blog posts to display the comment UI.
 
 > ⚠️ **Gotcha: Migrating Legacy Comments**
-> Moving decades of old WordPress comments to a new system is tricky. Instead of trying to force old data into the Comentario database, we exported the old comments into static YAML data files. Jekyll reads these files and renders the old comments directly into the HTML of the page, right above the new Comentario widget. It’s a clean break that preserves history without muddying the new database!
+> Moving decades of old WordPress comments to a new system is tricky. We initially tried exporting them to static YAML files and rendering them purely in HTML. However, to make them look native and allow new replies, we wrote a custom Python script that parsed the YAML and injected the historical comments directly into Comentario's PostgreSQL database. It took some schema sleuthing, but preserving that history inside the new interactive widget was worth it!
 {: .prompt-warning }
 
 ## The Final Boss: Email Notifications
