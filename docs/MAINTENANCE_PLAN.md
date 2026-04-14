@@ -9,7 +9,7 @@
 - [x] **Comments System:** Implement [Comentario](https://comentario.app/)
       for discussions (replaces planned Cusdis/Giscus implementations).
   - [x] Set up email notification bypass using GitHub Actions.
-  - [ ] Migrate old static YAML comments (`_data/comments/`) into the new Comentario PostgreSQL database.
+  - [x] Migrate old static YAML comments (`_data/comments/`) into the new Comentario PostgreSQL database.
 - [x] **Subscriptions:**
   - [x] Set up a system for users to subscribe to changes.
   - [x] Extract old subscribers from `wp_comments.csv` and migrate them.
