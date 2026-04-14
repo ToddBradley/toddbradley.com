@@ -4,8 +4,7 @@
 
 - [x] **Sidebar Cleanup:** Fix items appearing as tabs that shouldn't be (remove
       unsuitable pages or front matter).
-- [x] **Image Links:** Fix broken image links. Change unfixable links to a "bad
-      link" icon.
+- [x] **Image Links:** Fix broken image links. Unrecoverable links have been replaced with a clickable "Bit Rot" placeholder graphic that links to an explanation page.
 - [x] **Comments System:** Implement [Comentario](https://comentario.app/)
       for discussions (replaces planned Cusdis/Giscus implementations).
   - [x] Set up email notification bypass using GitHub Actions.
