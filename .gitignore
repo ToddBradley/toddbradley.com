@@ -15,3 +15,6 @@ __pycache__/
 
 # Gemini
 .gemini/tmp/
+
+# Secrets
+.env
