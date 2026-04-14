@@ -22,7 +22,7 @@ This document outlines how `toddbradley.com` works under the hood. It was migrat
 
 ## Commenting System (Comentario)
 
-Because Jekyll is static, we needed an external system to handle comments. We chose **Comentario** (a modern, open-source fork of Commento).
+Because Jekyll is static, we needed an external system to handle comments. We chose **Comentario** (a modern, open-source fork of Commento). We initially considered using Utterances (which stores comments as GitHub issues), but since that requires every commenter to have a GitHub account, it wasn't a good fit for a general audience blog.
 
 1. **Hosting:** Self-hosted on **Railway** (using their Postgres plugin and Comentario Docker image).
 2. **Frontend Integration:** A Javascript snippet is embedded in `_includes/comments.html` to display the widget at the bottom of posts.
@@ -30,7 +30,7 @@ Because Jekyll is static, we needed an external system to handle comments. We ch
 
 ## Automation & Notifications
 
-Handling comment notifications requires a somewhat complex setup because **Railway's free/hobby tier strictly blocks outbound SMTP (port 587/465)** to prevent spam. Comentario natively uses SMTP to send moderation alerts, so that feature is broken out-of-the-box on our host.
+Handling comment notifications requires a somewhat complex setup because **Railway's free/hobby tier strictly blocks outbound SMTP (port 587/465)** to prevent spam. Comentario natively uses SMTP to send moderation alerts, and Railway *can* support this directly, but only if you upgrade to a paid tier. Since we wanted to keep costs at zero, that feature is broken out-of-the-box on our current host.
 
 Here is how we bypassed it:
 
