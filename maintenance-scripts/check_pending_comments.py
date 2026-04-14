@@ -14,13 +14,32 @@ def check_pending_comments():
         conn = psycopg2.connect(db_url)
         cur = conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor)
         
-        # Dynamically determine the exact column names to avoid schema errors
-        cur.execute("SELECT column_name FROM information_schema.columns WHERE table_name = 'comments'")
-        columns = [row['column_name'] for row in cur.fetchall()]
+        # Check available tables first to debug
+        cur.execute("SELECT table_name FROM information_schema.tables WHERE table_schema = 'public'")
+        tables = [row['table_name'] for row in cur.fetchall()]
+        print(f"Available tables in database: {tables}")
         
+        # Find the comment table (could be 'comments', 'comment', or with a prefix)
+        comment_table = 'comments'
+        for t in tables:
+            if 'comment' in t.lower():
+                comment_table = t
+                break
+        
+        print(f"Using table: {comment_table}")
+        
+        # Dynamically determine the exact column names to avoid schema errors
+        cur.execute(f"SELECT column_name FROM information_schema.columns WHERE table_name = '{comment_table}'")
+        columns = [row['column_name'] for row in cur.fetchall()]
+        print(f"Columns in {comment_table}: {columns}")
+        
+        if not columns:
+            print(f"No columns found for {comment_table}. Exiting.")
+            return
+
         time_col = 'created_at' if 'created_at' in columns else 'creation_date' if 'creation_date' in columns else 'creationdate'
         
-        query = f"SELECT * FROM comments WHERE state = 1 AND {time_col} >= NOW() - INTERVAL '65 minutes'"
+        query = f"SELECT * FROM {comment_table} WHERE state = 1 AND {time_col} >= NOW() - INTERVAL '65 minutes'"
         cur.execute(query)
         pending = cur.fetchall()
         
@@ -51,7 +70,7 @@ def send_email(comments):
     body = "You have new comments awaiting moderation on toddbradley.com:\n\n"
     for c in comments:
         # Safely extract fields regardless of exact column names in Comentario version
-        author = c.get('commenter_name') or c.get('author_name') or c.get('author') or 'Unknown'
+        author = c.get('commenter_name') or c.get('author_name') or c.get('author') or c.get('commenterhex') or 'Unknown'
         text = c.get('markdown') or c.get('html') or c.get('body') or 'No text'
         path = c.get('path') or c.get('url') or 'Unknown page'
         
