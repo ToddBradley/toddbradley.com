@@ -14,37 +14,8 @@ def check_pending_comments():
         conn = psycopg2.connect(db_url)
         cur = conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor)
         
-        # 1. Get all columns for the comments table
-        table_name = 'cm_comments'
-        cur.execute(f"SELECT column_name FROM information_schema.columns WHERE table_name = '{table_name}'")
-        columns = [row['column_name'] for row in cur.fetchall()]
-        
-        if not columns:
-            print(f"Error: Table '{table_name}' not found or has no columns.")
-            return
-
-        print(f"Confirmed columns in {table_name}: {columns}")
-
-        # 2. Identify the timestamp column dynamically from the existing columns
-        # Comentario 3.x typically uses 'created_ts', 'created_at', or 'ts_created'
-        time_col = None
-        for candidate in ['created_ts', 'created_at', 'creation_date', 'creationdate', 'ts_created']:
-            if candidate in columns:
-                time_col = candidate
-                break
-        
-        if not time_col:
-            print(f"Error: Could not find a timestamp column in {columns}")
-            return
-
-        # 3. Identify the pending status column
-        status_col = 'is_pending' if 'is_pending' in columns else None
-        if not status_col:
-            print(f"Error: Could not find 'is_pending' column in {columns}")
-            return
-
-        # 4. Construct the query using only known-good columns
-        query = f"SELECT * FROM {table_name} WHERE {status_col} = TRUE AND {time_col} >= NOW() - INTERVAL '65 minutes'"
+        # Keep it simple: Exact query using known columns
+        query = "SELECT * FROM cm_comments WHERE is_pending = TRUE AND ts_created >= NOW() - INTERVAL '65 minutes'"
         print(f"Executing: {query}")
         
         cur.execute(query)
@@ -55,12 +26,12 @@ def check_pending_comments():
             return
         
         print(f"Found {len(pending)} pending comment(s). Sending email...")
-        send_email(pending, columns)
+        send_email(pending)
         
     except Exception as e:
         print(f"Error checking comments: {e}")
 
-def send_email(comments, available_columns):
+def send_email(comments):
     sender = os.environ.get('SMTP_USERNAME')
     password = os.environ.get('SMTP_PASSWORD')
     receiver = 'todd@toddbradley.com'
@@ -76,24 +47,10 @@ def send_email(comments, available_columns):
     
     body = "You have new comments awaiting moderation on toddbradley.com:\n\n"
     for c in comments:
-        # Only reference columns that we know exist
-        author = 'Unknown'
-        for col in ['commenter_name', 'author_name', 'author_id']:
-            if col in available_columns and c.get(col):
-                author = c[col]
-                break
-        
-        text = 'No content'
-        for col in ['markdown', 'html', 'body']:
-            if col in available_columns and c.get(col):
-                text = c[col]
-                break
-
-        page = 'Unknown page'
-        for col in ['path', 'url', 'domain_page_id']:
-            if col in available_columns and c.get(col):
-                page = c[col]
-                break
+        # Safely extract comment details using standard dictionary lookups
+        author = c.get('commenter_name') or c.get('author_name') or 'Unknown'
+        text = c.get('markdown') or c.get('body') or 'No content'
+        page = c.get('domain_page_id') or c.get('path') or 'Unknown page'
         
         body += f"Post/Page: {page}\nAuthor: {author}\nComment:\n{text}\n"
         body += "-" * 40 + "\n"
