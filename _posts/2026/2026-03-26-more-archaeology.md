@@ -25,7 +25,7 @@ Wanna see one of both of the films? The first one is on YouTube, right here: [ht
 
 You can see a lot of these things are intertwined in multiple ways. I slapped together a mind map to show some of my main related interests.
 
-![Todd's Mind Map - Things Related to Archaeology (Broken Link)](/assets/img/bad-link.svg)
+![Todd's Mind Map - Things Related to Archaeology](/uploads/2026/ArchaeologyMindMap.png)
 
 
 # Celebrate Bears Ears
