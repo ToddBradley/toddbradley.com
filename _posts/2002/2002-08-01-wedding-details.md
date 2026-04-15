@@ -240,7 +240,7 @@ shopping and restaurant district.
     the services for the modern traveler. Our elegant meeting and banquet
     facilities offer a unique setting for your next event.
 
-[Click here](wedding.htm) to go back to the main wedding page.
+[Click here]({% post_url 2002/2002-08-01-our-wedding %}) to go back to the main wedding page.
 
 Also, in case you get lost or need any last minute help finding your way to
 any of these events, Todd's cell phone is 720-480-4890.

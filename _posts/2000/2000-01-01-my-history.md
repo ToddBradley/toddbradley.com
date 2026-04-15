@@ -24,7 +24,7 @@ categories: [About, Archive]
 - During that period, I made a monumental rise to power as
   the official administrator of the boulder.general newsgroup, and later
   successfully defended that title through the legendary
-  [DOOM deathmatch](doom_deathmatch.htm).  It was
+  [DOOM deathmatch](/bit-rot/).  It was
   [Alek Komarnitsky](http://www.komar.org/) (whom years later I
   re-met playing Ultimate Frisbee) against Chris and Jill (a couple of local
   yahoos).

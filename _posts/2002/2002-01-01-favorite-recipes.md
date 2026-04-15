@@ -11,19 +11,19 @@ it's possible.  So, I have to settle for making good food for myself and my
 family and friends.  Here are a few of my more popular and interesting
 recipes.
 
-[7 Layer Dip](#7LayerDip)
+[7 Layer Dip](#7-layer-dip)
 
-[Grilled Atlantic Salmon](#Salmon)
+[Grilled Atlantic Salmon](#grilled-atlantic-salmon)
 
-[Creamy Guacamole](#Guac)
+[Creamy Guacamole](#creamy-guacamole)
 
-[Pico de Gallo](#Pico)
+[Pico de Gallo](#fresh-salsa-called-pico-de-gallo-by-those-in-the-know)
 
-[Blue Corn Lamb Tamales](#Tamales)
+[Blue Corn Lamb Tamales](#blue-corn-lamb-tamales)
 
-[Borracho Beans](#Borracho)
+[Borracho Beans](#borracho-beans)
 
-[Secret Family Recipe Smothering Chili](#Chili)
+[Secret Family Recipe Smothering Chili](#secret-family-recipe-smothering-chili)
 
 #### 7 Layer Dip
 
@@ -348,7 +348,7 @@ can also freeze them for another day.  Or give some to your friends,
 because you're going to have a **lot** of tamales, probably around 40 or 50.
 
 I recommend serving these tamales on top of some
-[borracho beans](#Borracho), with shredded cheese on top.
+[borracho beans](#borracho-beans), with shredded cheese on top.
 
 #### Borracho Beans
 

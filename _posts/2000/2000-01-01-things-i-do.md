@@ -8,7 +8,7 @@ categories: [About, Archive]
 ## Vacation
 
 Here's some stuff about a [once-in-a-lifetime rafting
-trip](sanjuan.htm) I took on the San Juan river.
+trip]({% post_url 2003/2003-05-31-san-juan-river-trip %}) I took on the San Juan river.
 
 ## Have Fun
 
@@ -17,7 +17,7 @@ Here are the current major time sinks:
 
 - [Ultimate Frisbee](http://www.upa.org): It's a cool game
   which keeps me in something resembling fitness in the summer.
-- [Gaming](games.htm): no, not gambling
+- [Gaming]({% post_url 2000/2000-01-01-games-i-play %}): no, not gambling
 - Music: I have been writing and recording my own music for about 18
   years. Recently, the recording project has been called
   [404 Not Found](http://www.404notfound.net).  Over the
@@ -26,7 +26,7 @@ Here are the current major time sinks:
   A7 Audio Research Lab.
 - Team Fortress Classic: I'm a member of [Team 1 of Team 30+](http://tfc1.30plus.org).  My handle
   is |30+|Dr. Ebola.  I made a [Visual TFC Map
-  Guide](tfcguide.htm).
+  Guide]({% post_url 2000/2000-01-01-tfc-guide %}).
 
 ## Give Money to Charity
 
@@ -43,7 +43,7 @@ I'm a member of these organizations.
 
 ## Read
 
-More about that [here](books.htm).
+More about that [here]({% post_url 2000/2000-01-01-books-i-recommend %}).
 
 ## Eat
 

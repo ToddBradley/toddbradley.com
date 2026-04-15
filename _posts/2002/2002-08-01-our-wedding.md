@@ -20,7 +20,7 @@ friends, so we invite you to join us for as many of the events around the
 wedding as you can.
 
 In addition to this page, which is a lot of the background about the wedding,
-we put together [another web page](weddingdetails.htm) of all the
+we put together [another web page]({% post_url 2002/2002-08-01-wedding-details %}) of all the
 little details and the schedule and directions.
 
 # Background
@@ -130,5 +130,5 @@ tourist resorts as much as possible.
 ## The Detailed Schedule
 
 Now that you know all the background, you may be interested in the schedule
-of events for the wedding weekend.  [Click here](weddingdetails.htm)
+of events for the wedding weekend.  [Click here]({% post_url 2002/2002-08-01-wedding-details %})
 to see it all.
