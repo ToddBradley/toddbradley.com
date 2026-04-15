@@ -2,7 +2,7 @@
 layout: post
 title: "Wedding Details"
 date: 2002-08-01 12:00:00 -0700
-categories: [Family, Archive]
+categories: [Family]
 ---
 
 Hi, folks.  We’re really looking forward to seeing you at our wedding.  As we

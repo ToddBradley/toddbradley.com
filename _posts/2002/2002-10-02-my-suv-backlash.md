@@ -2,7 +2,7 @@
 layout: post
 title: "My SUV Backlash"
 date: 2002-10-02 12:00:00 -0600
-categories: [Vehicles, Archive]
+categories: [Vehicles]
 ---
 
 ## My "After College" Vehicles

@@ -2,7 +2,7 @@
 layout: post
 title: "October 2001 Vacation"
 date: 2001-10-11 12:00:00 -0600
-categories: [Travel, Archive]
+categories: [Travel]
 ---
 
 This is a little journal of my trip to Utah in October 2001. The

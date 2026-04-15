@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: September 3, 2001"
 date: 2001-09-03 12:00:00 -0700
-categories: [Journal, Archive]
+categories: [Journal]
 ---
 
 I’ve been spending a lot of

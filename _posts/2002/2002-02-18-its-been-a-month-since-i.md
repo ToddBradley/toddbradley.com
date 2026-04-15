@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: February 18, 2002"
 date: 2002-02-18 12:00:00 -0700
-categories: [Journal, Archive]
+categories: [Journal]
 ---
 
 It’s been a month since I

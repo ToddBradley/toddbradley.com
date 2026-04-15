@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: October 2000"
 date: 2000-10-01 12:00:00 -0700
-categories: [Journal, Archive]
+categories: [Journal]
 ---
 
 I’m now scooter enabled.  I

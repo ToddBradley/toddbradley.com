@@ -2,7 +2,7 @@
 layout: post
 title: "Kitchen Remodel"
 date: 2004-05-01 12:00:00 -0700
-categories: [Home, Archive]
+categories: [Home]
 ---
 
 # Before and After

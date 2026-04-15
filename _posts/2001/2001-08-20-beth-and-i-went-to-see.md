@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: August 20, 2001"
 date: 2001-08-20 12:00:00 -0700
-categories: [Journal, Archive]
+categories: [Journal]
 ---
 
 Beth and I went to see King

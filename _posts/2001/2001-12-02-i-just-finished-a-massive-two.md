@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: December 2, 2001"
 date: 2001-12-02 12:00:00 -0700
-categories: [Journal, Archive]
+categories: [Journal]
 ---
 
 I just finished a massive two day

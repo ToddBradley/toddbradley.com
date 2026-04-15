@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: March 20, 2001"
 date: 2001-03-20 12:00:00 -0700
-categories: [Journal, Archive]
+categories: [Journal]
 ---
 
 In case

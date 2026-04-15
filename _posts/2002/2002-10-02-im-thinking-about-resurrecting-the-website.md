@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: October 2, 2002"
 date: 2002-10-02 12:00:00 -0700
-categories: [Journal, Archive]
+categories: [Journal]
 ---
 
 I’m thinking about resurrecting the

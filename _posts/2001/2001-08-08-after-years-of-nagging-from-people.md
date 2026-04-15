@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: August 8, 2001"
 date: 2001-08-08 12:00:00 -0700
-categories: [Journal, Archive]
+categories: [Journal]
 ---
 
 After years of nagging from people

@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: October 6, 2001"
 date: 2001-10-06 12:00:00 -0700
-categories: [Journal, Archive]
+categories: [Journal]
 ---
 
 Last month, I refinanced the

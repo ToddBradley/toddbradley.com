@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: April 27, 2002"
 date: 2002-04-27 12:00:00 -0700
-categories: [Journal, Archive]
+categories: [Journal]
 ---
 
 I’ve spent most of my spare

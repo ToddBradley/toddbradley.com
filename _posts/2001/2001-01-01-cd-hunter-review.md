@@ -2,7 +2,7 @@
 layout: post
 title: "CD Hunter Review"
 date: 2001-01-01 12:00:00 -0700
-categories: [Reviews, Archive]
+categories: [Reviews]
 ---
 
 #### The Tale of **ToddBradley404** and **cd.hunter**

@@ -2,7 +2,7 @@
 layout: post
 title: "Walt Disney World 2003"
 date: 2003-12-01 12:00:00 -0700
-categories: [Travel, Archive]
+categories: [Travel]
 ---
 
 Beth and I took a long weekend to visit Orlando, Florida.  The dates

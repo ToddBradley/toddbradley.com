@@ -2,7 +2,7 @@
 layout: post
 title: "My Wishlist"
 date: 2000-01-01 12:00:00 -0700
-categories: [About, Archive]
+categories: [About]
 ---
 
 - Fast LCD monitor: see

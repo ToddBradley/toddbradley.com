@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: January 5, 2002"
 date: 2002-01-05 12:00:00 -0700
-categories: [Journal, Archive]
+categories: [Journal]
 ---
 
 Wow, it’s a new year.  There

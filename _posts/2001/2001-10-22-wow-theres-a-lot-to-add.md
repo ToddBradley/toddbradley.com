@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: October 22, 2001"
 date: 2001-10-22 12:00:00 -0700
-categories: [Journal, Archive]
+categories: [Journal]
 ---
 
 Wow, there’s a lot to add

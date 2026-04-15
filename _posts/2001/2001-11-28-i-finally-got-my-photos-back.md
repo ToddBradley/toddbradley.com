@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: November 28, 2001"
 date: 2001-11-28 12:00:00 -0700
-categories: [Journal, Archive]
+categories: [Journal]
 ---
 
 I finally got my photos back from

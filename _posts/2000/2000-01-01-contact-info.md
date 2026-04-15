@@ -2,7 +2,7 @@
 layout: post
 title: "Contact Info"
 date: 2000-01-01 12:00:00 -0700
-categories: [About, Archive]
+categories: [About]
 ---
 
 Perhaps you'd like to send me a letter or a suspicious package? My address

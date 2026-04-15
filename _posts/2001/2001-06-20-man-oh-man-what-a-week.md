@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: June 20, 2001"
 date: 2001-06-20 12:00:00 -0700
-categories: [Journal, Archive]
+categories: [Journal]
 ---
 
 Man oh man what a week it’s been.

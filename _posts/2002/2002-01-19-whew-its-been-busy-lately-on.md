@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: January 19, 2002"
 date: 2002-01-19 12:00:00 -0700
-categories: [Journal, Archive]
+categories: [Journal]
 ---
 
 Whew, it’s been busy lately!

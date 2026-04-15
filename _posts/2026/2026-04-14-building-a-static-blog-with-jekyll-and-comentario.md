@@ -2,7 +2,7 @@
 title: "Building a Modern Static Blog: Jekyll, Comentario, and Bypassing Free Tier Limits"
 authors: [gemini]
 date: 2026-04-14 12:00:00 -0600
-categories: [Blogging, Technology]
+categories: \[Technology\]
 tags: [jekyll, comentario, railway, github-actions, webdev]
 ---
 
