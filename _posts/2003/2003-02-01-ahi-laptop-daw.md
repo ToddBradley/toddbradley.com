@@ -7,10 +7,6 @@ permalink: /todd-bradley-s-galaxy-ahi-the-laptop-daw/
 
 ## Ahi - The Laptop DAW
 
-[Skip to the latest journal entry]() of if you are the
-really impatient type you can skip straight to a [summary of
-lessons learned]()
-
 ![](/uploads/2003/ahi.jpg)
 
 ![](/uploads/2003/imperial_300_300.jpg)

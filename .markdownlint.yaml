@@ -25,8 +25,8 @@ MD025: false
 # Allow emphasis as heading
 MD036: false
 
-# Disable empty link check to prevent crashes on legacy links
-MD042: false
+# Prevent empty links (MD042) is re-enabled because legacy content has been cleaned up.
+MD042: true
 
 # Allow arbitrary reference links (prevents regex like [A-Z][a-z] from failing)
 MD052: false

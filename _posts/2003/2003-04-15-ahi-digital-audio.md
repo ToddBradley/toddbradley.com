@@ -11,9 +11,7 @@ What you are about to read is a log of my research into the digital audio
 capabilities of the vpr Matrix 200A5 notebook computer, with the vpr Matrix
 Digital Parallel Cable.
 
-Journal Entries: [March 22]() - [March
-27]() - [March 29]() - [April 1]() -
-[April 14]() - [April 15]()
+Journal Entries: March 22 - March 27 - March 29 - April 1 - April 14 - April 15
 
 #### March 22, 2003
 
@@ -45,8 +43,6 @@ of other users of the 200A5.
 First, all the information I knew about this mysterious digital cable was
 from vpr Matrix’s website.  For completeness in the (arguably likely) event
 that they stop carrying this product, I’ve included that information here.
-To skip over the stuff I copied from their website, [click
-here]().
 
 vpr MatrixTM Digital
 Parallel Cable for 200A5 Notebooks
