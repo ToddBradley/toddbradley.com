@@ -3,6 +3,7 @@ layout: post
 title: "Journal Entry: November 10, 2001"
 date: 2001-11-10 12:00:00 -0700
 categories: [Journal]
+tags: [archive]
 ---
 
 I just got home from the

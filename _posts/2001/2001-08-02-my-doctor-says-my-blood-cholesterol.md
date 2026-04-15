@@ -3,6 +3,7 @@ layout: post
 title: "Journal Entry: August 2, 2001"
 date: 2001-08-02 12:00:00 -0700
 categories: [Journal]
+tags: [archive]
 ---
 
 My doctor says my blood cholesterol

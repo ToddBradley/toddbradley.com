@@ -3,6 +3,7 @@ layout: post
 title: "Journal Entry: December 27, 2001"
 date: 2001-12-27 12:00:00 -0700
 categories: [Journal]
+tags: [archive]
 ---
 
 Christmas has come and gone!

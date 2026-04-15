@@ -3,6 +3,7 @@ layout: post
 title: "Journal Entry: Summer 2000"
 date: 2000-06-01 12:00:00 -0700
 categories: [Journal]
+tags: [archive]
 ---
 
 Well, I’m learning to soar.  You know, flying a

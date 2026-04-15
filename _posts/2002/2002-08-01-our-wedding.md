@@ -3,6 +3,7 @@ layout: post
 title: "Our Wedding"
 date: 2002-08-01 12:00:00 -0700
 categories: [Family]
+tags: [archive]
 ---
 
 **_Everything you could hope to know about our wedding, and then some..._**

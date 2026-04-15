@@ -3,6 +3,7 @@ layout: post
 title: "Journal Entry: July 13, 2001"
 date: 2001-07-13 12:00:00 -0700
 categories: [Journal]
+tags: [archive]
 ---
 
 It’s Friday the 13th.  I’m happy

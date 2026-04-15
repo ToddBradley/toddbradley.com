@@ -3,6 +3,7 @@ layout: post
 title: "Favorite Recipes"
 date: 2002-01-01 12:00:00 -0700
 categories: [Food]
+tags: [archive]
 ---
 
 If there was any way in the world I could make a decent living

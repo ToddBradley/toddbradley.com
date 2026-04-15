@@ -3,6 +3,7 @@ layout: post
 title: "Journal Entry: April 7, 2001"
 date: 2001-04-07 12:00:00 -0700
 categories: [Journal]
+tags: [archive]
 ---
 
 You’re

@@ -3,6 +3,7 @@ layout: post
 title: "Things I Do"
 date: 2000-01-01 12:00:00 -0700
 categories: [About]
+tags: [archive]
 ---
 
 ## Vacation

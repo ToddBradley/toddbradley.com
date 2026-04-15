@@ -3,6 +3,7 @@ layout: post
 title: "Journal Entry: November 25, 2001"
 date: 2001-11-25 12:00:00 -0700
 categories: [Journal]
+tags: [archive]
 ---
 
 Last week was a pretty short

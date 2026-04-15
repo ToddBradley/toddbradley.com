@@ -3,6 +3,7 @@ layout: post
 title: "Journal Entry: December 15, 2001"
 date: 2001-12-15 12:00:00 -0700
 categories: [Journal]
+tags: [archive]
 ---
 
 Well, Christmas is nearly

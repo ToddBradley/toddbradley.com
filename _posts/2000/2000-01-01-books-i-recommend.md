@@ -3,6 +3,7 @@ layout: post
 title: "Books I Recommend"
 date: 2000-01-01 12:00:00 -0700
 categories: [Books]
+tags: [archive]
 ---
 
 Wanna see how I've reviewed books I read in the past?  I think if you

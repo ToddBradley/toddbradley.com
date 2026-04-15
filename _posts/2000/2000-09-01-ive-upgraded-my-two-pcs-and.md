@@ -3,6 +3,7 @@ layout: post
 title: "Journal Entry: September 2000"
 date: 2000-09-01 12:00:00 -0700
 categories: [Journal]
+tags: [archive]
 ---
 
 I’ve upgraded my two PCs and I’m

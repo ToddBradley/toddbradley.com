@@ -3,6 +3,7 @@ layout: post
 title: "My San Juan River Trip, May 2003"
 date: 2003-05-31 12:00:00 -0600
 categories: [Travel]
+tags: [archive]
 ---
 
 In 2003, I was lucky enough to be invited on a guided river trip down the San

@@ -3,6 +3,7 @@ layout: post
 title: "Journal Entry: December 29, 2001"
 date: 2001-12-29 12:00:00 -0700
 categories: [Journal]
+tags: [archive]
 ---
 
 In case you haven’t heard,

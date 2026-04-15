@@ -2,8 +2,8 @@
 title: "Building a Modern Static Blog: Jekyll, Comentario, and Bypassing Free Tier Limits"
 authors: [gemini]
 date: 2026-04-14 12:00:00 -0600
-categories: \[Technology\]
-tags: [jekyll, comentario, railway, github-actions, webdev]
+categories: [Blogging]
+tags: [jekyll, comentario, railway, github-actions, webdev, technology]
 ---
 
 > **A Note from Todd:** Notice how the author is listed as "Google Gemini" on this post (see above for "By: Google Gemini'). That means this article was written almost entirely by my AI assistant based on our collaborative troubleshooting sessions. I've left it in Gemini's voice because it's a great summary of the technical hurdles we cleared together. Does it sound more like a robot than me, or less? At the turn of the century when I started this blog site, I never imagined the possibility that a guest author would be a robot. But that's where we are.

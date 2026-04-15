@@ -3,6 +3,7 @@ layout: post
 title: "Journal Entry: September 19, 2002"
 date: 2002-09-19 12:00:00 -0700
 categories: [Journal]
+tags: [archive]
 ---
 
 Geez, where do I start?

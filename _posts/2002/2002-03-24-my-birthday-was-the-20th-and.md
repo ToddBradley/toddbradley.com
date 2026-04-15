@@ -3,6 +3,7 @@ layout: post
 title: "Journal Entry: March 24, 2002"
 date: 2002-03-24 12:00:00 -0700
 categories: [Journal]
+tags: [archive]
 ---
 
 My birthday was the 20th and we
