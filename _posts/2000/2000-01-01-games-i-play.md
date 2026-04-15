@@ -14,28 +14,28 @@ Chow".
 
 ## Back Burner Games
 
-* GURPS Traveller - [The Dark Wing Missions](http://www.geocities.com/darkwingmissions)
-* Deadlands
-* GURPS Atomic Horror
-* Feng Shui
-* Give Me The Brain
-* Before I Kill You, Mr. Bond
-* Lord of the Fries
-* Abduction
-* GURPS Fantasy: The New Empire
+- GURPS Traveller - [The Dark Wing Missions](http://www.geocities.com/darkwingmissions)
+- Deadlands
+- GURPS Atomic Horror
+- Feng Shui
+- Give Me The Brain
+- Before I Kill You, Mr. Bond
+- Lord of the Fries
+- Abduction
+- GURPS Fantasy: The New Empire
 
 ## Older Games I've Played
 
-* AD&D
-* Vampire: The Masquerade
-* Metascape
-* Warhammer RPG
-* Star Wars
-* Rifts
-* INWO
-* Robo Rally
-* Starship Troopers
-* Cyberpunk
-* Cyberpunk 2020
-* Shadowrun
-* Traveller
+- AD&D
+- Vampire: The Masquerade
+- Metascape
+- Warhammer RPG
+- Star Wars
+- Rifts
+- INWO
+- Robo Rally
+- Starship Troopers
+- Cyberpunk
+- Cyberpunk 2020
+- Shadowrun
+- Traveller

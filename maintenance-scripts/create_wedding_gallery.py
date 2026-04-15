@@ -48,20 +48,20 @@ for line in lines:
     # Check if line contains an image
     match_linked = re.search(image_pattern, line)
     match_simple = re.search(simple_image_pattern, line)
-    
+
     if match_linked or match_simple:
         if not image_block_started:
             image_block_started = True
             new_lines.append('<div class="image-gallery" markdown="1">')
-        
-        # We want to extract the image URL. 
+
+        # We want to extract the image URL.
         # If it was [![](inner)](outer), we take inner.
         if match_linked:
             img_url = match_linked.group(1)
         else:
             img_url = match_simple.group(1)
-            
-        # Strip sizing params from CDN URLs for the gallery view if desired, 
+
+        # Strip sizing params from CDN URLs for the gallery view if desired,
         # but Chirpy's lightbox will handle it.
         # Actually, let's keep them as is but simplify to just ![](/url)
         captured_images.append(f"![]({img_url})")

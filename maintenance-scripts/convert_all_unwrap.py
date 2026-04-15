@@ -24,7 +24,7 @@ def process_file_fixed(filepath, year):
 
     soup = BeautifulSoup(html, 'html.parser')
     clean_html(soup)
-    
+
     img_dir = os.path.join(DEST_UPLOADS, str(year))
     os.makedirs(img_dir, exist_ok=True)
 
@@ -32,7 +32,7 @@ def process_file_fixed(filepath, year):
     for tag in soup.find_all(['img', 'a']):
         attr = 'src' if tag.name == 'img' else 'href'
         val = tag.get(attr)
-        
+
         if not val or val.startswith('http') or val.startswith('mailto:') or val.startswith('#'):
             continue
 
@@ -46,10 +46,10 @@ def process_file_fixed(filepath, year):
         if os.path.exists(abs_src):
             filename = os.path.basename(abs_src)
             dest_img_path = os.path.join(img_dir, filename)
-            
+
             if not os.path.exists(dest_img_path):
                 shutil.copy2(abs_src, dest_img_path)
-            
+
             tag[attr] = f"/uploads/{year}/{filename}"
 
     body = soup.find('body')
@@ -63,7 +63,7 @@ def process_file_fixed(filepath, year):
 def reconvert_post(source_files, output_filename, title, date, categories, year):
     if isinstance(source_files, str):
         source_files = [source_files]
-        
+
     print(f"Re-converting: {title}")
     combined_html = ""
     for source_file in source_files:
@@ -82,7 +82,7 @@ categories: {categories}
 
 """
     post_path = os.path.join(DEST_POSTS, str(year), output_filename)
-    
+
     with open(post_path, 'w', encoding='utf-8') as f:
         f.write(front_matter + markdown_content)
     print(f"Updated: {post_path}")

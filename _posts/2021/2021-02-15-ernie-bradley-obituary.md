@@ -26,7 +26,6 @@ A celebration of life is scheduled for June 26, 2021 at 10:30am at The Church at
 
 [Ernie-Bradley-Obituary.pdf](/uploads/2021/Ernie-Bradley-Obituary.pdf)
 
-
 ### Short Version for Newspapers
 
 Ernest LeRoy Bradley, 77, passed away on February 15, 2021 in Marble Falls, Texas. He was born August 28, 1943 in Roswell, New Mexico, and grew up near DeBeque, Colorado.

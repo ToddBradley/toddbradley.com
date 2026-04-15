@@ -20,7 +20,7 @@ Here's our room.
 [![](/uploads/2003/Walt Disney World 001_small.jpg)](/uploads/2003/Walt Disney World 001.jpg)[![](/uploads/2003/Walt Disney World 002_small.jpg)](/uploads/2003/Walt Disney World 002.jpg)
 
 That night, we went to Downtown Disney with John and Mary and tons of their
-family and friends.  We ended up eating at an Italian restaurant. 
+family and friends.  We ended up eating at an Italian restaurant.
 Here's a shot of our big table and Beth and Mary.
 
 [![](/uploads/2003/Walt Disney World 004_small.jpg)](/uploads/2003/Walt Disney World 004.jpg)[![](/uploads/2003/Walt Disney World 005_small.jpg)](/uploads/2003/Walt Disney World 005.jpg)
@@ -30,7 +30,7 @@ Here's a shot of our big table and Beth and Mary.
 Friday we visited Disney Animal Kingdom, which is a cross between a zoo and
 an amusement park.  In typical Disney style, it's fairly mediocre at both.
 
-That morning, after breakfast, we took the bus from the hotel to the park 
+That morning, after breakfast, we took the bus from the hotel to the park
 Here's a shot showing some of the buses from the Disney bus service, followed by
 some goofy photos of Beth and me.
 

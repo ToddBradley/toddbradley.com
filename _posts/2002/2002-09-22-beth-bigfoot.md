@@ -13,7 +13,7 @@ On the left is a still taken from what is certainly the most famous
 evidence for Bigfoot.  It's a single frame of the "Patterson/Gimlin
 16mm film footage of a female Bigfoot" taken in 1967.  If you've never
 seen the footage, Bigfoot walks in a peculiar lumbering stride.  See
-[here](http://www.fortunecity.com/marina/reach/1987/bigfoot_patterson.htm) for more.  
+[here](http://www.fortunecity.com/marina/reach/1987/bigfoot_patterson.htm) for more.
 On the right is a photo of my wife, Beth Partin, on our
 honeymoon in Hawaii.  Here she is walking off to look for birds in the
 undergrowth.  She also has a peculiar lumbering stride.

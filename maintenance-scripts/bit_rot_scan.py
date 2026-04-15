@@ -50,7 +50,7 @@ for post_path in POSTS:
         alt_text = m.group(1)
         img_src = m.group(2)
         link_href = m.group(3)
-        
+
         # Check if the image source exists locally
         # e.g., /uploads/2003/image.jpg -> ./uploads/2003/image.jpg
         local_path = img_src.lstrip("/")
@@ -65,7 +65,7 @@ for post_path in POSTS:
         global missing_count
         alt_text = m.group(1)
         img_src = m.group(2)
-        
+
         local_path = img_src.lstrip("/")
         if img_src.startswith("/uploads") and not os.path.exists(local_path):
             print(f"Missing image: {img_src} in {post_path}")

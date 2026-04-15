@@ -369,8 +369,8 @@ September 29, 2003: I wrote the above nearly 4 months ago, right after my
 trip.  I still think of the great time I had on that trip, and I look
 forward to going back sometime.  I'm doing a little housecleaning today and
 ran across a couple things in my "outbox" that need to be filed away.  One
-is a copy of the newspaper article about the trip that Lori Lee-Howell wrote. 
-She was one of my fellow tourists, a writer from Utah. 
+is a copy of the newspaper article about the trip that Lori Lee-Howell wrote.
+She was one of my fellow tourists, a writer from Utah.
 Here is her article [now 404 as of 8/29/2004], from The Herald Journal.  The other thing I found
 in my outbox was a pile of photos that various people had sent me.  Since
 destroying my digital camera on the trip, many of the others took pity on me and

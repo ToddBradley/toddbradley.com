@@ -46,34 +46,34 @@ for post_path in POSTS:
         alt_text = m.group(1)
         img_src = m.group(2)
         link_href = m.group(3)
-        
+
         # If it doesn't start with /uploads/ and isn't a bit-rot asset, it's missing or external
-        # Wait! It could be external like http://. But the prompt says "missing images". 
+        # Wait! It could be external like http://. But the prompt says "missing images".
         # For this archive, anything that was a relative link but wasn't mapped to /uploads/ is missing.
-        
+
         is_missing = False
         if not img_src.startswith('/uploads/') and not img_src.startswith('/assets/'):
             is_missing = True
         elif not link_href.startswith('/uploads/') and not link_href.startswith('/assets/') and not link_href.startswith('http') and not link_href.startswith('#'):
             is_missing = True
-        
+
         if is_missing:
             print(f"Missing linked image found in {post_path}: img={img_src}, link={link_href}")
             missing_count += 1
             return BIT_ROT_LINK
-            
+
         return m.group(0)
 
     def repl_plain_img(m):
         global missing_count
         alt_text = m.group(1)
         img_src = m.group(2)
-        
+
         if not img_src.startswith('/uploads/') and not img_src.startswith('/assets/') and not img_src.startswith('http'):
             print(f"Missing plain image found in {post_path}: img={img_src}")
             missing_count += 1
             return BIT_ROT_IMG
-            
+
         return m.group(0)
 
     linked_pattern = re.compile(r'\[!\[(.*?)\]\((.*?)\)\]\((.*?)\)')

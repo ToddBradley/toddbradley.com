@@ -46,13 +46,13 @@ for post_path in POSTS:
         alt_text = m.group(1)
         img_src = m.group(2)
         link_href = m.group(3)
-        
+
         local_img = img_src.lstrip("/")
         local_link = link_href.lstrip("/")
-        
+
         img_missing = img_src.startswith("/uploads") and not os.path.exists(local_img)
         link_missing = link_href.startswith("/uploads") and not os.path.exists(local_link)
-        
+
         if img_missing or link_missing:
             print(f"Missing image/link: {img_src} or {link_href} in {post_path}")
             missing_count += 1
@@ -63,7 +63,7 @@ for post_path in POSTS:
         global missing_count
         alt_text = m.group(1)
         img_src = m.group(2)
-        
+
         local_path = img_src.lstrip("/")
         if img_src.startswith("/uploads") and not os.path.exists(local_path):
             print(f"Missing image: {img_src} in {post_path}")

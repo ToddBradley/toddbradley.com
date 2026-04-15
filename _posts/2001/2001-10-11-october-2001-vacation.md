@@ -22,7 +22,7 @@ Click on the photos with visible borders.  That will show you a larger
 version of that picture.
 
 **Page 1**    [Page
-2](oct2001_page2.htm)    [Page 3](oct2001_page3.htm)   
+2](oct2001_page2.htm)    [Page 3](oct2001_page3.htm)
 [Page 4](oct2001_page4.htm)    [Page
 5](oct2001_page5.htm)    [Page 6](oct2001_page6.htm)
 
@@ -33,7 +33,7 @@ said it's 526 miles from my house to downtown Salt Lake City and estimate the
 drive to be 9 hours.  The recommended way to get there is take I-25 north
 to I-80 (in Wyoming) and then turn west and drive, drive, drive.
 
-The GCI dinner was starting at 6:00 PM on Friday October 12, 2001. 
+The GCI dinner was starting at 6:00 PM on Friday October 12, 2001.
 Unfortunately, that meant to get there on time I'd have to leave no later than
 9:00 AM on Friday, and that still assumed no time spent stopping for gas or
 food.  So I decided I should leave Thursday.  But unfortunately I had
@@ -61,8 +61,6 @@ My icy campground
 
 ![](/uploads/2001/tn_25_na.jpg)
 
- 
-
 ![](/uploads/2001/tn_24_na.jpg)
 
 The Snowy Range
@@ -79,12 +77,12 @@ passed at least two dozen semis that had flipped or slid off the road due to the
 combination of ice and wind.  Traffic on I-80 was moving at around 35 MPH
 in many places, and even that was too fast for conditions at times.
 
-When the sun finally came out mid-morning, the roads got a lot better. 
-By late morning, I arrived at  [Green River, Wyoming](http://www.grchamber.com/) (there's also a
- [Green River,
+When the sun finally came out mid-morning, the roads got a lot better.
+By late morning, I arrived at [Green River, Wyoming](http://www.grchamber.com/) (there's also a
+[Green River,
 Utah](http://local.yahoo.com/?location_state=UT&location_city=Green+River&location_lat=38.942799&location_lon=-110.495598) that I visited later in the trip).  There, I stopped at a place called
 Expedition Island.  This is where John Wesley Powell and many other river
-explorers of the 19th and early 20th century started their journeys. 
+explorers of the 19th and early 20th century started their journeys.
 Powell's two famous expeditions down what we now call the Green and Colorado
 Rivers both started here.  They have a little park on this island now, with
 plaques commemorating all the explorers and early river rats who started here.
@@ -108,7 +106,7 @@ The memorial park
 After walking around the park for some much needed exercise, I grabbed lunch
 at a local fast food joint and continued on.  I didn't stop again until the
 Utah visitor center/welcome station, where I got some directions.  I had
-decided that in order to save money, I would stay at  [Camp
+decided that in order to save money, I would stay at [Camp
 VIP](http://www.campvip.com/). which is the KOA
 campground in SLC.  I'd emailed them before and they said they have a tent
 area where I could camp for $20 a night.  Even though that's a bit steep
@@ -129,13 +127,13 @@ I met many nice people there, including some fairly famous ones.  I met
 famed author and activist [Dave
 Foreman](http://www.amazon.com/exec/obidos/search-handle-url/index=books&field-author=Foreman,%20Dave/107-8339162-5621312), who was giving the keynote speech the following night.  I met [Ken
 Sleight](http://www.canyoncountryzephyr.com/archives/ken-sleight.html), Edward Abbey's inspiration for the character Seldom Seen Smith in
-his famous book *Monkey Wrench Gang*.  He said he recognized me
+his famous book _Monkey Wrench Gang_.  He said he recognized me
 because I always show up at these events.  I felt bad explaining that we'd
 never met.  I still don't know if he was just being extra nice or if he's
 getting a little senile, but he's definitely friendly.  I also met
 author/actress/singer/songwriter/activist Katie
-Lee who gave an excellent presentation and signed a copy of *All My Rivers
-Are Gone* that I bought.  The event was a lot smaller than I expected
+Lee who gave an excellent presentation and signed a copy of _All My Rivers
+Are Gone_ that I bought.  The event was a lot smaller than I expected
 and so I got a chance to meet about half the people there.
 
 That night, I had a little accident in my tent.  It
@@ -145,7 +143,7 @@ ceiling of the tent.  Well, even though Beth and I have done this
 same thing dozens of times, the little ring decided to melt through from
 the heat of the lantern (even though I had it turned down pretty
 low).  The lantern suddenly fell down on me and rolled onto my
-sleeping bag, instantly melting the outer fabric of the bag. 
+sleeping bag, instantly melting the outer fabric of the bag.
 Luckily, nothing actually caught fire, but I got a hole in my bag after
 having used it for only one night!  What bad luck.  Well,
 being well prepared, I, of course, had duct tape with me to patch the
@@ -155,7 +153,7 @@ hole.
 [Next Page](oct2001_page2.htm)
 
 [Page 1](oct2001_page1.htm)    **Page
-2**    [Page 3](oct2001_page3.htm)   
+2**    [Page 3](oct2001_page3.htm)
 [Page 4](oct2001_page4.htm)    [Page
 5](oct2001_page5.htm)    [Page 6](oct2001_page6.htm)
 
@@ -203,7 +201,7 @@ I somehow lived through another night at Camp VIP.  It's definitely not
 the best place for tent camping and I probably got less sleep while staying
 there than I did in the howling Wyoming snowstorm.  You see, Camp VIP is
 situated only about half a mile from the rail yard.  And, since Salt Lake
-City is such a transportation hub, trains roll in and out all night long. 
+City is such a transportation hub, trains roll in and out all night long.
 And for whatever reason, when they're in town they blow their whistles almost
 constantly.  I assume it has something to do with dropping off rail cars
 and picking new ones up.  So, every two hours or so, all through the night,
@@ -220,11 +218,11 @@ I'll either stay in a hotel or camp outside the city somewhere.
 I set Sunday aside for sightseeing.  I drove downtown to what's called
 Temple Square.  That's essentially the Mecca for Mormons.  It's where
 they built their main temple, church headquarters, and so on.  And, not
-surprisingly, it's the center of town.  You *know*
-that the  [Church of Jesus Christ of Latter Day Saints](http://lds.org/) is a big business when you
+surprisingly, it's the center of town.  You _know_
+that the [Church of Jesus Christ of Latter Day Saints](http://lds.org/) is a big business when you
 see their business offices and conference center.  Yes, even though it's a
 church, they have a business office which is probably the biggest skyscraper in
-SLC.  And they have a  [conference center](http://utah.citysearch.com/profile/11388488/) just for the church that must be as
+SLC.  And they have a [conference center](http://utah.citysearch.com/profile/11388488/) just for the church that must be as
 big as any big city public convention center.  It's huge!  It's very clear
 this church has gobs of money and they're not afraid to spend it on material
 possessions, fine artwork, and monumental edifices.
@@ -267,7 +265,7 @@ painted fake wood grain on it and everything!
 There's a statue
 commemorating how seagulls saved the early pioneers from a plague of
 grasshoppers.  Or was it crickets?  Anyhow, the bugs were eating the
-crops and then, after much praying, seagulls flew in and ate all the bugs. 
+crops and then, after much praying, seagulls flew in and ate all the bugs.
 So, that's why the seagull is the state bird of Utah.
 
 [![](/uploads/2001/tn_14_na.jpg)](/uploads/2001/14_na.jpg)
@@ -366,7 +364,7 @@ knows more about wildlife than I do, but I still think it's a young coyote.)
 [Next Page](oct2001_page4.htm)
 
 [Page 1](oct2001_page1.htm)    [Page
-2](oct2001_page2.htm)    [Page 3](oct2001_page3.htm)   
+2](oct2001_page2.htm)    [Page 3](oct2001_page3.htm)
 **Page 4**    [Page
 5](oct2001_page5.htm)    [Page 6](oct2001_page6.htm)
 
@@ -384,10 +382,10 @@ from Barrier to Horseshoe, but this is the place that gave the whole style of
 rock art its name.
 
 The hike into Horseshoe Canyon follows an old jeep trail from the canyon rim
-down into the bottom, and then follows the dry creek bed for a few miles. 
+down into the bottom, and then follows the dry creek bed for a few miles.
 On both sides of the creek are four rock art panels.  They say these all
 date to around 2000 years ago, though they're not really sure exactly.  It's not often you get to see artwork
-dating back 2000 years, and so these panels are pretty rare and precious. 
+dating back 2000 years, and so these panels are pretty rare and precious.
 Nonetheless, visitors regularly feel the need to vandalize them.  I don't
 know why someone would bother to drive way out into the desert and then hike
 into this hot, dry canyon to see the rock art, and then scratch over it with
@@ -397,7 +395,7 @@ Anyhow, I was the first person into the canyon that morning, since I require
 so much less to get going in the morning than most people.  The other
 people camping there were just starting to get up, make coffee, and break down
 their tents when I rolled out of the back of the truck, stuffed a couple
-breakfast bars in my pocket, and set out hiking.  It's a nice hike. 
+breakfast bars in my pocket, and set out hiking.  It's a nice hike.
 Scenic rocks and good art, of course.
 
 The biggest and most famous panel - [The
@@ -478,13 +476,13 @@ rested.  I also found I had cell phone coverage, so I phoned home
 to get the latest scoop on a job offer from [Voyant
 Technologies](http://www.voyanttech.com).  I called my soon-to-be-boss on the cell phone
 and told him I accepted his offer and would be there Monday
-morning.  Then I drove on to  [Arches National
+morning.  Then I drove on to [Arches National
 Park](http://www.nps.gov/arch/index.htm).
 
 I stopped at the visitor center, paid my admission fee, and paid in advance
 for a ranger guided hike in the
 Fiery Furnace for the following day.  Then I drove into Moab where I
-treated myself to a steak dinner at the  [Slickrock
+treated myself to a steak dinner at the [Slickrock
 Cafe](http://www.slickrockcafe.com/).  Their food is
 decent, I guess, but they also have public internet access.  So I caught up
 on my email and found a message from one of the people from the [Living
@@ -514,7 +512,7 @@ and crawled in the back of the truck to go to bed.
 [Next Page](oct2001_page5.htm)
 
 [Page 1](oct2001_page1.htm)    [Page
-2](oct2001_page2.htm)    [Page 3](oct2001_page3.htm)   
+2](oct2001_page2.htm)    [Page 3](oct2001_page3.htm)
 [Page 4](oct2001_page4.htm)    **Page
 5**    [Page 6](oct2001_page6.htm)
 
@@ -618,7 +616,7 @@ on BLM land and which I'd never seen before.  It's an arch only a
 mile or two off the main road, near La Sal Junction.  Since I was
 losing daylight fast, I immediately took a quick hike up the rock to the
 arch.  Since it's BLM land, the camping area is right at the base
-of the rock - something the Park Service wouldn't do nowadays. 
+of the rock - something the Park Service wouldn't do nowadays.
 After I got back, I heated some canned spaghetti and crawled into
 bed.  Boy did I regret eating that whole can of spaghetti!  My
 stomach hurt all night.
@@ -626,7 +624,7 @@ stomach hurt all night.
 [Next Page](oct2001_page6.htm)
 
 [Page 1](oct2001_page1.htm)    [Page
-2](oct2001_page2.htm)    [Page 3](oct2001_page3.htm)   
+2](oct2001_page2.htm)    [Page 3](oct2001_page3.htm)
 [Page 4](oct2001_page4.htm)    [Page
 5](oct2001_page5.htm)    **Page 6**
 
@@ -663,7 +661,7 @@ tailings ponds, which are proudly visible from the main road.  I stopped
 to read the sign that they had marking this spot.  It said something like,
 "Here is the former site of the Uravan mining town, where they mined
 uranium and vanadium.  The mine shut down, but the mining company has
-undertaken a monumental cleanup effort which will take another 10 years. 
+undertaken a monumental cleanup effort which will take another 10 years.
 By the time it's finished in 1989, this entire area will be restored to its
 natural appearance."  I laughed.  The area looked nothing like
 its natural appearance, unless God for some reason created this valley with
@@ -706,7 +704,7 @@ Unaweep Seep
 
 Unaweep Canyon is interesting in that it has two canyon mouths.  They
 say this was the channel for the Gunnison River millions of years ago, until the
-Uncompaghre Uplift happened.  Then, the Gunnison found a new channel. 
+Uncompaghre Uplift happened.  Then, the Gunnison found a new channel.
 And now water in the Unaweep Canyon flows out both sides, depending on which
 side of the divide you're on.  I'd heard lots of good things about the
 scenery in Unaweep Canyon but I wasn't overly impressed, personally.

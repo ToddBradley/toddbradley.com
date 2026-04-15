@@ -76,7 +76,7 @@ function listenEvent(iframe, target) {
       const msg = typeof e.data === 'string' ? JSON.parse(e.data) : e.data;
       if (msg.from === "cusdis") {
         if (msg.event === "onload") {
-          const isDark = document.documentElement.getAttribute('data-mode') === 'dark' || 
+          const isDark = document.documentElement.getAttribute('data-mode') === 'dark' ||
                          (!document.documentElement.hasAttribute('data-mode') && window.matchMedia('(prefers-color-scheme: dark)').matches);
           postMessage("setTheme", isDark ? "dark" : "light");
         } else if (msg.event === "resize") {

@@ -1,17 +1,19 @@
 # Site Architecture & Memory Jogger
 
-*Target Audience: Todd Bradley (2 years from now)*
+_Target Audience: Todd Bradley (2 years from now)_
 
 This document outlines how `toddbradley.com` works under the hood. It was migrated from WordPress to Jekyll in early 2026 to simplify hosting, improve performance, and reduce maintenance overhead.
 
 ## The Core Stack
 
 1. **Jekyll (Static Site Generator)**
+
    - The site uses the **Chirpy** theme.
    - Content is written in Markdown and lives in `_posts/`.
    - Building the site converts everything to static HTML/CSS/JS.
 
 2. **GitHub (Source Control)**
+
    - The repository hosts all source files, drafts, and configuration.
    - **Trigger:** Any push to the `main` branch automatically triggers a build.
 
@@ -33,7 +35,7 @@ Because Jekyll is static, we needed an external system to handle comments. We ch
 If you ever need to rebuild or recreate the Comentario instance from scratch, follow these steps:
 
 1. **Create a Railway Account:** Go to [railway.app](https://railway.app/).
-2. **Deploy the Template:** Railway has a template for Comentario (https://railway.app/template/comentario). **Important:** To get email notifications working (if you ever upgrade to a paid tier), you cannot use the default deployment directly. You must first go to the template's source repository (https://github.com/ThallesP/comentario-on-railway) and **Fork** it to your own GitHub account.
+2. **Deploy the Template:** Railway has a template for Comentario (<https://railway.app/template/comentario>). **Important:** To get email notifications working (if you ever upgrade to a paid tier), you cannot use the default deployment directly. You must first go to the template's source repository (<https://github.com/ThallesP/comentario-on-railway>) and **Fork** it to your own GitHub account.
 3. **Configure Environment Variables:** In Railway, deploy from your newly forked repository. You will need to modify the `Dockerfile` and `secrets.template.yaml` in your fork to accept SMTP variables. Then, configure these variables in Railway:
    - `BASE_URL`: The URL where your Comentario instance will live (e.g., `https://comments.toddbradley.com`).
    - `DB_HOST`, `DB_USER`, `DB_PASSWORD`, `DB_NAME`: Provisioned automatically by Railway's PostgreSQL plugin.
@@ -50,23 +52,27 @@ If you ever need to rebuild or recreate the Comentario instance from scratch, fo
 
 ## Automation & Notifications
 
-Handling comment notifications requires a somewhat complex setup because **Railway's free/hobby tier strictly blocks outbound SMTP (port 587/465)** to prevent spam. Comentario natively uses SMTP to send moderation alerts, and Railway *can* support this directly, but only if you upgrade to a paid tier. Since we wanted to keep costs at zero, that feature is broken out-of-the-box on our current host.
+Handling comment notifications requires a somewhat complex setup because **Railway's free/hobby tier strictly blocks outbound SMTP (port 587/465)** to prevent spam. Comentario natively uses SMTP to send moderation alerts, and Railway _can_ support this directly, but only if you upgrade to a paid tier. Since we wanted to keep costs at zero, that feature is broken out-of-the-box on our current host.
 
 Here is how we bypassed it:
 
 ### 1. New Comment (Pending/Moderation) Alerts
+
 When someone submits a comment, it defaults to a "Pending" state (`is_pending = TRUE` in the DB) awaiting your approval.
+
 - **How it works:** A Python script (`maintenance-scripts/check_pending_comments.py`) runs every hour via a **GitHub Actions Cron Job** (`.github/workflows/check_comments.yml`).
-- **The mechanism:** The script connects *directly* to the Railway PostgreSQL database, queries the `cm_comments` table for any comments pending in the last 65 minutes, and uses Google's standard SMTP (via an App Password) to email you.
+- **The mechanism:** The script connects _directly_ to the Railway PostgreSQL database, queries the `cm_comments` table for any comments pending in the last 65 minutes, and uses Google's standard SMTP (via an App Password) to email you.
 - **Why:** GitHub Actions does not block outbound SMTP like Railway does.
 
 ### 2. General Newsletter & Subscriber Updates
+
 For handling user subscriptions and general site updates, we use **Buttondown**.
+
 - **Integration:** A form is located in the site's footer.
 - **Automation:** **Zapier** monitors the site's main RSS feed. When a new blog post goes live, Zapier detects it and triggers Buttondown to email your subscribers.
 
 ## Key "Gotchas" to Remember
 
-*   **Railway Port Blocks:** Never try to configure standard SMTP directly inside the Railway Comentario app unless you upgrade to a paid tier that explicitly allows outbound mail.
-*   **Comentario RSS Feeds:** Comentario *does* have an RSS feed for comments (`/api/rss/comments?domain=...`), but it **only shows approved comments**. It cannot be used to trigger moderation alerts for pending comments.
-*   **Database Schema:** Comentario prefixes its tables with `cm_` (e.g., `cm_comments`). The approval state is stored as a boolean column named `is_pending`, not an integer `state` column.
+- **Railway Port Blocks:** Never try to configure standard SMTP directly inside the Railway Comentario app unless you upgrade to a paid tier that explicitly allows outbound mail.
+- **Comentario RSS Feeds:** Comentario _does_ have an RSS feed for comments (`/api/rss/comments?domain=...`), but it **only shows approved comments**. It cannot be used to trigger moderation alerts for pending comments.
+- **Database Schema:** Comentario prefixes its tables with `cm_` (e.g., `cm_comments`). The approval state is stored as a boolean column named `is_pending`, not an integer `state` column.

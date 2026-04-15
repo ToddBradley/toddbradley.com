@@ -35,15 +35,15 @@ like most interesting rock formations - is all about the unique and attractive
 placement of distinct layers.
 
 16 oz tub of natural sour cream - I only use pure, natural sour cream with no
-additives or gelatin  
+additives or gelatin
 1 small tub of guacamole dip - I would never serve this kind of guacamole by
 itself (being a guacamole snob, I avoid any guacamole older than 60 minutes),
-but it's good enough for this dip  
-1 can of fat free refried beans  
-1 big tomato  
-1 chunk of cheddar cheese  
-1 bunch of green onions  
-1 small can of generic sliced black olives  
+but it's good enough for this dip
+1 can of fat free refried beans
+1 big tomato
+1 chunk of cheddar cheese
+1 bunch of green onions
+1 small can of generic sliced black olives
 chili powder
 
 In a mixing bowl, stir the refried beans with a few dashes of chili powder
@@ -59,12 +59,12 @@ top.
 
 The luscious stratigraphy of the dip is as follows:
 
-tomato  
-green onion  
-cheese  
-olives  
-sour cream  
-guacamole dip  
+tomato
+green onion
+cheese
+olives
+sour cream
+guacamole dip
 refried beans
 
 Serve with your favorite white or yellow corn chips.
@@ -80,25 +80,25 @@ marinade:
 
 #### Grilled Atlantic Salmon Marinade
 
-1/2 cup extra virgin cold pressed olive oil  
-1/2 cup balsamic vinegar  
-1 Tbsp soy sauce  
-1/4 tsp ground pepper  
-1 tsp dill  
-  
+1/2 cup extra virgin cold pressed olive oil
+1/2 cup balsamic vinegar
+1 Tbsp soy sauce
+1/4 tsp ground pepper
+1 tsp dill
+
 Brush over salmon on both sides before and during grilling on open flame.
 
 #### Creamy Guacamole
 
-1 avocado  
-2 Tbsp salsa  
-dash of salt  
-dash of ground pepper  
-dash of cayenne pepper  
-dash of onion powder  
-dash of garlic powder  
-2 Tbsp sour cream  
-  
+1 avocado
+2 Tbsp salsa
+dash of salt
+dash of ground pepper
+dash of cayenne pepper
+dash of onion powder
+dash of garlic powder
+2 Tbsp sour cream
+
 This recipe has evolved over time. Beth likes guacamole to be creamier than I
 used to make it, so I started adding sour cream (the 100% natural kind - I make
 no guarantees how this would taste with the stuff that includes gelatin and
@@ -128,15 +128,15 @@ prevent the guacamole from turning brown. Enjoy with salty corn chips.
 
 #### Fresh Salsa (called "pico de gallo" by those in the know)
 
-8 Roma tomatoes  
-4 tomatillos  
-1/2 jalapeno  
-1/2 yellow onion  
-1 cup cilantro  
-1/4 tsp salt  
-1/4 tsp ground pepper  
-juice of 1/2 lime  
-  
+8 Roma tomatoes
+4 tomatillos
+1/2 jalapeno
+1/2 yellow onion
+1 cup cilantro
+1/4 tsp salt
+1/4 tsp ground pepper
+juice of 1/2 lime
+
 Roma tomatoes are much better for salsa than the big round tomatoes are. Roma
 tomatoes have more "meat" to them and less water. My mother loves this recipe
 but has found she doesn't like tomatillos very much, so she makes this salsa
@@ -144,26 +144,26 @@ without them and puts in a couple extra tomatoes instead. Frankly, tomatillos
 don't add a whole lot of flavor, but are a little tangy and add some green to
 offset the red from the tomatoes. If you can't find tomatillos in your part of
 the world, this recipe will still be good without them. But you MUST have Roma
-tomatoes, not the kind you slice for hamburgers.  
-  
+tomatoes, not the kind you slice for hamburgers.
+
 Rinse the tomatoes and skin and rinse the tomatillos. Skin the onion. Rinse the
 cilantro in cold water using a colander. Cut the stem ends off the tomatoes,
 then cut them each in half lengthwise. Cut the tomatillos in half lengthwise,
 too. Throw them all in a food processor that has wide blades and is turned off.
 Cut the onion into 1" cubes and toss those into the food processor along with
-the jalapeno and salt and pepper.  
-  
+the jalapeno and salt and pepper.
+
 Set the food processor for the lowest setting and hit the Pulse button. It's
 important to avoid using a high speed or letting it go too long. If you do,
 you'll end up with very finely chopped salsa, which is runny and doesn't impress
 your guests. So, just hit that Pulse button a few times until everything's
-broken up a bit. Now, put in the cilantro and squeeze the lime juice in.   
-  
+broken up a bit. Now, put in the cilantro and squeeze the lime juice in.
+
 Hit the food processor a few more times until everything's mixed together, with
 chunks of about 1/4" in size. Put it in a bowl and stir it around a little,
 before putting in the fridge for half an hour or so. When it's time to eat, stir
-it around a little as it has a tendency to settle.  
-  
+it around a little as it has a tendency to settle.
+
 Don't make it more than about 3 hours before you want to eat it. This salsa is
 incredibly yummy when fresh, but loses its excitement value (which comes from
 the pungency of the fresh cilantro) fairly quickly. So, it doesn't make good
@@ -172,7 +172,7 @@ People chow down on this stuff.
 
 #### Blue Corn Lamb Tamales
 
-Ok, this is a big undertaking.  I've only done this once. 
+Ok, this is a big undertaking.  I've only done this once.
 But before I get into the details, let me give you some background.
 
 I came up with the idea for this recipe not long after reading a
@@ -197,7 +197,7 @@ sweet nuttiness that would combine well with the gaminess of mutton.
 So I came up with the idea for blue corn lamb tamales.  The
 toughest part was getting the two key ingredients.
 
-The dough for tamales is made from what's called masa. 
+The dough for tamales is made from what's called masa.
 It's not the same as corn meal, nor is it the same as corn flour.  Masa is
 corn flour that's made from corn which has been treated in a special way with
 lime (not the citrus fruit but the mineral).  Masa that's made from blue
@@ -221,21 +221,21 @@ filling, making the dough, and putting it all together.
 
 #### The Filling
 
-1 pound shredded, roasted lamb  
+1 pound shredded, roasted lamb
 6 oz. dried red Anaheim chiles (the package I bought was labeled "chile de
 ristra" and I can only assume they were dried Anaheims since that's usually what
-ristras are made from)  
-1 can of condensed chicken broth (Campbell's, for instance)  
-3 tablespoons Mexican oregano  
-2 tablespoons flour (regular wheat flour)  
-3 cloves garlic  
-1 teaspoon salt  
-vegetable oil  
+ristras are made from)
+1 can of condensed chicken broth (Campbell's, for instance)
+3 tablespoons Mexican oregano
+2 tablespoons flour (regular wheat flour)
+3 cloves garlic
+1 teaspoon salt
+vegetable oil
 water
 
 Roast a half a leg of lamb until it's adequately cooked on the
 inside.  This'll take two to three hours in an oven of around 400 degrees,
-depending on the size of the lamb and how well done you like your meat. 
+depending on the size of the lamb and how well done you like your meat.
 Once it's thoroughly roasted, let it cool to the point you can rip it apart with
 your hands.  Pull all the meat off the bone and shred it by hand into small
 pieces.
@@ -263,7 +263,7 @@ all together.  Then pour in the chile puree.  Stir and heat to
 simmering.  You now have a **beautiful** deep red chile sauce.
 
 Add the shredded lamb to the sauce, along with enough water to
-make it all juicy.  Simmer it all together for a while, stirring regularly. 
+make it all juicy.  Simmer it all together for a while, stirring regularly.
 Once you're tired of simmering and the flavors are all mixed together, you've
 finished the tamal filling.  Set it aside.
 
@@ -273,26 +273,26 @@ should have
 
 2 bags (12 ounces) dried corn husks
 
-Soak the husks in a pot of hot water for a couple hours or so. 
+Soak the husks in a pot of hot water for a couple hours or so.
 You'll probably need to put a heavy plate on top of the husks to keep them
 submerged.
 
 #### The Dough
 
-36 ounces (6 cups) harinilla (also called blue corn masa)  
-2 cups lard  
-1 can of condensed chicken broth (Campbell's, for instance)  
-2 tablespoons salt  
-vegetable oil  
+36 ounces (6 cups) harinilla (also called blue corn masa)
+2 cups lard
+1 can of condensed chicken broth (Campbell's, for instance)
+2 tablespoons salt
+vegetable oil
 water
 
-In a bit mixing bowl, whip the lard with an electric mixer. 
-Whip it.  Whip it good.  You want it to be light and fluffy. 
+In a bit mixing bowl, whip the lard with an electric mixer.
+Whip it.  Whip it good.  You want it to be light and fluffy.
 Whipping lard isn't easy and it'll take a while if you use an electric hand
 mixer.
 
 Slowly mix in the harinilla, along with the salt, the chicken
-broth, and a can of hot water.  Crank up the mixer power and whip it more. 
+broth, and a can of hot water.  Crank up the mixer power and whip it more.
 You should be getting a nice blue goo.  Add 1/2 cup of vegetable oil and
 enough water to get a good consistency.  You want this to have the
 consistency of pancake or cake batter so you can spoon it into the corn husks
@@ -306,7 +306,7 @@ they're wet and pliable, take some out of the water and pat them dry.  It's
 time to assemble the tamales.
 
 Take some of the worst looking corn husks and rip them into long
-strips.  You'll use these strips to tie the ends of the tamales closed. 
+strips.  You'll use these strips to tie the ends of the tamales closed.
 Some people use string for this, which is stronger but not as pretty.
 
 The other recipes I read to figure out how to assemble these had
@@ -316,7 +316,7 @@ recipes, or my corn husks weren't as big as theirs.  Anyhow, I settled on a
 process that worked well for me.  It's very simple and I'll explain it
 here, but you can form your tamales however you want.
 
-Take a corn husk and spoon in about 2 tablespoons of dough. 
+Take a corn husk and spoon in about 2 tablespoons of dough.
 Spread this around into a little rectangle that will be the outer layer of the
 tamal.  One edge of the rectangle should be up against the edge of the corn
 husk.  Now, spoon 1 tablespoon of filling in a line on top of the dough,
@@ -332,11 +332,11 @@ batter first).  Then it's time to steam them.
 
 If you've got a steamer, great.  Use it.  I improvised
 by putting a little cooling rack type thing inside of my largest pot.  Put
-water in the bottom, not quite touching the rack.  Toss in a coin. 
+water in the bottom, not quite touching the rack.  Toss in a coin.
 This trick is to give you an audible signal how fast the water in the bottom is
 boiling.
 
-Pile the tamales on top of the rack and cover the pot. 
+Pile the tamales on top of the rack and cover the pot.
 Fire up the burner and let it all steam for 3 hours.  As far as I know,
 it's not possible to overcook them.  Since they're just steaming, they're
 not going to burn.  The coin will shake around in the boiling water to let
@@ -352,18 +352,18 @@ I recommend serving these tamales on top of some
 
 #### Borracho Beans
 
-It wasn't until I took a Spanish class that I learned that *borracho* means "drunk".  I'd had borracho beans at restaurants before
-but didn't realize the source of the name.  They're called *borracho*
+It wasn't until I took a Spanish class that I learned that _borracho_ means "drunk".  I'd had borracho beans at restaurants before
+but didn't realize the source of the name.  They're called _borracho_
 because the beans are cooked in beer.  Here's my recipe.
 
-4 cups cooked pinto beans  
-1/2 pound bacon  
-1/2 onion  
-1 clove garlic  
-1 teaspoon Mexican oregano  
-2 teaspoons salt  
-1 can of cheap beer, preferably left over from a party  
-ground pepper  
+4 cups cooked pinto beans
+1/2 pound bacon
+1/2 onion
+1 clove garlic
+1 teaspoon Mexican oregano
+2 teaspoons salt
+1 can of cheap beer, preferably left over from a party
+ground pepper
 cayenne pepper
 
 Cook the beans in advance.  You want 4 **cooked** cups
@@ -393,14 +393,14 @@ way, but I make a different kind of chili for that purpose.  No, this is
 the kind of chili you use to smother bean burritos.
 
 1 big can of generic tomato juice (yes, tomato juice, not V8 or
-tomato sauce)  
-2 or 3 onions  
-1 small can of diced green chiles  
-1 pound of pork chops  
-cayenne pepper  
-garlic powder  
-salt  
-vegetable oil  
+tomato sauce)
+2 or 3 onions
+1 small can of diced green chiles
+1 pound of pork chops
+cayenne pepper
+garlic powder
+salt
+vegetable oil
 grated cheddar cheese
 
 Cube the uncooked pork chops.  Chop the onions.  In a
@@ -413,7 +413,7 @@ uncovered on low heat for 2 to 4 hours.  After it's all heated up and
 cooked an hour or so, add cayenne pepper, garlic powder, and salt to taste.
 
 While the chili is simmering away, make a bunch of bean
-burritos.  Just simple ones from refried beans and flour tortillas. 
+burritos.  Just simple ones from refried beans and flour tortillas.
 Don't put in cheese or onions, since those will both go on the top later.
 
 When the chili looks and smells too good to wait any longer, and

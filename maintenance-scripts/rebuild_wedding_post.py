@@ -25,10 +25,10 @@ parts = content.split('---\n', 2)
 if len(parts) == 3:
     front_matter = parts[0] + "---\n" + parts[1] + "---\n\n"
     body = parts[2]
-    
+
     # Strip out the old image block (everything before "BROOKE POWERS")
     body_parts = body.split('BROOKE POWERSandTODD BRADLEY', 1)
-    
+
     if len(body_parts) == 2:
         # Build the gallery HTML
         gallery_html = """<style>
@@ -58,16 +58,16 @@ if len(parts) == 3:
             # URL encode the spaces in the filename
             img_url = "/" + img_path.replace(" ", "%20")
             gallery_html += f'  <img src="{img_url}" alt="Wedding Photo" />\n'
-            
+
         gallery_html += "</div>\n\n"
-        
+
         # Add the remaining text back (fix the spacing issue in BROOKE POWERSandTODD BRADLEY while we're at it)
         remaining_body = "BROOKE POWERS and TODD BRADLEY" + body_parts[1]
-        
+
         # Write back to file
         with open(post_file, 'w') as f:
             f.write(front_matter + gallery_html + remaining_body)
-            
+
         print(f"Successfully updated post with {len(images)} gallery images and fixed signpost.")
     else:
         print("Error: Could not find 'BROOKE POWERSandTODD BRADLEY' text.")

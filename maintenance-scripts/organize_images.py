@@ -31,14 +31,14 @@ def find_source_file(url_path):
     # Url path might be absolute or relative, local or remote (wp.com)
     # We strip domain and query params
     clean_path = url_path.split('?')[0].split('#')[0]
-    
+
     # Common legacy patterns
     # https://i0.wp.com/toddbradley.com/wp-content/uploads/2015/10/img.jpg
     # http://toddbradley.com/wp-content/uploads/2015/10/img.jpg
     # /assets/img/converted/img.jpg
-    
+
     filename = os.path.basename(clean_path)
-    
+
     # Search in known asset dirs
     # 1. Try to guess structure from URL if it contains 'wp-content/uploads/YYYY/MM'
     match_wp = re.search(r'wp-content/uploads/(\d{4})/(\d{2})/(.*)', clean_path)
@@ -48,13 +48,13 @@ def find_source_file(url_path):
         candidate = os.path.join('assets/wp-content/uploads', year, month, name)
         if os.path.exists(candidate):
             return candidate
-            
+
     # 2. Brute force search by filename in asset dirs
     for root_dir in ASSETS_DIRS:
         for root, dirs, files in os.walk(root_dir):
             if filename in files:
                 return os.path.join(root, filename)
-                
+
     return None
 
 def process_content():
@@ -68,56 +68,56 @@ def process_content():
         ('_tabs', lambda fp: 'site'),
         ('_drafts', lambda fp: 'drafts')
     ]
-    
+
     for content_dir, subfolder_func in sources:
         if not os.path.exists(content_dir):
             continue
-            
+
         files = glob.glob(os.path.join(content_dir, '**', '*.md'), recursive=True)
         files += glob.glob(os.path.join(content_dir, '**', '*.html'), recursive=True)
-        
+
         for filepath in files:
             subfolder = subfolder_func(filepath)
             target_dir = os.path.join(UPLOADS_DIR, subfolder)
-            
+
             with open(filepath, 'r', encoding='utf-8') as f:
                 content = f.read()
-                
+
             new_content = content
             modified = False
-            
+
             # Find all links
             links = LINK_REGEX.findall(content) + HTML_IMG_REGEX.findall(content)
-            
+
             for link in links:
                 # Skip if already in correct uploads dir
                 if link.startswith(f'/uploads/{subfolder}/'):
                     continue
-                    
+
                 source_file = find_source_file(link)
-                
+
                 if source_file:
                     if not os.path.exists(target_dir):
                         os.makedirs(target_dir)
-                        
+
                     filename = os.path.basename(source_file)
                     target_path = os.path.join(target_dir, filename)
-                    
+
                     if os.path.exists(target_path) and not os.path.samefile(source_file, target_path):
                         if os.path.getsize(source_file) != os.path.getsize(target_path):
                             name, ext = os.path.splitext(filename)
                             filename = f"{name}_{subfolder}{ext}"
                             target_path = os.path.join(target_dir, filename)
-                    
+
                     if not os.path.exists(target_path):
                         print(f"Moving {source_file} -> {target_path}")
                         shutil.move(source_file, target_path)
-                    
+
                     # Update URL
                     new_url = f"/uploads/{subfolder}/{filename}"
                     new_content = new_content.replace(link, new_url)
                     modified = True
-            
+
             if modified:
                 with open(filepath, 'w', encoding='utf-8') as f:
                     f.write(new_content)

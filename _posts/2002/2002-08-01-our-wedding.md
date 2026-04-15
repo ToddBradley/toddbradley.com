@@ -5,7 +5,7 @@ date: 2002-08-01 12:00:00 -0700
 categories: [Family, Archive]
 ---
 
-***Everything you could hope to know about our wedding, and then some...***
+**_Everything you could hope to know about our wedding, and then some..._**
 
 This page is all about the upcoming wedding between Todd Bradley and Beth
 Partin.  If you know anything about us - and hopefully you do if you're
@@ -14,7 +14,7 @@ non-traditional wedding.  When we decided to get married, we both agreed
 that above all else we want our wedding to be fun for both us and our guests.
 
 Because so many of our
-guests are from out of town, we have planned an entire weekend of activities. 
+guests are from out of town, we have planned an entire weekend of activities.
 We feel it's very important to make this a time to share with our family and
 friends, so we invite you to join us for as many of the events around the
 wedding as you can.
@@ -73,19 +73,19 @@ designer in Belgium who makes fairly industrial style stuff.  They're made
 from titanium and silver, with our names engraved in Morse code.  Babs at
 Noelle & Co in Cherry Creek is the only jeweler in the US who carries this
 designer and we're the only couple who have bought them.  So it's safe to
-say we're the only ones in America with rings like this. 
+say we're the only ones in America with rings like this.
 [Here's a photo](/uploads/2002/rings.jpg), if you'd like to see them.
 
 ## The Reception
 
-Immediately after the ceremony, we'll have *hors d'ouevres* of the
+Immediately after the ceremony, we'll have _hors d'ouevres_ of the
 following:
 
-* black bean and feta empanadas
-* peppered beef satay
-* poached pear and gorgonzola canapes
-* gyoza dumplings
-* made-to-order sushi (thanks to the lovely and talented Erika
+- black bean and feta empanadas
+- peppered beef satay
+- poached pear and gorgonzola canapes
+- gyoza dumplings
+- made-to-order sushi (thanks to the lovely and talented Erika
   Arentzen)
 
 The full bar at the Boulder Theater, plus something very special -
@@ -93,13 +93,13 @@ locally brewed mead from Redstone Meadery in Boulder.
 
 Dinner will start around 7:00 and consist of a buffet of:
 
-* grilled marinated vegetables
-* penne pasta with vegetarian marinara sauce
-* woodland pasta with optional grilled chicken
-* baby spinach salad
-* new rosemary potatoes
-* garden salad
-* assorted breads
+- grilled marinated vegetables
+- penne pasta with vegetarian marinara sauce
+- woodland pasta with optional grilled chicken
+- baby spinach salad
+- new rosemary potatoes
+- garden salad
+- assorted breads
 
 But the most exciting part is the **carved bison tenderloin** and **made-to-order
 sushi and sashimi**!
@@ -123,7 +123,7 @@ If you'd like to give a gift, we're registered at two places.
 ## The Honeymoon
 
 Curious what we're doing for a honeymoon?  Well, we have a two week trip
-to Hawaii planned, where we will visit Oahu, Kauai, and the Big Island. 
+to Hawaii planned, where we will visit Oahu, Kauai, and the Big Island.
 We're staying mainly in B-and-B's and are intentionally staying away from the
 tourist resorts as much as possible.
 

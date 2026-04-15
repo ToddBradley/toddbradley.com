@@ -12,7 +12,7 @@ def clean_html(soup):
     # Remove navigation links and styles
     for tag in soup.find_all(['hr', 'style', 'script', 'link']):
         tag.decompose()
-    
+
     # Remove page navigation links (e.g., "Page 1 Page 2")
     for p in soup.find_all('p'):
         if p.text and 'Page 1' in p.text and 'Page 2' in p.text:
@@ -24,7 +24,7 @@ def process_file(filepath, year):
 
     soup = BeautifulSoup(html, 'html.parser')
     clean_html(soup)
-    
+
     img_dir = os.path.join(DEST_UPLOADS, str(year))
     os.makedirs(img_dir, exist_ok=True)
 
@@ -44,7 +44,7 @@ def process_file(filepath, year):
             # Copy file (read-only from source)
             if not os.path.exists(dest_img_path):
                 shutil.copy2(abs_src, dest_img_path)
-            
+
             # Update src in HTML
             img['src'] = f"/uploads/{year}/{filename}"
         else:
@@ -83,11 +83,11 @@ categories: {categories}
 ---
 
 """
-    
+
     post_dir = os.path.join(DEST_POSTS, str(year))
     os.makedirs(post_dir, exist_ok=True)
     post_path = os.path.join(post_dir, output_filename)
-    
+
     with open(post_path, 'w', encoding='utf-8') as f:
         f.write(front_matter + markdown_content)
     print(f"Created: {post_path}")

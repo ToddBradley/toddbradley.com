@@ -7,7 +7,7 @@ categories: [Family, Archive]
 
 Hi, folks.  We’re really looking forward to seeing you at our wedding.  As we
 said in our wedding announcement, we have planned an entire weekend of fun
-activites so we can spend as much time as possible with our family and friends. 
+activites so we can spend as much time as possible with our family and friends.
 If you're visiting from out of town, we hope this information helps you plan a
 great visit.  If you're local, you'll still get a lot of information from
 this web page.
@@ -26,13 +26,13 @@ carpool over there.
 
 The Olive Garden is located here:
 
-> 5551 W 88 Avenue  
-> WESTMINSTER, CO  
+> 5551 W 88 Avenue
+> WESTMINSTER, CO
 > 303-650-0889
 
 [Here's a map](http://www.qwestdex.com/servlet/ActionServlet?pid=singlemappingresults&primaryLocationKey=&primaryListingID=186804658&primaryInRegion=true&primaryHeadingID=2915&primaryStreetAddress1=5551+W+88+Av&primaryCity=WESTMINSTER&primaryState=CO&primaryZipCode=8003).  If you plan to join us for dinner, **please
 [RSVP to Todd](mailto:todd@toddbradley.com)
-by August 23** so he can reserve the right size room and table for everyone. 
+by August 23** so he can reserve the right size room and table for everyone.
 If you don't RSVP, you'll be eating on the floor!  Also, this event is "Dutch treat" - hey, we're buying dinner Sunday!
 
 To get to Beth's house from Towne Place Suites:
@@ -54,7 +54,7 @@ want to get guests, family members, and the wedding party together for a
 picnic.  Everyone can spend the afternoon exploring the park.  Then,
 whenever you're hungry, come by our base camp.
 
-Ernie and Betty Bradley are hosting the picnic (thanks, Mom and Dad!). 
+Ernie and Betty Bradley are hosting the picnic (thanks, Mom and Dad!).
 Food will be served from around 5:30 to 7:30, so you can come and go if you want
 to do some hiking, sightseeing, elk watching, fishing, or whatever.
 
@@ -87,8 +87,7 @@ To get to Rocky Mountain National Park from Broomfield:
 > big hill, and into Boulder, where U.S. 36 turns into 28th Street. Follow 28th
 > Street north through Boulder and out, where it turns back into U.S. 36.
 >
-> You'll take 36 along the foothills to Lyons, where it meets up with Highway
-> 34. Turn left and drive through Lyons. You'll go through town and come to a T
+> You'll take 36 along the foothills to Lyons, where it meets up with Highway 34. Turn left and drive through Lyons. You'll go through town and come to a T
 > intersection. Turn right (you're still on U.S. 36).
 >
 > When you get to Estes Park, if you don't need to stop at the McDonald's or
@@ -122,11 +121,11 @@ Here is the official schedule for the wedding events.
 Pearl Street
 Photos - wedding party should meet in front of the Boulder
 Theater
-6:00 PM 
-Boulder Theater 
+6:00 PM
+Boulder Theater
 Ceremony begins
 6:30 PM
-Boulder Theater 
+Boulder Theater
 Hors d'ouvres and drinks
 7:00 PM
 Boulder Theater
@@ -134,9 +133,9 @@ Dinner buffet begins, then dancing
 
 Here is the address, again, just in case you forgot.
 
-> Boulder Theater  
-> 2032 14th Street  
-> Boulder, Colorado  
+> Boulder Theater
+> 2032 14th Street
+> Boulder, Colorado
 > 303-786-7030
 
 To get to the Boulder Theater from the Boulderado Hotel:
@@ -181,9 +180,9 @@ out around the house, going to a movie, visiting the
 [Butterfly Pavilion](http://www.butterflies.org/index.cfm), or
 whatever people want to do.
 
-> Todd and Beth's House  
-> 2794 W 12th Avenue Pl  
-> Broomfield, Colorado 80020  
+> Todd and Beth's House
+> 2794 W 12th Avenue Pl
+> Broomfield, Colorado 80020
 > 303-466-8880
 
 If this is your first time visiting our house,
@@ -209,20 +208,20 @@ $89
 2 Bedroom Suite + Sofa Sleeper
 $89
 
- Plus 9.65% state and local tax
+Plus 9.65% state and local tax
 
- Their rooms come with:
+Their rooms come with:
 
-* Fully equipped kitchen
-* Work area with desk
-* Voice and data lines
-* Personalized voice mail
-* Full expanded cable TV
-* Outdoor pool
-* Secured entrances with 24 hour staffing
-* On-site business services
-* Guest laundry
-* Exercise room
+- Fully equipped kitchen
+- Work area with desk
+- Voice and data lines
+- Personalized voice mail
+- Full expanded cable TV
+- Outdoor pool
+- Secured entrances with 24 hour staffing
+- On-site business services
+- Guest laundry
+- Exercise room
 
 For directions and a map to TownePlace Suites Marriott from the airport, click here.
 
@@ -233,11 +232,10 @@ If you'd like to stay near the wedding location, we recommend the
 block away from the Boulder Theater.  Here's what they have to say about
 themselves.
 
-:   The historic Hotel Boulderado opened on New Year's Day
-    1909. Boulder's first luxury hotel has become a national registered landmark,
-    and is located in beautiful downtown Boulder, in the heart of the historic
-    shopping and restaurant district.   
-      
+: The historic Hotel Boulderado opened on New Year's Day 1909. Boulder's first luxury hotel has become a national registered landmark,
+and is located in beautiful downtown Boulder, in the heart of the historic
+shopping and restaurant district.
+
     The Hotel Boulderado provides the finest in Victorian accommodations, with all
     the services for the modern traveler. Our elegant meeting and banquet
     facilities offer a unique setting for your next event.

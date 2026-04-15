@@ -40,7 +40,7 @@ def process_file(filepath):
     def repl_link(match):
         link_text = match.group(1)
         lower_link = link_text.lower()
-        
+
         # Logic to determine category
         if lower_link in GENERIC_LINK_TEXT or lower_link.startswith('http') or 'blog article' in lower_link:
             cat_to_use = front_matter_cat

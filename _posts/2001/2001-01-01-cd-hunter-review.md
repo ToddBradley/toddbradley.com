@@ -8,7 +8,7 @@ categories: [Reviews, Archive]
 #### The Tale of **ToddBradley404** and **cd.hunter**
 
 On June 26, 2004, I placed a bid on [eBay.com](http://www.ebay.com)
-for auction 4021038168. 
+for auction 4021038168.
 The item up for auction was described as "Harold
 Faltermeyer - FLETCH - complete score, CD."  The seller offered this
 description:
@@ -17,34 +17,30 @@ description:
 
 ![](/uploads/2001/s.gif)
 ![](/uploads/2001/s.gif)
-**Description** 
+**Description**
 ![](/uploads/2001/s.gif)
- 
+
 ![](/uploads/2001/s.gif)
 ![](/uploads/2001/s.gif)
 ![](/uploads/2001/s.gif)
-*Item Specifics - Music: CDs*
- 
- 
-Genre: 
+_Item Specifics - Music: CDs_
 
-**Soundtrack, Theater** 
- 
- 
-Album Type: 
+Genre:
 
-**Full-Length CD** 
- 
- 
-Sub-Genre: 
+**Soundtrack, Theater**
 
-**Film** 
- 
- 
-Condition: 
+Album Type:
 
-**New** 
- 
+**Full-Length CD**
+
+Sub-Genre:
+
+**Film**
+
+Condition:
+
+**New**
+
 ![](/uploads/2001/s.gif)
 
 ![](/uploads/2001/s.gif)
@@ -52,9 +48,9 @@ Condition:
 ![](/uploads/2001/s.gif)Begin Description
 
 **Complete Original Motion Picture Score to the
-film "FLETCH" (1985)  
-Music composed and performed by Harold Faltermeyer  
-CD and INSERTS in MINT CONDITION, very rare collector's item   
+film "FLETCH" (1985)
+Music composed and performed by Harold Faltermeyer
+CD and INSERTS in MINT CONDITION, very rare collector's item
 ST. STEPHEN STUDIOS, MST-007**
 
 Whoa!  "Sounds awesome," I thought.  It's a "very rare
@@ -62,7 +58,7 @@ collector's item" and the bidding is up to a hundred bucks.  Someone
 must've gotten hold of the original recordings of the Harold Faltermeyer's score
 and finally released them!  So I bid a few dollars more than the highest
 bid, and ended up winning the auction.  On 6/27/2004, I submitted payment
-through PayPal of $107.50 for the CD, plus $2.95 for shipping & handling. 
+through PayPal of $107.50 for the CD, plus $2.95 for shipping & handling.
 And I figured that for such an expensive, rare, new condition CD, I should pay
 the extra $1.00 for shipping insurance.
 
@@ -98,7 +94,7 @@ showing you the emails I sent back and forth with the seller of the CD.
 
 Then, the CD did finally arrive in the mail on 7/12/2004.  I was very
 surprised to see that this "very rare collector's item" was just a CD-R
-someone burned, with a little color printout of a cheesy, handmade CD insert. 
+someone burned, with a little color printout of a cheesy, handmade CD insert.
 There was no CD label, just a hand-written note with a Sharpie type marker on
 the CD face: Saint Stephen Studios, Fletch, Original Motion Picture
 Soundtrack, MST-007.
@@ -108,34 +104,30 @@ I wrote back to cd.hunter:
 > The CD arrived today. I have to say
 > I'm not satisfied with the purchase, for the following reasons:
 >
-> 1) First, contrary to the
-> description in the eBay auction, this is not a "very rare collector's item".
-> Somebody (you, perhaps?) ripped the audio track from the "Fletch" DVD to
-> create tracks that augment material that's available from the widely
-> released "Fletch" soundtrack cassette and album. So, this CD violates the
-> copyrights of at least two entities - the publisher of the soundtrack album
-> and the publisher of the DVD of the film. In taking my money for this,
-> you've broken both US copyright law and the eBay rules of conduct.
->
-> 2) The cover art on the CD isn't the
-> same as the image you used to promote the auction on eBay. Bait-and-switch
-> violates another eBay rule of conduct.
->
-> 3) The CD insert says "NOT FOR
-> RESALE". So, either St. Stephen Studios (the purported licensor of this
-> material) is a company you made up, in which case you're the one who broke
-> the copyright laws. Or, you bought this from someone else who claims to own
-> the license, and then violated their license by reselling it. Either way,
-> you obtained and/or sold this dishonestly. 
->
-> 4) I believe you lied to me when you
-> wrote that the CD was mailed "Tuesday morning". The USPS label on the
-> envelope says you mailed it on July 8, which was Thursday. Not a big deal, I
-> suppose, but it adds up with all the others to make this a fishy deal.
->
-> 5) Finally, I paid you an extra
-> dollar for insurance, but there is no insurance sticker on the envelope. I
-> think that money went into your own pocket, not to pay for USPS insurance.
+> 1. First, contrary to the
+>    description in the eBay auction, this is not a "very rare collector's item".
+>    Somebody (you, perhaps?) ripped the audio track from the "Fletch" DVD to
+>    create tracks that augment material that's available from the widely
+>    released "Fletch" soundtrack cassette and album. So, this CD violates the
+>    copyrights of at least two entities - the publisher of the soundtrack album
+>    and the publisher of the DVD of the film. In taking my money for this,
+>    you've broken both US copyright law and the eBay rules of conduct.
+> 2. The cover art on the CD isn't the
+>    same as the image you used to promote the auction on eBay. Bait-and-switch
+>    violates another eBay rule of conduct.
+> 3. The CD insert says "NOT FOR
+>    RESALE". So, either St. Stephen Studios (the purported licensor of this
+>    material) is a company you made up, in which case you're the one who broke
+>    the copyright laws. Or, you bought this from someone else who claims to own
+>    the license, and then violated their license by reselling it. Either way,
+>    you obtained and/or sold this dishonestly.
+> 4. I believe you lied to me when you
+>    wrote that the CD was mailed "Tuesday morning". The USPS label on the
+>    envelope says you mailed it on July 8, which was Thursday. Not a big deal, I
+>    suppose, but it adds up with all the others to make this a fishy deal.
+> 5. Finally, I paid you an extra
+>    dollar for insurance, but there is no insurance sticker on the envelope. I
+>    think that money went into your own pocket, not to pay for USPS insurance.
 >
 > What do you have to say about all
 > this?  I'll hold off submitting my eBay feedback until I see your
@@ -267,12 +259,12 @@ envelope).  That's probably all overkill, but I'm unhappy that I got
 ripped off.
 
 Have any advice for me?  Did I do the right thing?  Did I
-overreact?  Was I unfair?  Should I involve the legal authorities? 
-Want an expensive CD of "Fletch" soundtrack music? 
+overreact?  Was I unfair?  Should I involve the legal authorities?
+Want an expensive CD of "Fletch" soundtrack music?
 [Email me](mailto:todd@toddbradley.com) your thoughts.
 
 Shortly after I left negative feedback for cd.hunter and
-published this webpage, I've gotten a plethora of panicked emails from him. 
+published this webpage, I've gotten a plethora of panicked emails from him.
 All of a sudden he's interested in offering me a refund, for some reason.
 
 **At 7/14/2004 10:02 PM, cd.hunter wrote to me:**
@@ -391,7 +383,7 @@ this guy ever sleep?**
 > many emails.
 >
 > > please return my CD
-> "Fletch" and I will refund  
+> > "Fletch" and I will refund
 > > your money,
 >
 > For the moment, I think I'll
@@ -401,7 +393,7 @@ this guy ever sleep?**
 > wrote to me today to tell me I over reacted to this whole thing. So I'm going
 > to think all this over for a few more days.
 >
-> > and please remove  
+> > and please remove
 > > all that about me,
 >
 > I assume the "all that" you
@@ -418,7 +410,7 @@ this guy ever sleep?**
 > turn things around as if I'm somehow the "bad guy" in all this.
 >
 > > if you not happy with the
-> item just ask for refund
+> > item just ask for refund
 >
 > What do you think I meant
 > when I wrote to you that the "right thing for you to do would be to offer a
@@ -426,8 +418,8 @@ this guy ever sleep?**
 > and insurance"? Is there something unclear about that sentence?
 >
 > > there is sellers selling
-> fake CD's daily and I sold to you  
-> > The CD which I   
+> > fake CD's daily and I sold to you
+> > The CD which I
 > > bought on EBAY
 >
 > You just don't get it, do
@@ -435,15 +427,15 @@ this guy ever sleep?**
 > to break them. The eBay rules apply to all of us.
 >
 > > ok you don't like it return
-> it, but you have to be nice when  
-> > you talk to   
+> > it, but you have to be nice when
+> > you talk to
 > > people
 >
 > I apologize if I have been
 > rude or insulting in any way.
 >
 > > I was nice to you from the
-> beginning Todd
+> > beginning Todd
 >
 > Do you consider lying and
 > talking down to people to be "nice"? I don't.
@@ -453,23 +445,23 @@ this guy ever sleep?**
 > feedback about the transaction. Why the change of heart? I'd like to know.
 >
 > > Todd I never asked you to
-> leave me a positive feedback,
+> > leave me a positive feedback,
 >
 > You're right. My mistake. I
 > will correct my webpage immediately.
 >
 > > I can return money only by
-> cash or money order
+> > cash or money order
 >
 > What happened to your PayPal
 > access? I sent you the money through PayPal, and so you should be able to
 > refund it the same way.
 >
 > > Please return my item and
-> you'll get your money back  
-> > but you have no right to put all that against me on the  
-> > internet because it's between me and you, I can do the same   
-> > about you, I got your   
+> > you'll get your money back
+> > but you have no right to put all that against me on the
+> > internet because it's between me and you, I can do the same
+> > about you, I got your
 > > address.
 >
 > Don't worry. I promise I
@@ -477,7 +469,7 @@ this guy ever sleep?**
 > is just between you, me, eBay, PayPal, and the legal authorities.
 >
 > > I will report you also if
-> you don't remove your website about  
+> > you don't remove your website about
 > > me right now
 >
 > Why are you concerned about
@@ -492,10 +484,10 @@ this guy ever sleep?**
 > buying from him."
 >
 > > maybe you'll help me to get
-> those sellers who got my money  
-> > and never shipped   
-> > my items to me,  
-> > I reported them to Ebay and nothing happend, it happened   
+> > those sellers who got my money
+> > and never shipped
+> > my items to me,
+> > I reported them to Ebay and nothing happend, it happened
 > > couple of times.
 >
 > It is indeed a pity when that

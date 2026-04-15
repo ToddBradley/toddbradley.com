@@ -18,7 +18,7 @@ def process_file(filepath, year):
 
     soup = BeautifulSoup(html, 'html.parser')
     clean_html(soup)
-    
+
     img_dir = os.path.join(DEST_UPLOADS, str(year))
     os.makedirs(img_dir, exist_ok=True)
 
@@ -65,7 +65,7 @@ categories: {categories}
     post_dir = os.path.join(DEST_POSTS, str(year))
     os.makedirs(post_dir, exist_ok=True)
     post_path = os.path.join(post_dir, output_filename)
-    
+
     with open(post_path, 'w', encoding='utf-8') as f:
         f.write(front_matter + markdown_content)
     print(f"Created: {post_path}")

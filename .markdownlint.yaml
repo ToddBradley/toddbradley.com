@@ -15,3 +15,24 @@ MD001: false
 
 # Link fragments should be valid - disabled for legacy content
 MD051: false
+
+# Allow inline HTML (Jekyll heavily relies on HTML blocks)
+MD033: false
+
+# Allow multiple top-level headings (common in merged legacy journals)
+MD025: false
+
+# Allow emphasis as heading
+MD036: false
+
+# Disable empty link check to prevent crashes on legacy links
+MD042: false
+
+# Allow arbitrary reference links (prevents regex like [A-Z][a-z] from failing)
+MD052: false
+
+# Allow arbitrary ordered list prefixes (avoids conflicts with Prettier)
+MD029: false
+
+# Allow duplicate headings
+MD024: false

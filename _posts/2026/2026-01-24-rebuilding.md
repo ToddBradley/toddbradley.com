@@ -8,7 +8,6 @@ This blog started in the year 2000. I've gone through periods where I'd post som
 
 I was able to recover things to the point that at least my old posts would appear, but I lost the ability to log in and add anything new, or upgrade the WordPress software that ran the site, or do any maintenance on the site.
 
-
 ## The great transformation
 
 I had thought for a while of converting my WordPress site to Jekyll. [Jekyll](https://jekyllrb.com) is an open source tool for making static sites. "Static site" just means that all the pages are pre-generated, so when you click to view one it comes up instantly, or at least as fast as your internet connection will allow. This is a different approach than WordPress, where when you click on view a page the web server software does a bunch of computations and generates the page in real time before showing it to you.
@@ -20,7 +19,6 @@ I spent most of 2025 working toward that. It was a huge effort, because the rema
 But hey, I'm a software engineer. So I wrote some software that would take the downloaded HTML pages, pull out just the parts I wanted from each page, and save it in [Markdown](https://daringfireball.net/projects/markdown/) format, which is what Jekyll uses. It sorta worked, but had a lot of problems. And then "AI" came along. Once I started to play with Google Gemini CLI, I realized it could fix these problems way faster than I could.
 
 So at that point, progress accelerated. I have racked up hundreds of dollars of "AI" fees from Google, but it's saved me probably 120 hours of my own time. Anyhow, over the Christmas/New Years period, I finally recovered enough of my site that I could start to see it working in Jekyll. At that point, I switched gears from having Gemini write code to transform the old pages into the new pages, to having Gemini write code to clean up the remaining problems. That's much easier. We're not really done, but you can see the results right here. "You're soaking in it!" as the [old Palmolive TV commercial](https://www.youtube.com/watch?v=2dFlJikh0PY) used to say.
-
 
 ## What now?
 

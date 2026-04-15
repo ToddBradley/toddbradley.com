@@ -10,15 +10,15 @@ Wanna see how I've reviewed books I read in the past?  I think if you
 
 ## Right Now I'm Reading
 
-* *The Wave*
+- _The Wave_
 
 ## Up Next (maybe in this order, maybe not)
 
-* *The Monk and the Philosopher*
+- _The Monk and the Philosopher_
 
 ## Periodicals - Stuff I Regularly Read
 
-* *Wired*
-* *American Archaeology*
-* *Air and Space*
-* *Sierra*
+- _Wired_
+- _American Archaeology_
+- _Air and Space_
+- _Sierra_

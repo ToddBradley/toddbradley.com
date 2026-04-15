@@ -58,7 +58,6 @@ Seven years ago our paths crossed for the first time. And now we’re pleased to
 
 **UPDATE**: We disabled our gift registry a few months after the wedding, so if you click on anything below it won't go anywhere now. Thank you to everyone who generously contributed to our new life together.
 
-
 As a middle-aged couple trying to combine two households into one, we don’t need any more stuff. No kitchen gadgets, no his and hers bath mats, no barbecue tool kit. Instead, if you’d like to send a gift, the thing we need most is money for a 2024 honeymoon and to do some home upgrades to fit two people in the space of one. Remember, no gifts. If you’d like to pitch in a few bucks, [do so on this website](https://www.zola.com/registry/bradleypowerswedding).
 
 Brooke and Todd
@@ -68,4 +67,3 @@ Brooke and Todd
 Denver CO 80203
 
 Our Newlywed Fund - Contribute what you wish - [https://www.zola.com/registry/bradleypowerswedding](https://www.zola.com/registry/bradleypowerswedding)
-
