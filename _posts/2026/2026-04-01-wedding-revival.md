@@ -20,7 +20,7 @@ So here you go, without further ado, please enjoy the resurrected versions of th
 
 and
 
-[our cocktail wedding reception](https://toddbradley.com/posts/p-3469/)
+[our cocktail wedding reception]({% post_url 2023/2023-10-11-p-3469 %})
 
 
 ## Honeymoon

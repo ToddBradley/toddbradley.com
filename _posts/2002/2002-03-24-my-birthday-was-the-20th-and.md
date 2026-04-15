@@ -7,7 +7,7 @@ categories: [Journal, Archive]
 
 My birthday was the 20th and we
 had a party.  Lots of people came and I got many nice gifts.  But
-nobody bought me [one of these](http://www.miniusa.com/),
+nobody bought me [one of these](https://www.miniusa.com/),
 unfortunately.  I had heard they were going to make Minis for sale in
 the US again, but I forgot about it until I saw a billboard along I-25 last
 night that said "THE SUV BACKLASH STARTS NOW".  That’s one of their
@@ -33,7 +33,7 @@ now have:
 - an officiant - Gail Boex
 - a caterer - A Spice of Life and Erika from Sushi Zanmai
 - a DJ - A Music Plus
-- rings - seen [here](images/rings.jpg)
+- rings - seen [here](/bit-rot/)
 - a guest list - lots of folks
 - invitations - printed up and sitting in a box
 

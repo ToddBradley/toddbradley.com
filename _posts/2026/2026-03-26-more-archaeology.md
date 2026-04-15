@@ -5,7 +5,7 @@ date: 2026-03-26 15:00:00 -0600
 categories: [Archaeology]
 ---
 
-Earlier this week I posted [a text heavy blog post](../archaeology) which was all about my interest in archaeology and how I got into it, despite having no professional connection to the field whatsoever.
+Earlier this week I posted [a text heavy blog post](/posts/archaeology/) which was all about my interest in archaeology and how I got into it, despite having no professional connection to the field whatsoever.
 
 
 # Movies about a dam

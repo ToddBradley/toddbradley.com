@@ -7,9 +7,9 @@ permalink: /todd-bradley-s-galaxy-ahi-the-laptop-daw/
 
 ## Ahi - The Laptop DAW
 
-[Skip to the latest journal entry](#Latest) of if you are the
+[Skip to the latest journal entry]() of if you are the
 really impatient type you can skip straight to a [summary of
-lessons learned](#Summary)
+lessons learned]()
 
 ![](/uploads/2003/ahi.jpg)
 
@@ -40,9 +40,9 @@ to list all the PCs I looked into, but in the end, I narrowed the list down to
 these:
 
 - Apple [Powerbook G4
-  12"](http://www.apple.com/powerbook/index12.html)
+  12"](https://www.apple.com/powerbook/index12.html)
 - Extreme Notebooks
-  [Xtreme XG-6](http://www.extremenotebooks.com/index.php?section=specs&model_id=425)
+  [Xtreme XG-6](https://www.extremenotebooks.com/index.php?section=specs&model_id=425)
 - vpr Matrix
   [200A5](http://www.vprmatrix.com/products_notebook_200A5.asp)
 - Dell Latitude X200
@@ -172,7 +172,7 @@ they work best with TI controllers.  When I found that the vpr Matrix uses
 a TI chip, that pretty much settled it for me.
 
 Now, I don’t really know anything about Firewire, but I’ve
-[read](http://focus.ti.com/analog/docs/articles.tsp?familyId=361&templateId=5&path=templatedata/cm/brc/data/200207_ti1394solutions&articleType=brc) it has a bandwidth of "up to 400Mbps".  So unless I’ve done the
+[read](https://focus.ti.com/analog/docs/articles.tsp?familyId=361&templateId=5&path=templatedata/cm/brc/data/200207_ti1394solutions&articleType=brc) it has a bandwidth of "up to 400Mbps".  So unless I’ve done the
 math wrong, I should actually be able to pull this off!  And even have
 headroom to spare for recording at a higher bit depth and higher sample rate.
 
@@ -624,7 +624,7 @@ digital audio cable](http://www.vprmatrix.com/products_accessories_cable_digital
 of this notebook computer for music, but I’m mainly doing this as an experiment
 to see if I can build my own cable, since I can’t understand how they can charge
 $250 for a cable and still keep a straight face.  So I’m going to set up a
-[separate page for my experiments](../ahi_digital_audio/).
+[separate page for my experiments](/todd-bradley-s-galaxy-ahi-digital-audio-experiments/).
 
 #### March 26, 2003
 
@@ -744,7 +744,7 @@ interface.  Since then I found I couldn’t use the Firewire for controlling
 an audio interface.  Then I found I can’t use the Firewire to control an
 external hard drive without getting audio dropouts.  So I’m not even using
 the Firewire feature at the moment.  Then I found the digital audio
-features [don’t work](../ahi_digital_audio/).  And now the
+features [don’t work](/todd-bradley-s-galaxy-ahi-digital-audio-experiments/).  And now the
 analog audio doesn’t work either!  Arrgh!
 
 #### April 8, 2003
@@ -863,7 +863,7 @@ selling the vpr Matrix notebooks for prices under the name brands, and Best Buy
 caved to the pressure.  So there won’t be a successor to my vpr Matrix
 200A5.  Given that news, I also seriously doubt they’ll ever fix the
 problems with their so-called Sonopur [digital
-audio](../ahi_digital_audio/) feature.  And it makes this below section that much more
+audio](/todd-bradley-s-galaxy-ahi-digital-audio-experiments/) feature.  And it makes this below section that much more
 relevant.
 
 #### June 18, 2003
@@ -903,7 +903,7 @@ the Windows XP services and disabled nearly all of them.  I had already
 done most of the XP tuning tips mentioned on [http://www.musicxp.net](http://www.musicxp.net/) but then I discovered an even more in-depth site.
 There’s a guy who goes by the name Black Viper and has a whole website about
 tuning PCs.  His Windows XP page is
-[here](http://www.blackviper.com/WinXP/winxp.htm), and it contains
+[here](https://www.blackviper.com/WinXP/winxp.htm), and it contains
 all kinds of detailed information about the XP services that you do and don’t
 need for certain things.  I turned most of them off and my PC runs better
 than ever.  Highly recommended.
@@ -947,7 +947,7 @@ finished our new CD.  I’ve gone through tons of turmoil with my 4 main
 softsynths (listed above), some turmoil with
 [forte](http://www.brainspawn.com/products/forte/), and I’ve added
 another softsynth to the setup, the
-[Big Tick Cheeze Machine](http://www.kvr-vst.com/get/177.html).
+[Big Tick Cheeze Machine](https://www.kvr-vst.com/get/177.html).
 
 Here’s a list of my main turmoil with these softsynths:
 
@@ -1036,7 +1036,7 @@ Radium61 has a few serious limitations/flaws:
    bounces back to) it continues to send pitch bend MIDI messages.  I posted
    a message about this problem to the MIDIman email list, and got
    [this very
-   helpful reply](http://groups.yahoo.com/group/MIDIman-list/message/525).  However, I haven’t taken the time to actually try
+   helpful reply](https://groups.yahoo.com/group/MIDIman-list/message/525).  However, I haven’t taken the time to actually try
    this yet.  I hope to soon.
 3. None of the adjustable settings you can make on the keyboard, such as what
    MIDI messages are sent by the knobs, are saved when you power the unit off.
@@ -1145,7 +1145,7 @@ people have written back, but their replies are stuck in the moderation queue.
 
 The only feedback about the MK-461C that I’ve seen on this list is
 [this
-article](http://groups.yahoo.com/group/evolution-users/message/2426) which says that the black keys transmit higher velocity than the
+article](https://groups.yahoo.com/group/evolution-users/message/2426) which says that the black keys transmit higher velocity than the
 white keys for the same amount of force.  If true, that would sure be bad!
 In fact, depending on how much different they are, that could be a worse effect
 than having stuck notes.
@@ -1354,7 +1354,7 @@ Go with a PC vendor with a proven track record of high quality products
   know that my next notebook won’t be from an unknown company.
 
 Optimize until you’re blue in the face - Read everything you can on
-[Black Viper’s site](http://www.blackviper.com/) and disable all the
+[Black Viper’s site](https://www.blackviper.com/) and disable all the
 XP services you possibly can.  Then read the entire
 [MusicXP](http://www.musicxp.net/) site and try to do everything it
 says.  When you run into problems, go back to those sites and
@@ -1414,7 +1414,7 @@ Here is my list.
    to anything but the maximum value. (discovered as soon as I brought it home
    - known issue common on this model)
 2. Digital audio does not work as advertised. (discovered March 2003 as a
-   result of [these](../ahi_digital_audio/) investigations - known
+   result of [these](/todd-bradley-s-galaxy-ahi-digital-audio-experiments/) investigations - known
    issue common on this model)
 3. Built in analog sound card is broken.  Sound only comes out right
    speaker and left channel of headphones. (discovered April 2003)

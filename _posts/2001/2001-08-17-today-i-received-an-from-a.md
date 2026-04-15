@@ -6,6 +6,6 @@ categories: [Journal, Archive]
 ---
 
 Today, I received an
-[interesting brochure](../rwmailer/) from a
-[former employer of mine](http://www.roguewave.com/).  There
+[interesting brochure](/bit-rot/) from a
+[former employer of mine](https://www.roguewave.com/).  There
 seems to be a minor typo in the spelling of my last name.

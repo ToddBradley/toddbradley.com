@@ -8,6 +8,6 @@ categories: [Journal, Archive]
 Geez, where do I start?
 Let’s see.  The wedding on September 1 went nearly perfectly.
 Then we spent two weeks in Hawaii for our honeymoon.  You can see
-photos and my travelogue [here](../photos/wedding/honeymoon/).
+photos and my travelogue [here](/bit-rot/).
 Today I went back to work for the first time since August 29.  Wow,
 what a shock!

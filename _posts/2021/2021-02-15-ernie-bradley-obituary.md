@@ -24,7 +24,7 @@ A celebration of life is scheduled for June 26, 2021 at 10:30am at The Church at
 
 ![](/uploads/2021/Ernie-Indoors_ssl-1.png)
 
-[Ernie-Bradley-Obituary.pdf](..//uploads/2021/Ernie-Bradley-Obituary.pdf)
+[Ernie-Bradley-Obituary.pdf](/uploads/2021/Ernie-Bradley-Obituary.pdf)
 
 
 ### Short Version for Newspapers

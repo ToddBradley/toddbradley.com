@@ -11,7 +11,7 @@ permalink: /todd-bradley-s-galaxy-the-tale-of-cd-hunter/
 
 cd.hunter
 
-On June 26, 2004, I placed a bid on [eBay.com](http://www.ebay.com/)
+On June 26, 2004, I placed a bid on [eBay.com](https://www.ebay.com/)
 for auction 4021038168.
 The item up for auction was described as "Harold
 Faltermeyer - FLETCH - complete score, CD."  The seller offered this
@@ -223,7 +223,7 @@ criminal.  He actually seems to think he "did everything according to the
 ebay rules."
 Apparently, cd.hunter feels he’s above
 [the
-rule](http://pages.ebay.com/help/policies/unauthorized-copies.html) that says not to sell "Pirated copies of music."
+rule](https://pages.ebay.com/help/policies/unauthorized-copies.html) that says not to sell "Pirated copies of music."
 
 7/14/2004 9:30 PM
 I was tempted to write back to cd.hunter with something like, "Maybe you

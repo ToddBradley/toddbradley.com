@@ -15,9 +15,9 @@ it would just be blank at this point!
 
 Next week, I’m leaving town to drive to Salt Lake City for
 the annual meeting of the [Glen Canyon
-Institute](http://www.glencanyon.org/).  It’s going to be a tight schedule since I have to be in
+Institute](https://www.glencanyon.org/).  It’s going to be a tight schedule since I have to be in
 Boulder on Thursday night for the quarterly board of directors meeting for
-the [Colorado Bat Society](http://www.coloradobats.org/), of which
+the [Colorado Bat Society](https://www.coloradobats.org/), of which
 I’m the Executive Director.  But the first of the events I want to
 attend in SLC starts at 6:00 PM on Friday.  So, I’m starting my road
 trip right after the bat meeting.  I’ll make it to Wyoming somewhere

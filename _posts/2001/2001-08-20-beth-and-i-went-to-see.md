@@ -25,7 +25,7 @@ that is.  If it’s rainy or windy, we’ll have to postpone for another
 day.
 
 Oh, I put a few photos up of
-[me on vacation](../photos/canyonlandsphotos/) this spring.
+[me on vacation](/bit-rot/) this spring.
 
 And last night I finished reading William Gibson’s All
 Tomorrow’s Parties.  It’s probably not his best work, but

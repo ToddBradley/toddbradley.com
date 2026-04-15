@@ -11,9 +11,9 @@ What you are about to read is a log of my research into the digital audio
 capabilities of the vpr Matrix 200A5 notebook computer, with the vpr Matrix
 Digital Parallel Cable.
 
-Journal Entries: [March 22](#March22) - [March
-27](#March27) - [March 29](#March29) - [April 1](#April14) -
-[April 14](#April14) - [April 15](#April15)
+Journal Entries: [March 22]() - [March
+27]() - [March 29]() - [April 1]() -
+[April 14]() - [April 15]()
 
 #### March 22, 2003
 
@@ -23,7 +23,7 @@ got a [vpr Matrix
 serve as the center of the PC
 based recording studio used by [my band](http://www.404notfound.net/)
 to record our CDs.  I
-called the machine Ahi and [wrote a page about my experiment](../ahi/)
+called the machine Ahi and [wrote a page about my experiment](/todd-bradley-s-galaxy-ahi-the-laptop-daw/)
 to set up a digital audio workstation based on this notebook.
 
 This computer advertises on a plethora of high end audio features, including
@@ -36,7 +36,7 @@ So I started wondering what this cable really allows you to do.  I found
 and read everything I could (on
 [forum 1](http://www.infoarena.com/vprmatrix/forum/viewforum.php?f=1&sid=640ff30da67185ca7aef726c826c0bc9),
 [forum2](http://forums.designtechnica.com/forumdisplay.php?s=&forumid=77),
-and the [email list](http://groups.yahoo.com/group/vpr-matrix/))
+and the [email list](https://groups.yahoo.com/group/vpr-matrix/))
 about the vpr Matrix notebook computers.  From what I can tell, I’m the
 first person ever to purchase the ridiculously expensive cable and try to use
 it.  So I thought I should make a journal of what I find, for the benefit
@@ -46,7 +46,7 @@ First, all the information I knew about this mysterious digital cable was
 from vpr Matrix’s website.  For completeness in the (arguably likely) event
 that they stop carrying this product, I’ve included that information here.
 To skip over the stuff I copied from their website, [click
-here](#MoreLog).
+here]().
 
 vpr MatrixTM Digital
 Parallel Cable for 200A5 Notebooks

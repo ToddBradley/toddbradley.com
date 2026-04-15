@@ -6,6 +6,6 @@ categories: [Journal, Archive]
 ---
 
 After years of nagging from people
-who want my salsa recipe, I finally put up a [recipes](../recipes/)
+who want my salsa recipe, I finally put up a [recipes](/categories/recipe/)
 page on my website.  Check it out and let me know if you enjoy any of
 the recipes.

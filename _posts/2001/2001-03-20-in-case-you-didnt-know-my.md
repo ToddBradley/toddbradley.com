@@ -9,7 +9,7 @@ In case
 you didn’t know, my birthday marks the first day of spring.  Beth
 took me to Gasho of Japan for supper, and then we went home to watch a
 movie on DVD.  I’ve been watching lots of classics on DVD and I
-highly recommend [Netflix](http://www.netflix.com/).
+highly recommend [Netflix](https://www.netflix.com/).
 
 December
 7, 2000:  I finally made my first solo flight in a glider!
@@ -18,10 +18,10 @@ flights with my instructor, John Campbell, I took one by myself.  I
 expected to be very nervous, but wasn’t.  In fact, it was nice to fly
 around without someone chattering nonstop in the back seat (just as he
 told me it would be).  Here’s the traditional Polaroid photo of me
-right after landing.  [Click](<images/First%20Solo%20(big).jpg>)
+right after landing.  [Click](/uploads/2001/First_20Solo_20_edited_.jpg)
 for a bigger picture.
 
-[![](/uploads/2001/First_20Solo_20_edited_.jpg)](<images/First%20Solo%20(big).jpg>)
+[![](/uploads/2001/First_20Solo_20_edited_.jpg)](/uploads/2001/First_20Solo_20_edited_.jpg)
 
 October 2000:  I’m now scooter enabled.  I
 bought a [Xootr](http://www.xootr.com/xootr/default.asp) [Cruz](http://shop.xootr.com/xootr/cruz2.asp)
@@ -38,5 +38,5 @@ Summer 2000:  Well, I’m learning to soar.  You know, flying a
 glider.  Yes, a plane with no engine.  I started taking soaring
 lessons in the spring of 2000.  Progress is slow.  I’m a terrible
 student, but I’m keeping with it.  I’ve been learning at [Mile
-High Gliding](http://www.milehighgliding.com/) in Boulder.  Here’s what the glider port looks like right
+High Gliding](https://www.milehighgliding.com/) in Boulder.  Here’s what the glider port looks like right
 now [Ed. - link doesn’t work anymore].

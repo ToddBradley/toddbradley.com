@@ -39,9 +39,11 @@ plugins:
 jekyll-archives:
   enabled:
     - categories
-  layout: categories
+    - tags
+  layout: page
   permalinks:
     category: '/categories/:name/'
+    tag: '/tags/:name/'
 
 collections:
   tabs:

@@ -18,7 +18,7 @@ vacation we took in the spring.
 Also, I’ve been working on revamping the website for the
 Glen Canyon Institute over the past week.  It’s huge!  But it
 needs help.  And the [Glen Canyon
-Institute](http://www.glencanyon.org/) is a very good cause.
+Institute](https://www.glencanyon.org/) is a very good cause.
 
 In other news, I’ve been reading and watching a fair number
 of movies lately, which is a good thing to do when unemployed.

@@ -12,7 +12,7 @@
 - [x] **Subscriptions:**
   - [x] Set up a system for users to subscribe to changes.
   - [x] Extract old subscribers from `wp_comments.csv` and migrate them.
-- [ ] **File Hygiene:**
+- [x] **File Hygiene:**
   - [x] **Pages Audit:** Review `pages/` directory. Convert appropriate pages
         to `_posts` and rename/cleanup others.
   - [x] **Suspicious Filenames:** Investigated files ending in spaces or numbers.
@@ -21,9 +21,10 @@
         files (e.g., `pages/todd-bradley-s-galaxy-journal-archive-2000-to-2002.md`).
         Determine if they are duplicate archives and split or delete them as
         necessary.
-  - [x] **Link Cleanup:** Removed irrelevant links (empty text/URL or linking to `/`) from all posts and pages.
+  - [x] **Link Cleanup:** Removed irrelevant links (empty text/URL or linking to `/`) from all posts and pages. Fixed ~1300 broken internal links (legacy WordPress `?p=NNNN` URLs, relative paths, etc).
+  - [x] **HTTPS Upgrades:** Upgraded 423 legacy `http://` links to `https://` after verifying SSL responses via Python script.
   - [x] Audit unconverted HTML files to ensure no content is lost (No unconverted files found).
-  - [ ] Clean up various partial archives of the WP site to reduce clutter.
+  - [x] Clean up various partial archives of the WP site to reduce clutter.
 
 ## Phase 2: Content Expansion
 

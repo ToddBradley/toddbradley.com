@@ -13,11 +13,11 @@ Then we drove to Winter Park and rode the
 Alpine Slide and saw the oompah band that was playing there for
 Octoberfest.  Then, it was back to our camp for dinner.  Sunday,
 we leisurely broke camp and headed home by way of
-[Rocky Mountain National Park](http://www.nps.gov/romo/).
+[Rocky Mountain National Park](https://www.nps.gov/romo/).
 On the drive home, we saw coyotes, antelope, moose, elk, and deer.  All
 in one day!  We stopped at the Alpine Vistors Center and later stopped
 for a short hike up to
 [Alberta
-Falls](http://www.swparks.com/us/travel/colorado/picalberta4.html), where I asked Beth to marry me.  She agreed, and we hiked
+Falls](https://www.swparks.com/us/travel/colorado/picalberta4.html), where I asked Beth to marry me.  She agreed, and we hiked
 back down the mountain and drove to Estes Park where we had a very mediocre
 meal at a Mexican restaurant.  We got home fairly late Sunday night.

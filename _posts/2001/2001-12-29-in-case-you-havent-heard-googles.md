@@ -14,7 +14,7 @@ all these articles being preserved for posterity.
 
 Just for grins, I did a search for myself to see how far
 back I could trace my online history.  Turns out that
-[my very first USENET article](http://groups.google.com/groups?q=author:Todd+author:Bradley&hl=en&as_drrb=b&as_mind=12&as_minm=5&as_miny=1981&as_maxd=29&as_maxm=12&as_maxy=1990&rnum=2&selm=29337%40boulder.Colorado.EDU) was posted on November 6, 1990.  I
+[my very first USENET article](https://groups.google.com/groups?q=author:Todd+author:Bradley&hl=en&as_drrb=b&as_mind=12&as_minm=5&as_miny=1981&as_maxd=29&as_maxm=12&as_maxy=1990&rnum=2&selm=29337%40boulder.Colorado.EDU) was posted on November 6, 1990.  I
 thought it would have been earlier than that, but I guess not.  That
 was my 9th and final semester as an undergrad at the University of Colorado.
 In December, I would graduate with a BS in Aerospace Engineering Sciences
@@ -23,7 +23,7 @@ funny subjects I was involved in all those years ago:
 
 August 9, 1991
 
-[My mail order bride want ad](http://groups.google.com/groups?q=author:Todd+author:Bradley&start=860&hl=en&rnum=863&selm=995%40pvi.UUCP)
+[My mail order bride want ad](https://groups.google.com/groups?q=author:Todd+author:Bradley&start=860&hl=en&rnum=863&selm=995%40pvi.UUCP)
 I was looking for someone who could cook and
 clean plus take over my job at PVI writing Fortran code.
 Note my self-assumed title of Supreme Ruler of the Galaxy.
@@ -31,7 +31,7 @@ Note my self-assumed title of Supreme Ruler of the Galaxy.
 February 24, 1992
 
 [First mention of the woman who would become my life partner,
-Beth Partin](http://groups.google.com/groups?q=author:Todd+author:Bradley&start=780&hl=en&rnum=785&selm=1992Feb24.060535.26793%40ucsu.Colorado.EDU)
+Beth Partin](https://groups.google.com/groups?q=author:Todd+author:Bradley&start=780&hl=en&rnum=785&selm=1992Feb24.060535.26793%40ucsu.Colorado.EDU)
 I had been dating Beth for less than a month
 when I posted this.  I guess I’ve gotten used to kissing
 someone with glasses!  Also note that by this time I was
@@ -47,7 +47,7 @@ The Unnamed Computer Science Ultimate Frisbee Team.\*\*\*
 
 November 11, 1992
 
-[On the Dynamics of Rotating Sport Discs](http://groups.google.com/groups?q=author:Todd+author:Bradley&start=680&hl=en&rnum=689&selm=1992Nov15.224528.1247%40ucsu.Colorado.EDU)
+[On the Dynamics of Rotating Sport Discs](https://groups.google.com/groups?q=author:Todd+author:Bradley&start=680&hl=en&rnum=689&selm=1992Nov15.224528.1247%40ucsu.Colorado.EDU)
 This is the paper I wrote to get a Masters
 degree at CU.  To this day, many people don’t believe me
 when I say I got a Masters Degree in Aerospace Engineering by

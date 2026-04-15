@@ -22,13 +22,13 @@ played a few gigs here and there, but not steadily, unfortunately.  I
 bought a BOSS SP-505 desktop sampler, which I’ve used at a couple of
 performances so far.  It’s OK for the price, but has a few
 shortcomings.  You can see my thorough review of it
-[here](http://www.synthsite.com/synth_reviews/boss_sp505.cfm).
+[here](https://www.synthsite.com/synth_reviews/boss_sp505.cfm).
 
 Bats.  Back in July, I went on a very fun field
 trip with the Colorado Bat Society.  We visited the Orient Mine in the
 San Luis Valley in southern Colorado.  There, we saw the largest colony
 of bats in the state.  I wrote up a pretty thorough
-[photo journal](http://www.coloradobats.org/orient.htm) of my
+[photo journal](https://www.coloradobats.org/orient.htm) of my
 trip.
 
 More Photos.  I bought a digital camera this
@@ -86,7 +86,7 @@ recommend Paris to the Moon.  We’ve seen lots of movies this
 summer, but the ones I most recommend are The Bourne Identity (maybe
 just for the very strange two or three lines of non sequitur
 dialogue) and Cable Guy (which I watched on DVD and was surprisingly
-impressed with).  I had a dream about [Milla Jovovich](http://www.millaj.com/) last night, so I may have to rent Resident Evil.
+impressed with).  I had a dream about [Milla Jovovich](https://www.millaj.com/) last night, so I may have to rent Resident Evil.
 (I’ve secretly loved Milla since Chaplin, though it
 was her role in The Fifth Element that really cemented her forever in
 my heart along with

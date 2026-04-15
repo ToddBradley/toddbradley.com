@@ -27,7 +27,7 @@ Karma](http://www.korg.com/gear/info.asp?A_PROD_NO=KARMA).  It’s a synthesize
 functions to help with improvised music.  It’s the most expensive
 keyboard I’ve ever bought (even on sale) and I didn’t really budget to buy
 a new keyboard this year.  So, now I’m selling off a bunch of [older
-music stuff on eBay](http://members.ebay.com/aboutme/todd@toddbradley.com) in order to raise the money to make up for this
+music stuff on eBay](https://members.ebay.com/aboutme/todd@toddbradley.com) in order to raise the money to make up for this
 new toy.  Unfortunately, I’ve been so busy the past week that I’ve
 only been able to play it for 3 or 4 hours.
 
@@ -51,8 +51,8 @@ some time taking the practice exam in anticipation of getting my private
 pilot’s license.
 
 My group of [gaming
-friends](http://groups.yahoo.com/group/toddsgames) is now onto a new game.  We started playing [GURPS
-Traveller](http://www.sjgames.com/gurps/traveller/) a few weeks ago.  I hadn’t played (or refereed)
+friends](https://groups.yahoo.com/group/toddsgames) is now onto a new game.  We started playing [GURPS
+Traveller](https://www.sjgames.com/gurps/traveller/) a few weeks ago.  I hadn’t played (or refereed)
 Traveller for about 12 years, so it’s been a relearning experience for
 me.  The campaign I’ve put together is called [The
 Dark Wing Missions](http://www.geocities.com/darkwingmissions) and is a merchant campaign with some space opera

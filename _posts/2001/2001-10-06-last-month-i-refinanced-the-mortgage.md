@@ -10,7 +10,7 @@ mortgage on our house.  I paid off the existing mortgage plus the car
 loans for my
 and Honda Civic GX with a new loan from
 the [University of Colorado Federal Credit
-Union](http://www.uofcfcu.com/) at a much lower (and fixed) rate.  Other than having monthly
+Union](https://www.uofcfcu.com/) at a much lower (and fixed) rate.  Other than having monthly
 payments of about $800 less, one other benefit is that I got a big fat
 refund check from the feds for a bunch of mortgage insurance I’d paid (since
 the previous loan was from FHA and required mortgage insurance).
@@ -32,7 +32,7 @@ clothes and equipment that I’ve wanted for a long while.  I got:
   panels sewn into the bag to prevent the zippers from catching on the
   fabric.
 - [Pacific Trail Pac
-  Tech Terrain jacket](http://www.pacifictrail.com/) - I’ve wanted a true waterproof
+  Tech Terrain jacket](https://www.pacifictrail.com/) - I’ve wanted a true waterproof
   breathable shell for a long time.  I had a decent water resistant
   shell but I gave it away and it wasn’t fully waterproof.  This one
   is great.
@@ -41,7 +41,7 @@ clothes and equipment that I’ve wanted for a long while.  I got:
   camping, but I bought it as a liner for my new sleeping bag for times
   it’s cold.
 - [HydRID LightWeight](http://www.duofold.com/thermal/hydrid.htm) long sleeve t-shirt - If you’ve never owned any
-  clothes made of [CoolMax](http://www.dupont.com/coolmax), you
+  clothes made of [CoolMax](https://www.dupont.com/coolmax), you
   should.  CoolMax is the most awesome fabric I’ve seen.  It
   wicks sweat away from your skin really nicely - 5 times faster than
   cotton, they say - but is as comfortable as cotton.  I bought a

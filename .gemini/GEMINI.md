@@ -24,13 +24,15 @@ Before suggesting any new tool, service, or infrastructure change (like hosting,
 - Investigated and split 'journal-archive' pages into 52 individual posts.
 - Comment strategy implemented with Comentario (hosted on Railway).
 - Investigated suspicious filenames (e.g., ' 4.md'); none found, issue resolved.
+- Resolved ~1300 internal link failures (legacy WordPress `/?p=NNNN` pages).
+- Fixed remaining broken image links, pointing unrecoverable assets to the `/bit-rot/` placeholder.
+- Audited unconverted HTML files and the `pages/` directory (confirmed empty/non-existent).
+- Enabled `jekyll-archives` for category and tag pages.
+- Upgraded 423 `http://` links to `https://` after verifying SSL responses.
 
 ## Active Tasks
 
-1. Fix remaining broken image links (many "bad-link.svg" placeholders exist).
-2. Audit unconverted HTML files.
-3. Review `pages/` directory (convert to posts/rename).
-4. Resolve remaining ~1300 internal link failures (mostly legacy WordPress pages).
+None currently.
 
 
 

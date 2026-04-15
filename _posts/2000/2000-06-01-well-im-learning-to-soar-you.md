@@ -9,5 +9,5 @@ Well, I’m learning to soar.  You know, flying a
 glider.  Yes, a plane with no engine.  I started taking soaring
 lessons in the spring of 2000.  Progress is slow.  I’m a terrible
 student, but I’m keeping with it.  I’ve been learning at [Mile
-High Gliding](http://www.milehighgliding.com/) in Boulder.  Here’s what the glider port looks like right
+High Gliding](https://www.milehighgliding.com/) in Boulder.  Here’s what the glider port looks like right
 now [Ed. - link doesn’t work anymore].
