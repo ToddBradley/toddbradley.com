@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "Wishlist"
+permalink: /wishlist/
 order: 19
+icon: fas fa-gift
 ---
 
 Last updated February 27, 2026:
