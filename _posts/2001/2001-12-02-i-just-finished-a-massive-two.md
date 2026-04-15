@@ -7,7 +7,7 @@ categories: [Journal, Archive]
 
 I just finished a massive two day
 project to revamp the photos section of this site.  My photos from my
-[October 2001 vacation](/bit-rot/) are finally
+[October 2001 vacation]({% post_url 2001/2001-10-11-october-2001-vacation %}) are finally
 up, along with notes of where I went.  Plus, I put several scans of old
 pictures on the site.  You can find it all from the main
 photos page now.
