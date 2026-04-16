@@ -2,7 +2,7 @@
 layout: post
 title: ultracrepidarianism
 authors: [Todd Bradley]
-date: 2026-04-15 17:54:00 -0600
+date: 2026-04-15 08:00:00 -0600
 categories: [Words]
 ---
 
