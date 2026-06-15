@@ -34,8 +34,6 @@ This post replaces the following historical (and now defunct) download pages:
 
 ## Something Is Wrong (1997)
 
-[Download Full Album (ZIP)](/404notfound/Something%20Is%20Wrong.zip)
-
 - [01 Robot Salesman.mp3](/404notfound/Something%20Is%20Wrong/01%20Robot%20Salesman.mp3)
 - [02 ICM ﹟4 (Radio Mix).mp3](</404notfound/Something%20Is%20Wrong/02%20ICM%204%20(Radio%20Mix).mp3>)
 - [03 High Speed Cranial Download.mp3](/404notfound/Something%20Is%20Wrong/03%20High%20Speed%20Cranial%20Download.mp3)
@@ -54,8 +52,6 @@ This post replaces the following historical (and now defunct) download pages:
 
 ## In the Beginning (1998)
 
-[Download Full Album (ZIP)](/404notfound/In%20the%20Beginning.zip)
-
 - [01 Take 3 (Aborted).mp3](</404notfound/In%20the%20Beginning/01%20Take%203%20(Aborted).mp3>)
 - [02 The Sweet Shop Rock.mp3](/404notfound/In%20the%20Beginning/02%20The%20Sweet%20Shop%20Rock.mp3)
 - [03 X.mp3](/404notfound/In%20the%20Beginning/03%20X.mp3)
@@ -71,8 +67,6 @@ This post replaces the following historical (and now defunct) download pages:
 - [13 (bonus track).mp3](</404notfound/In%20the%20Beginning/13%20(bonus%20track).mp3>)
 
 ## Eclectronic (1999)
-
-[Download Full Album (ZIP)](/404notfound/Eclectronic.zip)
 
 - [01 Welcome From Bob The Robot.mp3](/404notfound/Eclectronic/01%20Welcome%20From%20Bob%20The%20Robot.mp3)
 - [02 Slam The Competition.mp3](/404notfound/Eclectronic/02%20Slam%20The%20Competition.mp3)
@@ -95,8 +89,6 @@ This post replaces the following historical (and now defunct) download pages:
 
 ## Nightmare Lullaby (2002)
 
-[Download Full Album (ZIP)](/404notfound/Nightmare%20Lullaby.zip)
-
 - [01 The Grunt Song.mp3](/404notfound/Nightmare%20Lullaby/01%20The%20Grunt%20Song.mp3)
 - [02 When You Need It Most.mp3](/404notfound/Nightmare%20Lullaby/02%20When%20You%20Need%20It%20Most.mp3)
 - [03 The Way It Is.mp3](/404notfound/Nightmare%20Lullaby/03%20The%20Way%20It%20Is.mp3)
@@ -115,8 +107,6 @@ This post replaces the following historical (and now defunct) download pages:
 
 ## Warts and All (2002)
 
-[Download Full Album (ZIP)](/404notfound/Warts%20and%20All.zip)
-
 - [01 (places places).mp3](</404notfound/Warts%20and%20All/01%20(places%20places).mp3>)
 - [02 The Way It Is.mp3](/404notfound/Warts%20and%20All/02%20The%20Way%20It%20Is.mp3)
 - [03 (when you need it most).mp3](</404notfound/Warts%20and%20All/03%20(when%20you%20need%20it%20most).mp3>)
@@ -133,8 +123,6 @@ This post replaces the following historical (and now defunct) download pages:
 - [14 (the end).mp3](</404notfound/Warts%20and%20All/14%20(the%20end).mp3>)
 
 ## Paper Cuts (2004)
-
-[Download Full Album (ZIP)](/404notfound/Paper%20Cuts.zip)
 
 - [01 Mustard.mp3](/404notfound/Paper%20Cuts/01%20Mustard.mp3)
 - [02 Disco Superhero.mp3](/404notfound/Paper%20Cuts/02%20Disco%20Superhero.mp3)
