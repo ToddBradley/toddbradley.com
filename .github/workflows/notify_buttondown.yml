@@ -1,0 +1,75 @@
+name: Send Buttondown Newsletter
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '_posts/**'
+  workflow_dispatch:
+    inputs:
+      post_path:
+        description: 'Specific post path to send (e.g. _posts/2026/2026-07-17-passwords.md)'
+        required: false
+        type: string
+      status:
+        description: 'Status in Buttondown'
+        required: false
+        default: 'about_to_send'
+        type: choice
+        options:
+          - about_to_send
+          - draft
+      dry_run:
+        description: 'Dry run (preview payload without sending)'
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  notify-buttondown:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0 # Full git history so git diff can detect commit ranges
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Buttondown email sender
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+          BUTTONDOWN_EMAIL_STATUS: ${{ secrets.BUTTONDOWN_EMAIL_STATUS }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            CMD="python maintenance-scripts/send_buttondown_email.py"
+            if [ -n "${{ inputs.post_path }}" ]; then
+              CMD="$CMD ${{ inputs.post_path }}"
+            fi
+            if [ "${{ inputs.dry_run }}" = "true" ]; then
+              CMD="$CMD --dry-run"
+            fi
+            CMD="$CMD --status ${{ inputs.status }}"
+            echo "Running: $CMD"
+            $CMD
+          else
+            BEFORE="${{ github.event.before }}"
+            if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+              COMMIT_RANGE="HEAD~1..HEAD"
+            else
+              COMMIT_RANGE="$BEFORE..${{ github.sha }}"
+            fi
+            echo "Checking commits in range: $COMMIT_RANGE"
+            python maintenance-scripts/send_buttondown_email.py --commit-range "$COMMIT_RANGE"
+          fi

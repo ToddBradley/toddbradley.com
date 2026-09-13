@@ -69,7 +69,7 @@ When someone submits a comment, it defaults to a "Pending" state (`is_pending = 
 For handling user subscriptions and general site updates, we use **Buttondown**.
 
 - **Integration:** A form is located in the site's footer.
-- **Automation:** **Zapier** monitors the site's main RSS feed. When a new blog post goes live, Zapier detects it and triggers Buttondown to email your subscribers.
+- **Automation:** A **GitHub Actions Workflow** (`.github/workflows/notify_buttondown.yml`) triggers on any push to `main` with changes in `_posts/**`. It runs `maintenance-scripts/send_buttondown_email.py`, which detects newly added posts, strips frontmatter, converts relative links and image paths to absolute URLs, and posts the email broadcast directly to the Buttondown REST API using a static API key (`BUTTONDOWN_API_KEY` in GitHub Repository Secrets). This replaced the previous Zapier RSS setup to eliminate OAuth token expiration issues.
 
 ## Key "Gotchas" to Remember
 
