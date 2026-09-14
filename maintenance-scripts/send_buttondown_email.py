@@ -75,6 +75,28 @@ def clean_markdown(body):
 
     body = re.sub(r"(?<!!)\[([^\]]+)\]\((<[^>]+>|[^()\s]+(?:\([^()\s]*\)[^()\s]*)*)\)", fix_link, body)
 
+    # Fix relative HTML img tags: <img ... src="/path" ...>
+    def fix_html_src(m):
+        prefix = m.group(1)
+        quote = m.group(2)
+        url = m.group(3)
+        if not re.match(r"^(https?://|data:)", url):
+            url = f"{SITE_URL}/" + url.lstrip("/")
+        return f"{prefix}src={quote}{url}{quote}"
+
+    body = re.sub(r'(<\s*img\b[^>]*?\b)src=(["\'])(.*?)\2', fix_html_src, body, flags=re.IGNORECASE)
+
+    # Fix relative HTML a href tags: <a ... href="/path" ...>
+    def fix_html_href(m):
+        prefix = m.group(1)
+        quote = m.group(2)
+        url = m.group(3)
+        if not re.match(r"^(https?://|mailto:|#)", url):
+            url = f"{SITE_URL}/" + url.lstrip("/")
+        return f"{prefix}href={quote}{url}{quote}"
+
+    body = re.sub(r'(<\s*a\b[^>]*?\b)href=(["\'])(.*?)\2', fix_html_href, body, flags=re.IGNORECASE)
+
     return body
 
 
