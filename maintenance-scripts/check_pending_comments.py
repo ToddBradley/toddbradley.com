@@ -15,7 +15,9 @@ def check_pending_comments():
         cur = conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor)
 
         # Keep it simple: Exact query using known columns
-        query = "SELECT * FROM cm_comments WHERE is_pending = TRUE AND ts_created >= NOW() - INTERVAL '65 minutes'"
+        # query = "SELECT * FROM cm_comments WHERE is_pending = TRUE AND ts_created >= NOW() - INTERVAL '65 minutes'"
+	# The above query was reporting nothing, so I replaced it with the next line
+        query = "SELECT * FROM cm_comments WHERE is_pending = TRUE AND is_deleted = FALSE"
         print(f"Executing: {query}")
 
         cur.execute(query)
