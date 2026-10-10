@@ -213,7 +213,7 @@ def main():
     parser.add_argument(
         "--status",
         choices=["about_to_send", "draft"],
-        default=os.environ.get("BUTTONDOWN_EMAIL_STATUS", "about_to_send"),
+        default=os.environ.get("BUTTONDOWN_EMAIL_STATUS") or "about_to_send",
         help="Email status in Buttondown (default: about_to_send)",
     )
     parser.add_argument(

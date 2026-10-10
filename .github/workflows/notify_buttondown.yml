@@ -50,7 +50,7 @@ jobs:
       - name: Run Buttondown email sender
         env:
           BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
-          BUTTONDOWN_EMAIL_STATUS: ${{ secrets.BUTTONDOWN_EMAIL_STATUS }}
+          BUTTONDOWN_EMAIL_STATUS: ${{ secrets.BUTTONDOWN_EMAIL_STATUS || 'about_to_send' }}
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             CMD="python maintenance-scripts/send_buttondown_email.py"
