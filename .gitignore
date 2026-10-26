@@ -8,7 +8,9 @@ vendor
 *.log
 
 # Python
+venv/
 maintenance-scripts/venv/
+maintenance-scripts/backups/
 __pycache__/
 *.py[cod]
 *$py.class
