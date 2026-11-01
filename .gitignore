@@ -15,8 +15,5 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Gemini
-.gemini/tmp/
-
 # Secrets
 .env

@@ -1,5 +1,9 @@
 # WordPress to Jekyll Conversion History
 
+> **Note:** The conversion scripts mentioned here (`converter.py`, `link_fixer.py`, and the one-off scripts that used to live in
+> `maintenance-scripts/`) were deleted in Nov 2026 once the migration was finished. They can be recovered from git history
+> if needed (e.g. `git log --diff-filter=D --name-only -- maintenance-scripts/`).
+
 This file contains the historical project memory from the conversion phase of toddbradley.com (Jan 2026).
 
 ## Gemini Added Memories

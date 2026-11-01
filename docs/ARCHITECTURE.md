@@ -28,7 +28,7 @@ Because Jekyll is static, we needed an external system to handle comments. We ch
 
 1. **Hosting:** Self-hosted on **Railway** (using their Postgres plugin and Comentario Docker image).
 2. **Frontend Integration:** A Javascript snippet is embedded in `_includes/comments.html` to display the widget at the bottom of posts.
-3. **Legacy Comments:** Old WordPress comments were exported into YAML files (in `_data/comments/`) and are statically rendered on the pages using Jekyll logic.
+3. **Legacy Comments:** Old WordPress comments were first exported into YAML files in `_data/comments/`, then imported into the Comentario database in April 2026 (commit `f40a6a8`). They now display through the Comentario widget like any other comment, and the YAML files were deleted.
 
 ### Comentario Setup Guide (Railway)
 
@@ -69,7 +69,7 @@ When someone submits a comment, it defaults to a "Pending" state (`is_pending = 
 For handling user subscriptions and general site updates, we use **Buttondown**.
 
 - **Integration:** A form is located in the site's footer.
-- **Automation:** A **GitHub Actions Workflow** (`.github/workflows/notify_buttondown.yml`) triggers on any push to `main` with changes in `_posts/**`. It runs `maintenance-scripts/send_buttondown_email.py`, which detects newly added posts, strips frontmatter, converts relative links and image paths to absolute URLs, and posts the email broadcast directly to the Buttondown REST API using a static API key (`BUTTONDOWN_API_KEY` in GitHub Repository Secrets). This replaced the previous Zapier RSS setup to eliminate OAuth token expiration issues.
+- **Automation:** A **GitHub Actions Workflow** (`.github/workflows/notify_buttondown.yml`) triggers on any push to `main` with changes in `_posts/**`. It runs `maintenance-scripts/send_buttondown_email.py`, which detects newly added posts, strips frontmatter, converts relative links and image paths to absolute URLs, and posts the email broadcast directly to the Buttondown REST API using a static API key (`BUTTONDOWN_API_KEY` in GitHub Repository Secrets). This replaced the previous Zapier RSS setup in Sept 2026 (commit `19f9326`) to eliminate OAuth token expiration issues. Zapier is no longer part of the site; if the old Zap is still switched on in the Zapier account, it should be turned off so subscribers don't get each post twice.
 
 ## Key "Gotchas" to Remember
 

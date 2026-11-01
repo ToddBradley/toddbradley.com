@@ -72,7 +72,9 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - maintenance-scripts/
-  - .gemini/
-  - conversion-history.md
-  - converter.py
-  - debug.html
+  - docs/
+  - venv/
+  - CLAUDE.md
+  - requirements.txt
+  - "*.sublime-project"
+  - "*.sublime-workspace"
