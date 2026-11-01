@@ -9,7 +9,7 @@ Fuller background lives in `docs/architecture.md` (how the pieces fit together) 
 - Build: `bundle exec jekyll build`
 - Serve locally: `bundle exec jekyll serve`
 - Lint/format (runs on commit): `pre-commit run --all-files` (prettier + markdownlint on Markdown, see `.markdownlint.yaml`)
-- Python deps for scripts: `requirements.txt`, local venv in `venv/`
+- Python deps for scripts: `requirements.txt`, local venv in `venv/` on Python 3.12 to match the workflows. Recreate with `uv venv --seed --python 3.12 venv && uv pip install --python venv/bin/python -r requirements.txt`, then `venv/bin/pre-commit install`.
 
 ## Layout
 

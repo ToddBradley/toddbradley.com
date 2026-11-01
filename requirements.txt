@@ -1,6 +1,6 @@
 # Used by the GitHub Actions workflows in .github/workflows/
-psycopg2-binary==2.9.11
+psycopg2-binary==2.9.13
 PyYAML==6.0.3
 
 # Local development (git hooks from .pre-commit-config.yaml)
-pre_commit==4.5.1
+pre_commit==4.7.0

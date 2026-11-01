@@ -36,3 +36,6 @@ MD029: false
 
 # Allow duplicate headings
 MD024: false
+
+# Allow non-descriptive link text like "here" (common in legacy content)
+MD059: false
