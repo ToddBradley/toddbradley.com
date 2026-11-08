@@ -14,9 +14,12 @@ import subprocess
 import sys
 import urllib.error
 import urllib.request
+from datetime import datetime, timedelta, timezone
+
 import yaml
 
 SITE_URL = "https://toddbradley.com"
+MAX_POST_AGE_DAYS = 7
 BUTTONDOWN_API_URL = "https://api.buttondown.com/v1/emails"
 
 
@@ -148,6 +151,23 @@ def parse_post(file_path):
     return frontmatter, body, slug, post_url
 
 
+def is_backdated(frontmatter):
+    """
+    Returns True if the post's front matter date is more than MAX_POST_AGE_DAYS ago.
+    """
+    post_date = frontmatter.get("date")
+    if post_date is None:
+        return False
+    if isinstance(post_date, str):
+        post_date = datetime.fromisoformat(post_date)
+    if not isinstance(post_date, datetime):
+        # A bare YAML date (no time) parses to datetime.date
+        post_date = datetime.combine(post_date, datetime.min.time())
+    if post_date.tzinfo is None:
+        post_date = post_date.replace(tzinfo=timezone.utc)
+    return datetime.now(timezone.utc) - post_date > timedelta(days=MAX_POST_AGE_DAYS)
+
+
 def send_to_buttondown(api_key, subject, body, canonical_url, status="about_to_send", dry_run=False):
     """
     Sends the post to Buttondown API.
@@ -225,7 +245,8 @@ def main():
     args = parser.parse_args()
 
     files = args.files
-    if not files:
+    detected = not files
+    if detected:
         files = get_git_added_posts(args.commit_range)
 
     if not files:
@@ -246,6 +267,12 @@ def main():
             frontmatter, body, slug, post_url = parse_post(file_path)
             if frontmatter is None:
                 print(f"Skipping unpublished/draft post: {file_path}")
+                continue
+
+            # Backdated posts (e.g. imported archives) shouldn't go out as new
+            # newsletters. Explicitly named files bypass this check.
+            if detected and is_backdated(frontmatter):
+                print(f"Skipping backdated post (older than {MAX_POST_AGE_DAYS} days): {file_path}")
                 continue
 
             subject = frontmatter.get("title")
