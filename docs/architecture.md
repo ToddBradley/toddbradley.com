@@ -61,15 +61,16 @@ Here is how we bypassed it:
 When someone submits a comment, it defaults to a "Pending" state (`is_pending = TRUE` in the DB) awaiting your approval.
 
 - **How it works:** A Python script (`maintenance-scripts/check_pending_comments.py`) runs every hour via a **GitHub Actions Cron Job** (`.github/workflows/check_comments.yml`).
-- **The mechanism:** The script connects _directly_ to the Railway PostgreSQL database, queries the `cm_comments` table for any comments pending in the last 65 minutes, and uses Google's standard SMTP (via an App Password) to email you.
+- **The mechanism:** The script connects _directly_ to the Railway PostgreSQL database, queries the `cm_comments` table for all comments still pending (and not deleted), and uses Google's standard SMTP (via an App Password) to email you. Because it has no time window, a pending comment shows up in every hourly email until it is approved or deleted.
 - **Why:** GitHub Actions does not block outbound SMTP like Railway does.
+- **History:** An earlier Zapier Zap, "New Comment Needs Approval", watched Comentario's comment RSS feed. Because that feed only lists approved comments, it never alerted on pending ones. It last ran on Sep 15, 2026, and Todd turned it off and deleted it on Nov 8, 2026.
 
 ### 2. General Newsletter & Subscriber Updates
 
 For handling user subscriptions and general site updates, we use **Buttondown**.
 
 - **Integration:** A form is located in the site's footer.
-- **Automation:** A **GitHub Actions Workflow** (`.github/workflows/notify_buttondown.yml`) triggers on any push to `main` with changes in `_posts/**`. It runs `maintenance-scripts/send_buttondown_email.py`, which detects newly added posts, strips frontmatter, converts relative links and image paths to absolute URLs, and posts the email broadcast directly to the Buttondown REST API using a static API key (`BUTTONDOWN_API_KEY` in GitHub Repository Secrets). This replaced the previous Zapier RSS setup in Sept 2026 (commit `19f9326`) to eliminate OAuth token expiration issues. Zapier is no longer part of the site; if the old Zap is still switched on in the Zapier account, it should be turned off so subscribers don't get each post twice.
+- **Automation:** A **GitHub Actions Workflow** (`.github/workflows/notify_buttondown.yml`) triggers on any push to `main` with changes in `_posts/**`. It runs `maintenance-scripts/send_buttondown_email.py`, which detects newly added posts, strips frontmatter, converts relative links and image paths to absolute URLs, and posts the email broadcast directly to the Buttondown REST API using a static API key (`BUTTONDOWN_API_KEY` in GitHub Repository Secrets). This replaced the previous Zapier RSS setup in Sept 2026 (commit `19f9326`) to eliminate OAuth token expiration issues. Zapier is no longer used at all. As of Nov 8, 2026, the Zapier account has no Zaps left.
 
 ## Key "Gotchas" to Remember
 
