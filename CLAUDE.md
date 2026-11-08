@@ -25,7 +25,7 @@ Fuller background lives in `docs/architecture.md` (how the pieces fit together) 
 ## External services
 
 - **Comments:** self-hosted Comentario on Railway (free tier), embedded via `_includes/comments.html`. Railway blocks outbound SMTP, so `.github/workflows/check_comments.yml` runs hourly, queries the Comentario Postgres DB (`cm_comments.is_pending`) and emails Todd via Gmail SMTP.
-- **Newsletter:** Buttondown. `.github/workflows/notify_buttondown.yml` runs on pushes touching `_posts/**`, detects newly added posts in the commit range and sends them via the Buttondown API. Can be run manually with a specific post, `draft` status or dry run. This replaced Zapier in Sept 2026. Zapier is no longer used for anything; all Zaps were deleted on Nov 8, 2026.
+- **Newsletter:** Buttondown. `.github/workflows/notify_buttondown.yml` runs on pushes touching `_posts/**`, detects newly added posts in the commit range and sends them via the Buttondown API. Added posts dated more than 7 days before the run are skipped, so backfilled/imported posts don't email subscribers; naming a post explicitly (manual run) sends it regardless. Can be run manually with a specific post, `draft` status or dry run. This replaced Zapier in Sept 2026. Zapier is no longer used for anything; all Zaps were deleted on Nov 8, 2026.
 - Secrets: GitHub repo secrets for the workflows; local `.env` (gitignored) for running scripts locally. Never print or commit `.env` contents.
 
 ## Infrastructure and cost rule

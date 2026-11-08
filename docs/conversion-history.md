@@ -20,3 +20,7 @@ This file contains the historical project memory from the conversion phase of to
 
 - The migration scripts have been refactored: 'converter.py' now handles year-based subdirectory organization directly, rendering 'organize_posts.py' obsolete (which has been deleted). The Jekyll site's homepage has been fixed by enabling 'jekyll-paginate' in '\_config.yml' and renaming 'index.markdown' to 'index.html', successfully displaying a paginated list of posts.
 - 'converter.py' has been updated with an 'IGNORED_PAGES' list to permanently exclude specific legacy pages (Exploding Corpse, Heidi's Deli, Digital Film Sound, Page Not Found) from being converted and appearing in the site navigation.
+
+## Tumblr Import (Nov 2026)
+
+All 39 posts from Todd's Tumblr photo blog ("Todd Bradley's Denver", toddbradley.tumblr.com, 2014–2023) were imported on Nov 8, 2026 as `[Photography, Tumblr, Denver]` posts, with media in `uploads/<year>/tumblr-*`. Post text came from the public v1 API (`/api/read/json`). Images came from Tumblr's own export, which has the original files (the API only serves up to 1280px for older posts). The originals contained iPhone GPS coordinates (home addresses), so all metadata except orientation and ICC profile was stripped with exiftool. The one video was re-encoded to fit the 5 MB pre-commit limit. The one-off converter script was not kept. The 2020 post "my other blog" was updated to point at `/categories/tumblr/`.
